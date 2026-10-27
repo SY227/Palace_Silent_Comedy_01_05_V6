@@ -1,0 +1,21 @@
+HISTORICAL V5 CHANGE LOG — superseded by V6 audio/reflection rules.
+V5歷史變更記錄：音訊及反射規則以V6為準。
+
+V5 / 26 OCTOBER 2026, LOS ANGELES
+User instruction: keep everything; fine tune micro expressions and gestures for all prompts and reference images; make each story message obvious.
+本版要求：保留現有方向，全面微調提示詞與參考圖的微表情、手勢，讓每集故事意思清楚。
+
+Preserved: five plots, 15 seconds, eight separate reference states each, heroine identity/wardrobe, positions and physical solutions, silent format, no subtitles/product/UI, small signature bow, relaxed instrumental jazz, EN/TC instruction pairs, fallback and optional API workflow.
+保留：五個故事、15秒、每集八張獨立圖、角色服裝、位置及物理解法、無聲形式、無字幕／產品／介面、招牌小鞠躬、輕爵士、英繁指令、備用與選用API流程。
+
+Refined: object-directed gaze; delayed smiles; concentrated contact; visible proof before relief; a specific self-aware reaction in each story. All eight states in every episode receive an image edit and performance instructions.
+微調：看向道具的眼神、延後微笑、專注接觸、先見結果才安心，以及每集不同的自我領悟反應。五集每個參考狀態均更新圖像及表演指示。
+
+Latest supplied video reviewed visually: 1(2).mp4, mirror episode, 15.041667 seconds, 784x1168, 24 fps. The mirror action around2.5-5.5s is the strongest cause-and-effect beat. Opening0-2s reads as shared posing; late8-12.5s glances do not clearly compare the phone and mirror. These observations informed the performance revision. Audio was not evaluated.
+最新提供影片為鏡子一集，15.041667秒、784x1168、24fps。約2.5-5.5秒的調鏡因果最好；0-2秒較像共同擺姿勢，8-12.5秒眼神未清楚比較手機與鏡子。此次按這些畫面觀察改表演，未評估聲音。
+
+The supplied take is not9:16. Select9:16 at generation/export; retain full contact/prop areas. Do not stretch the heroine or crop away the mirror, window switch, push bar, paper tail or door seam.
+提供影片比例並非9:16。生成／匯出時選9:16，保留完整接觸及道具範圍；不要拉伸角色或裁掉鏡子、車窗開關、推桿、紙尾、門縫。
+
+This package is production material, not newly generated MP4s. No audio recording, paid video generation, live API request or publication was performed. Static image/script checks cannot guarantee generated motion or audience response.
+本包為製作素材，並非新生成MP4。未製作音樂錄音、付費生成影片、呼叫實際影片API或發布。靜態圖與腳本檢查不等於保證生成動作或觀眾反應。

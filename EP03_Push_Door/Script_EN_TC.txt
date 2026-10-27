@@ -1,0 +1,51 @@
+EP03 / Try the Other Direction / 試試另一個方向
+
+SILENT VISUAL FOOTAGE ONLY. Both characters keep their lips softly CLOSED throughout. No speech, lip-sync, word-shaped mouth movements, moving jaw, teeth, tongue, open-mouth laughter, gasps or sighs. Tell the joke through eyes, eyebrows, small head movements and posture.
+只生成無聲畫面。兩人全程嘴唇自然輕閉；不說話、不對嘴、不做說話口型、不動下顎、不露齒或舌頭、不張嘴笑、不喘氣或嘆氣。用眼神、眉毛、小幅頭部動作及姿態說故事。
+
+Push, do not pull. / 該推的門，不必用力拉。
+Directing intent only; never written or spoken. / 只供導演參考，不顯示或說出。
+
+Inside a modern studio lobby, one glass door leads to an empty courtyard. Its horizontal push bar is on the near interior face. Hinges are fixed on the viewer-left jamb, so the panel opens AWAY from the camera into the courtyard. The fixed interior three-quarter view shows bar, jamb, threshold and both adults’ feet. The man in mustard stands screen-left; heroine screen-right near the bar’s free end. Both stand inside behind the threshold and outside the panel’s swing path. Keep the original hinge, handle geometry and floor lines. The open door can remain open without a visible closing spring.
+現代工作室大堂內，一扇玻璃門通往空庭院。橫向推桿在靠鏡頭的室內面；鉸鏈固定於畫面左門框，門片朝遠離鏡頭方向、向庭院打開。固定的室內四分之三鏡位看見推桿、門框、門檻及兩人的雙腳。芥黃上衣男子在畫面左，女主在畫面右、推桿自由端附近。兩人均站門檻後的室內，避開門片轉動路徑。保持原有鉸鏈、把手結構及地磚線；門打開後可停在原位，沒有可見閉門彈簧。
+
+0-1.5s
+The man already grasps the bar with both hands and pulls toward himself, brow pinched and feet planted, shoulders leaning slightly back. The fully closed door does not budge. The heroine studies the direction of his pull, not his face.
+男子已雙手握桿向自己拉，眉心皺起、雙腳站穩、肩膀略後傾，完整關上的門沒有動。女主看他拉的方向，不看他的臉。
+
+1.5-3s
+At 1.5 seconds he starts the second compact tug with a brief cheek puff. Nothing changes. He releases, withdraws hands near his chest and straightens with one visible small foot reposition indoors, all complete by 3 seconds. Heroine has raised RIGHT palm toward the free end, still just before contact.
+第1.5秒男子短暫鼓頰，開始第二次短促拉動；門不動。他放手、雙手收胸前附近，站直並在室內清楚小調一次腳步，全部於第3秒完成。女主右掌已抬向自由端，仍在接觸之前。
+
+3-5s
+Continue her short RIGHT-palm approach. His hands and stance are already settled inside. Her flat palm contacts the moving bar near its free end, not the fixed latch housing; eyes focus there. Only after visible contact does outward movement begin, already slightly underway by 5 seconds.
+延續女主右掌的短距離靠近。男子的手與站姿已在室內停穩。她平掌接觸活動推桿自由端附近，不碰固定鎖殼，目光專注接觸點；清楚碰到後才向外動，第5秒已略微開始打開。
+
+5-7s
+Her RIGHT palm gently pushes away from the camera, following the bar. The same panel pivots on the original viewer-left hinge into the empty courtyard to the verified angle, roughly 45 degrees, by 7 seconds. He watches the opening gap, eyebrows lifting slightly as effort proves unnecessary.
+女主右掌輕輕向遠離鏡頭方向推，手隨桿走。同一門片沿原有畫面左鉸鏈向空庭院轉，第7秒達已確認的約45度角。男子看正在打開的空隙，眉毛輕抬，發現原來不需用力。
+
+7-9s
+The door holds the same open angle. She withdraws her RIGHT hand after it settles. The free bottom corner is beyond the threshold outside; both adults and all feet stay inside. The man looks from the easy open path down to his own hands by 9 seconds.
+門保持同一開啟角度，停穩後女主才收右手。門片自由底角在門檻外庭院側，兩人及所有雙腳留室內。第9秒男子由輕鬆打開的通道低眼看自己雙手。
+
+9-11.5s
+He turns his empty palms upward once, studying the hands that were pulling. Shoulders drop; lips press briefly in mild embarrassment. By 11.5 seconds she has withdrawn both hands to rest loosely at her own waist, with a tiny kind smile. The open path remains unobscured.
+男子只一次把空掌翻上，看剛才用來拉門的雙手；肩膀放鬆、短暫抿嘴有點尷尬。第11.5秒女主雙手已收至自己的腰前鬆放，帶極淡友善笑。打開的通道保持不被遮擋。
+
+11.5-13.5s
+He lowers his palms with a restrained sheepish half-smile. Her hands rest loosely folded at her own waist, not yet the formal palms-together gesture. Feet stay planted; nobody enters or crosses the doorway. Avoid repeated glances between their faces.
+男子帶克制的尷尬淡笑放下手掌。女主雙手鬆鬆疊於自己的腰前，尚未正式合掌。雙腳站原位，無人進入或跨過門口，不反覆互望臉部。
+
+13.5-15s
+With the door still open, she joins both empty flat palms at lower sternum and makes one shallow forward bow, eyes gently lowered. Both bodies stay clear of the panel. Hold a brief settled beat, not a deep waist bend.
+門仍開著，女主兩隻空手於胸骨下方平貼合掌，目光輕垂，淺淺前欠一次。兩人身體避開門片，短暫停穩，不深彎腰。
+
+
+
+
+POST-PRODUCTION ONLY: remove or disable the complete generated source-audio track before editing. Add one original or appropriately licensed relaxed instrumental jazz bed around 80 BPM: soft piano, sparse upright bass and brushed drums, continuous through the bow. No vocals, humming, scat, speech, laugh track or comedy sting. Add clean synchronized object Foley separately, with no human voices; keep music below useful contact sounds. Do not add jazz or Foley instructions to the silent generation prompt. If your interface explicitly offers audio-off, use it; no such UI or API setting is assumed here. Still inspect every face for talking-like animation.
+EPISODE FOLEY: Quiet lobby ambience, two restrained unsuccessful bar tugs and one soft latch/hinge sound timed to the successful push.
+
+僅後期處理：剪輯前先完整移除或停用生成素材的原音軌。另加一段原創或已取得適當授權、約每分鐘80拍的輕鬆爵士純演奏：柔和鋼琴、疏落低音提琴與刷奏爵士鼓，樂句連續至合掌。無歌聲、哼唱、擬聲唱、說話、罐頭笑聲或笑點提示音。另配乾淨、同步、無人聲的物件音效，爵士低於重要接觸聲。不要把爵士或音效製作指示貼入無聲畫面生成提示詞。若介面明確提供關閉音訊功能可使用，本包不假設存在該介面或API設定。仍須逐一檢查臉部有沒有說話動作。
+本集後期物件音效：低調大堂底聲、兩次克制的無效拉桿聲，以及與成功推門同步的輕微門閂及鉸鏈聲。

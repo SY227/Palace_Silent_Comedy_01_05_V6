@@ -1,0 +1,41 @@
+V6 REQUIRED: silent visual generation; closed mouths; soundtrack added in post.
+V6必要流程：生成無聲畫面、嘴唇閉合、音軌後期加入。
+Read Audio_And_Reflection_Control_EN_TC.txt in00_Series.
+請看00_Series內Audio_And_Reflection_Control_EN_TC.txt。
+
+FINAL TAKE CHECK - RUN AT NORMAL SPEED AND FRAME BY FRAME
+成片檢查 - 正常速度及逐格各看一次
+
+1. Problem exists at frame one: latched seam, trapped hair, ceiling mirror, closed push door, or a manual dispenser being mistaken for a sensor.
+首幀問題真的存在：門縫夾衣、車窗夾髮、鏡子朝頂、推門關閉，或對手動紙機揮手。
+2. Contact is visible before the effect. The correct person's correct hand touches the existing mechanism.
+先有可見接觸，才有結果；正確人物的手碰到原有機構。
+3. Track one object through all states: no extra cloth, disappearing hair, changing paper size, migrating hinges or teleporting phone.
+追蹤同一物件：不多出布條、不消失頭髮、不改紙張尺寸、不換鉸鏈、不瞬移手機。
+4. Bodies and solid objects occupy separate space. Feet stay planted unless a visible step is shown. Door swings into empty space; seated hips/knees face forward.
+人體與實物不能穿透；沒有交代步伐就不換站位。門朝空處開，坐姿髖膝朝前。
+5. The reaction follows the visible result. One clear embarrassed realization replaces a long exchange of smiles.
+結果發生後才反應；用一次清楚的尷尬醒悟取代長時間微笑對望。
+6. Both hands are empty and belong to the heroine before her short palms-together bow. Seated bow is over her own lap.
+合掌前女主雙手已空出且歸屬清楚；坐姿向自己膝前欠身。
+7. Keep a 15-second9:16 export, no voices/text/product/gameUI. Jazz stays below useful action sounds. Watch once muted to test the visual joke.
+輸出15秒9:16，不含人聲、文字、產品或遊戲UI；爵士低於動作聲，再靜音看一次驗證笑點。
+
+A failure means repair that shot or regenerate the take; adding a longer negative prompt alone is not a verified fix. Reference/script preflight is separate from rendered-motion review. V6 provides production materials, not a tested new video.
+失敗時修復該鏡或重新生成；加長禁止事項本身不等於已修好。腳本／參考圖檢查與實際動態檢查分開。V6提供製作素材，並非已驗收的新成片。
+
+
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+只生成無聲畫面。兩名角色全程不說話，嘴唇自然輕閉：不對嘴、不做說話口型、不活動下顎、不露齒或舌頭、不張嘴笑、不喘氣、不嘆氣、不發任何人聲。只用眼神、眉毛、小幅頭部動作及姿態表演。不生成音訊：沒有人聲、旁白、音樂或音效；音軌另於後期加入。
+
+POST-PRODUCTION ONLY: remove or disable the complete generated source-audio track before editing. Add one original or appropriately licensed relaxed instrumental jazz bed around 80 BPM: soft piano, sparse upright bass and brushed drums, continuous through the bow. No vocals, humming, scat, speech, laugh track or comedy sting. Add clean synchronized object Foley separately, with no human voices; keep music below useful contact sounds. Do not add jazz or Foley instructions to the silent generation prompt. If your interface explicitly offers audio-off, use it; no such UI or API setting is assumed here. Still inspect every face for talking-like animation.
+僅後期處理：剪輯前先完整移除或停用生成素材的原音軌。另加一段原創或已取得適當授權、約每分鐘80拍的輕鬆爵士純演奏：柔和鋼琴、疏落低音提琴與刷奏爵士鼓，樂句連續至合掌。無歌聲、哼唱、擬聲唱、說話、罐頭笑聲或笑點提示音。另配乾淨、同步、無人聲的物件音效，爵士低於重要接觸聲。不要把爵士或音效製作指示貼入無聲畫面生成提示詞。若介面明確提供關閉音訊功能可使用，本包不假設存在該介面或API設定。仍須逐一檢查臉部有沒有說話動作。
+
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+保留原有玻璃透明度與反射空間，不新增反射人臉、重複人物或不可能的鏡中房間；非故事重點的反射保持簡單穩定。
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+Optional offline export helper: 04_Advanced/export_without_source_audio.py. It removes the original audio completely and can accept a separately supplied music track; this never fixes visible talking. Verify the actual final export is 15 seconds and 9:16. Do not stretch faces or blindly crop key action to force the ratio.
+選用離線輸出工具：04_Advanced/export_without_source_audio.py。完整移除原音軌，可另用獨立提供的配樂；它不能修好可見說話動作。實際輸出須檢查15秒及9:16；不要拉伸臉部或盲目裁掉關鍵動作來硬湊比例。

@@ -1,0 +1,60 @@
+{
+  "reviewer": "v6_deck",
+  "status": "pass",
+  "pdf_sha256": "28fe10bf2ee113db0700e5e5337c9af07ddf904d955ab4dda0b1547a253c6f7a",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "page_hashes": {
+    "page-01": "ebca1517ea9b08f0add4d34e3fc3cabd0aeaa431b8dd7187086e1b35a4c78232",
+    "page-02": "d6f9cc68520a28ca4e738dac446cb1d98a5c46b5801e4d28704a912a8e6a9b75",
+    "page-03": "336caf43506f4e0edfb8b159ee1a91e573847d97c8d40010c93c92106aad997c",
+    "page-04": "ba5731edfa045430e63a0dcabf3b221b34659c855f82b4e005ab8e6f0784a42e",
+    "page-05": "c1038a2a404e416b8df15aa5262f85485fe81568849151025d3c5afc19e29028",
+    "page-06": "9f25349e5e5d55777e94d79b46e8b76eebea274690f1cafbcb1774315530f0a5",
+    "page-07": "30bf4c255681d925bf943c609b03cdfe883d90d2dbeb056cd6c2f8b78bb4bab9",
+    "page-08": "fabf2292f12b3215d817c40cb1e3e479938f28129c990700776f54ed8caa3461",
+    "page-09": "1634cec9534e70b5efc576ef7ce1d4410e0ad2c8a4e8378c71b47af51c126ff5",
+    "page-10": "a4862499d9a0133d5b98d8fd9c4ef3dabec52ab3d31aaa7baf9c759d74d1611b",
+    "page-11": "19e9e09fbb52576ba9490a41264f5c104190ad81ec02da8dd336f7eeda0836b4",
+    "page-12": "076bb97beccd710d82cb451c2bcac2a9db8757c66c1403594ba6b304750561fb",
+    "page-13": "a225588a13ddd44dad0a9245ec263285fac04085fb84b60d34519086324dc1b6",
+    "page-14": "4563ce013366a0f8805019fc6ac1c8c48a3e6baf29708b035b63a8bf6ffe5722",
+    "page-15": "8fd806f53e588ff319f959b4bc01cd63c19032f9c547ad191a268fcf5fa5ad3d",
+    "page-16": "0b789442f51716caa091dda8cc43b58b175cd3e70bab3e2872e96f7106929046",
+    "page-17": "8677098b1f3b12ca8775295db35c9aac85d92c437b28d4d54df7f26ab5ff3225",
+    "page-18": "9f80dcdcf320e46a134c4d5d1d32d3e3ccf376e3652b26fe38bfdd6184ea004f",
+    "page-19": "f0126b9daed611aefa08462668dbd547b9f92b972bef17b1498fddd1ba2c8d76",
+    "page-20": "f7abc02382d075387b10151d2ad2f6e3968a07f1b52f6fba0a025976f58bd369"
+  },
+  "review_method": "All pages1-20 inspected in rendered contact sheets; critical control, full-prompt, performance and changed reference pages inspected at full resolution.",
+  "findings": [
+    "No clipping, overlapping body text or missing CJK characters in final render.",
+    "Bilingual column headers corrected to CJK-capable font.",
+    "Final EP01 F01-F03 show upward mirror pitch and headliner; F04 shows corrected rear courtyard with visible rim contact.",
+    "Main prompt EN/TC text matches canonical source exactly ignoring whitespace.",
+    "Production instructions separate silent visual generation from post-production jazz and Foley; muted audio explicitly does not repair talking mouths."
+  ],
+  "limitations": [
+    "PDF and static image review only; generated video motion and final audio are not verified."
+  ]
+}

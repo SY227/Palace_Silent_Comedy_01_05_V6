@@ -1,0 +1,72 @@
+{
+  "revision": "V6",
+  "episodes": 5,
+  "duration_per_episode_seconds": 15,
+  "story_reference_images": 40,
+  "newly_edited_images": 8,
+  "retained_images": 32,
+  "main_prompts": 10,
+  "fallback_prompts": 10,
+  "repair_prompts": 40,
+  "offline_request_checks": [
+    {
+      "episode": "EP01",
+      "mode": "anchors",
+      "verified": true
+    },
+    {
+      "episode": "EP01",
+      "mode": "references",
+      "verified": true
+    },
+    {
+      "episode": "EP02",
+      "mode": "anchors",
+      "verified": true
+    },
+    {
+      "episode": "EP02",
+      "mode": "references",
+      "verified": true
+    },
+    {
+      "episode": "EP03",
+      "mode": "anchors",
+      "verified": true
+    },
+    {
+      "episode": "EP03",
+      "mode": "references",
+      "verified": true
+    },
+    {
+      "episode": "EP04",
+      "mode": "anchors",
+      "verified": true
+    },
+    {
+      "episode": "EP04",
+      "mode": "references",
+      "verified": true
+    },
+    {
+      "episode": "EP05",
+      "mode": "anchors",
+      "verified": true
+    },
+    {
+      "episode": "EP05",
+      "mode": "references",
+      "verified": true
+    }
+  ],
+  "audio_export_test": "Attached source video exported without any audio streams; original left unchanged. Test output is not delivered.",
+  "no_new_video_generation": true,
+  "music_file_included": false,
+  "motion_review_required": true,
+  "source_audio_assessed": "User reported speech; video mouths reviewed visually. Source audio not listened to/transcribed.",
+  "pdf_pages": 60,
+  "pdf_sha256": "28fe10bf2ee113db0700e5e5337c9af07ddf904d955ab4dda0b1547a253c6f7a",
+  "pdf_prompt_match": "All ten main prompts exactly match source after whitespace normalization.",
+  "pdf_visual_review": "All 60 final pages reviewed; unchanged pages confirmed by hash."
+}

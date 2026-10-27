@@ -1,0 +1,175 @@
+{
+  "status": "pass_final",
+  "scope": "Final rendered PDF pages21-40; static PDF layout/instruction QA only. No video motion/audio tested.",
+  "review_method": "Viewed four five-page contact sheets and full-size1280x720 prompt pages24-27 and34-37.",
+  "hard_blockers": [],
+  "pages": [
+    {
+      "page": 21,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-21.png",
+      "sha256": "16fa4ed9aad6992f667f8ddecac3b0e4497a952d3240c32f1283e5c09b0b4a1d",
+      "result": "pass",
+      "note": "EP02 acting F01-F04: EN/TC lines readable, no clipping; button/scissors eyelines and closed mouths specified.",
+      "draft_sha256": "16fa4ed9aad6992f667f8ddecac3b0e4497a952d3240c32f1283e5c09b0b4a1d"
+    },
+    {
+      "page": 22,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-22.png",
+      "sha256": "c07307af4237e3f6294daff87957fc38962edf3ae7da7693bda4ab407ce0ee24",
+      "result": "pass",
+      "note": "EP02 acting F05-F08: visible result precedes relief; closed-mouth performance and seated bow readable.",
+      "draft_sha256": "c07307af4237e3f6294daff87957fc38962edf3ae7da7693bda4ab407ce0ee24"
+    },
+    {
+      "page": 23,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-23.png",
+      "sha256": "8384d461a710174a8d5c927daa3ff99252bc2dcac5487c0b90206e1933dee90b",
+      "result": "pass",
+      "note": "EP02 physical checklist fits both columns; no mouth/voice acceptance loophole. Final CJK column headers now legible and unclipped; visually re-reviewed.",
+      "draft_sha256": "eec33c32b7f25f3ef9d6aab2f0e0dd7a4211e77020f9b5b75a13183d678a2910"
+    },
+    {
+      "page": 24,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-24.png",
+      "sha256": "c39a9db9f2f397b2f45ad97924c953a6f2eec9d7f3d255bc89a6a5d4f9c94f4c",
+      "result": "pass",
+      "note": "EP02 EN prompt1/2 fully visible; no audio and no voice references at top; valid initial hair/scissors/contact states.",
+      "draft_sha256": "c39a9db9f2f397b2f45ad97924c953a6f2eec9d7f3d255bc89a6a5d4f9c94f4c"
+    },
+    {
+      "page": 25,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-25.png",
+      "sha256": "0e74be2bb1873c9094a98e78019727de5aa9b43bbff4e8d8840161419c59f513",
+      "result": "pass",
+      "note": "EP02 EN prompt2/2 fully visible; post sound separated; reject talking even muted.",
+      "draft_sha256": "0e74be2bb1873c9094a98e78019727de5aa9b43bbff4e8d8840161419c59f513"
+    },
+    {
+      "page": 26,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-26.png",
+      "sha256": "4186752c1d9d0dd6ba1bd8188aa1b4ee1f802c6daa3163e11b53709413ed4aff",
+      "result": "pass",
+      "note": "EP02 TC prompt1/2 fully visible; Chinese glyphs render; clear closed-mouth/no-audio wording.",
+      "draft_sha256": "4186752c1d9d0dd6ba1bd8188aa1b4ee1f802c6daa3163e11b53709413ed4aff"
+    },
+    {
+      "page": 27,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-27.png",
+      "sha256": "dbf94c8ae7dd0db1f9f3a924f9c1abeab69a6a730ecf6322c04f8804185acc52",
+      "result": "pass",
+      "note": "EP02 TC prompt2/2 fully visible; no bottom clipping, footer clear; control-before-effect instructions retained.",
+      "draft_sha256": "dbf94c8ae7dd0db1f9f3a924f9c1abeab69a6a730ecf6322c04f8804185acc52"
+    },
+    {
+      "page": 28,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-28.png",
+      "sha256": "91ead457387f8fada7eb1574de4aec232bc47e397f835bc5d318a444c276274e",
+      "result": "pass",
+      "note": "EP03 story-intent page readable; message explicitly production-only, no spoken/written film message.",
+      "draft_sha256": "91ead457387f8fada7eb1574de4aec232bc47e397f835bc5d318a444c276274e"
+    },
+    {
+      "page": 29,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-29.png",
+      "sha256": "99eb628bd112201efd7a19146be766627834bbeb1b2ae436b1b4cfb98bcd09c5",
+      "result": "pass",
+      "note": "EP03 reference states1-4: all four separate frames uncropped; captions fit.",
+      "draft_sha256": "99eb628bd112201efd7a19146be766627834bbeb1b2ae436b1b4cfb98bcd09c5"
+    },
+    {
+      "page": 30,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-30.png",
+      "sha256": "85b042b6aacfbc19bdf568671ac4a8294210ed71dec01ebd6b87f725453b91b6",
+      "result": "pass",
+      "note": "EP03 reference states5-8: opening and empty-hand bow visible; all captions fit.",
+      "draft_sha256": "85b042b6aacfbc19bdf568671ac4a8294210ed71dec01ebd6b87f725453b91b6"
+    },
+    {
+      "page": 31,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-31.png",
+      "sha256": "254c52393ac9cd3a3334e205f0b9d2ac0d7f8a2796b1795e7ca6eafd7867caed",
+      "result": "pass",
+      "note": "EP03 acting1-4 readable in EN/TC, contact hand ownership and closed mouths clear.",
+      "draft_sha256": "254c52393ac9cd3a3334e205f0b9d2ac0d7f8a2796b1795e7ca6eafd7867caed"
+    },
+    {
+      "page": 32,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-32.png",
+      "sha256": "3fd0733fa146b0c25f8ed7e25bc7083cf10a3e218eab1e337012e5216b935000",
+      "result": "pass",
+      "note": "EP03 acting5-8 readable in EN/TC; no early smile or talking direction.",
+      "draft_sha256": "3fd0733fa146b0c25f8ed7e25bc7083cf10a3e218eab1e337012e5216b935000"
+    },
+    {
+      "page": 33,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-33.png",
+      "sha256": "a5bb11107284dbfdee2691cbaa8652120f4461e70f5048cb60a66a85cffe56ad",
+      "result": "pass",
+      "note": "EP03 physical checklist fits; hinge direction, inside feet, no passing through door; silence rejection clear. Final CJK column headers now legible and unclipped; visually re-reviewed.",
+      "draft_sha256": "db417bf9de4c7dbbfdb4b92bd0ba077592d349a30a0ba2eac863e0530a8a5cd9"
+    },
+    {
+      "page": 34,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-34.png",
+      "sha256": "3a088601f20b2bc6bd6ae3d230b37a03536538fd6c053ab01e3d657883de07bf",
+      "result": "pass",
+      "note": "EP03 EN prompt1/2 fully visible; fixed hinge/open-away direction and silence instructions readable.",
+      "draft_sha256": "3a088601f20b2bc6bd6ae3d230b37a03536538fd6c053ab01e3d657883de07bf"
+    },
+    {
+      "page": 35,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-35.png",
+      "sha256": "50601d9066c6405e1b187ca918ab26e07d7dbb02ad7aa6811feed58e7da78c6e",
+      "result": "pass",
+      "note": "EP03 EN prompt2/2 fully visible; no source sound requested; no clipping at bottom.",
+      "draft_sha256": "50601d9066c6405e1b187ca918ab26e07d7dbb02ad7aa6811feed58e7da78c6e"
+    },
+    {
+      "page": 36,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-36.png",
+      "sha256": "8c5ee3b59ac41e471cd563518120eb6dfb23bd015b7d1113de336c6c681230a5",
+      "result": "pass",
+      "note": "EP03 TC prompt1/2 fully visible; natural closed-mouth instructions and chronology retained.",
+      "draft_sha256": "8c5ee3b59ac41e471cd563518120eb6dfb23bd015b7d1113de336c6c681230a5"
+    },
+    {
+      "page": 37,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-37.png",
+      "sha256": "ac737851ae092a64c95a8c215c6853609aeb8d7fdfa1f8b8eb552a22c96bf0c6",
+      "result": "pass",
+      "note": "EP03 TC prompt2/2 fully visible; no Chinese missing glyphs, bottom text and footer separate.",
+      "draft_sha256": "ac737851ae092a64c95a8c215c6853609aeb8d7fdfa1f8b8eb552a22c96bf0c6"
+    },
+    {
+      "page": 38,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-38.png",
+      "sha256": "3bd0057c10cfb568b7d9ebe4fcdbb9d7bdf2d17a0572da79368f54a29091d211",
+      "result": "pass",
+      "note": "EP04 intent page readable; paper solution shown; story message is producer intent only.",
+      "draft_sha256": "3bd0057c10cfb568b7d9ebe4fcdbb9d7bdf2d17a0572da79368f54a29091d211"
+    },
+    {
+      "page": 39,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-39.png",
+      "sha256": "47431af0fe6c9856593d3ebbbda061f963e63d38a476fa1859aec50be29b342b",
+      "result": "pass",
+      "note": "EP04 reference1-4: four separate image cards fit; fixed dispenser and paper readable.",
+      "draft_sha256": "47431af0fe6c9856593d3ebbbda061f963e63d38a476fa1859aec50be29b342b"
+    },
+    {
+      "page": 40,
+      "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/deck/page-40.png",
+      "sha256": "57e34bba80b923e0213995a0ab030df0dfd123e6b2c34feb01d07be7df59b172",
+      "result": "pass",
+      "note": "EP04 reference5-8: same paper and signature readable; captions fit.",
+      "draft_sha256": "57e34bba80b923e0213995a0ab030df0dfd123e6b2c34feb01d07be7df59b172"
+    }
+  ],
+  "final_hash_check_pending": false,
+  "final_pdf_sha256": "28fe10bf2ee113db0700e5e5337c9af07ddf904d955ab4dda0b1547a253c6f7a",
+  "final_review_method": "Compared every final page SHA-256 to reviewed draft;18 unchanged. Visually re-reviewed changed pages23 and33 at1280x720: bilingual column headers render correctly, all text fits, no clipping.",
+  "changed_pages_rechecked": [
+    23,
+    33
+  ]
+}

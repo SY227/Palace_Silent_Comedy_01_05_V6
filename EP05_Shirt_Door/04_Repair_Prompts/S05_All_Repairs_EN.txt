@@ -1,0 +1,118 @@
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+
+Create a wordless vertical 9:16 repair source shot for this same episode. Its action window will occupy 3 seconds in the final edit, replacing full-film 0-3s; it is not a new episode. All action-cue times are LOCAL to this source clip; reference provenance uses explicitly stated full-film times. Local 0 equals full-film 0s. If source duration is longer, hold the finished END STATE afterward with no additional action.
+
+INPUTS
+Attach these scene images in order: S05_F01.png, S05_F02.png, S05_F03.png. Start from S05_F01.png; if an explicit first-frame control exists, place only that image there. Remaining files guide subsequent states, not automatic time pins. If a last-frame control is available, S05_F03.png is the end-state target. Otherwise use it as visual guidance only.
+
+START STATE at local 0
+Door is fully latched and flush closed. Broad intact blue hem ends in the trailing seam. Man LEFT hand tests that hem, RIGHT empty down; heroine both hands down.
+
+LOCAL ACTION
+Local 0-1.5 seconds: Start on the fully CLOSED latched door with the broad blue shirt corner clearly clamped in its trailing seam. The man looks directly at the snag, brow pinched, and gives a mild LEFT-hand tug. Cloth stays continuous from shirt body to seam; heroine studies the same snag.
+
+Local 1.5-3 seconds: At 1.5 seconds he briefly puffs cheeks for the second mild LEFT-hand tug, then stops by 3 seconds and only holds the cloth. She looks from snag to handle with a slight eyebrow lift; her RIGHT fingers establish contact on that handle by 3 seconds. Door remains fully shut, hem trapped.
+
+END STATE at local 3s
+Door remains closed and hem trapped. Heroine RIGHT fingers grip actual exterior handle; LEFT down. Man stops tugging but lightly holds hem with LEFT.
+
+CONTINUITY
+One door, fixed front-edge hinge and trailing seam. Heroine RIGHT uses the exterior handle; man LEFT holds only his own broad intact hem. No ribbon or elastic strand. Door opens before release; all cloth clears before closure. Her fingers stay outside the seam; both bodies remain outside the swing path. Do not reset the segment’s starting door state. Preserve accepted character identity, styling and camera axis.
+
+PERFORMANCE AND SOUND
+One dominant facial cue per beat, eyes targeting the problem/control/result/redundant method. No premature relief, repeated mutual gaze, dialogue, readable text or new gesture. Generate no audio; music and synchronized object Foley are added separately in post. Preserve the complete film at 15 seconds in the final edit.
+
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+
+Create a wordless vertical 9:16 repair source shot for this same episode. Its action window will occupy 4 seconds in the final edit, replacing full-film 3-7s; it is not a new episode. All action-cue times are LOCAL to this source clip; reference provenance uses explicitly stated full-film times. Local 0 equals full-film 3s. If source duration is longer, hold the finished END STATE afterward with no additional action.
+
+INPUTS
+Attach these scene images in order: S05_F03.png, S05_F04.png, S05_F05.png. Start from S05_F03.png; if an explicit first-frame control exists, place only that image there. Remaining files guide subsequent states, not automatic time pins. If a last-frame control is available, S05_F05.png is the end-state target. Otherwise use it as visual guidance only.
+
+START STATE at local 0
+Door remains closed and hem trapped. Heroine RIGHT fingers grip actual exterior handle; LEFT down. Man stops tugging but lightly holds hem with LEFT.
+
+LOCAL ACTION
+Local 0-2 seconds: Starting from her established RIGHT grip on the exterior handle, she unlatches and opens the same panel a little. Man LEFT holds the hem lightly without tugging. The seam must separate before the cloth releases. By 2 seconds the door is ajar and the intact hem is visibly free.
+
+Local 2-4 seconds: She holds the same small opening at the exterior handle, eyes checking the seam. With LEFT, he draws every fold of that freed broad corner toward his own hip until the closing seam is visibly empty by 4 seconds. His brow relaxes only after release; both bodies stay outside the arc.
+
+END STATE at local 4s
+Door holds the same small opening. Man LEFT moves all free broad cloth toward own hip, leaving a visible gap from the empty closing seam. Her RIGHT holds handle.
+
+CONTINUITY
+One door, fixed front-edge hinge and trailing seam. Heroine RIGHT uses the exterior handle; man LEFT holds only his own broad intact hem. No ribbon or elastic strand. Door opens before release; all cloth clears before closure. Her fingers stay outside the seam; both bodies remain outside the swing path. Do not reset the segment’s starting door state. Preserve accepted character identity, styling and camera axis.
+
+PERFORMANCE AND SOUND
+One dominant facial cue per beat, eyes targeting the problem/control/result/redundant method. No premature relief, repeated mutual gaze, dialogue, readable text or new gesture. Generate no audio; music and synchronized object Foley are added separately in post. Preserve the complete film at 15 seconds in the final edit.
+
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+
+Create a wordless vertical 9:16 repair source shot for this same episode. Its action window will occupy 6.5 seconds in the final edit, replacing full-film 7-13.5s; it is not a new episode. All action-cue times are LOCAL to this source clip; reference provenance uses explicitly stated full-film times. Local 0 equals full-film 7s. If source duration is longer, hold the finished END STATE afterward with no additional action.
+
+INPUTS
+Attach these scene images in order: S05_F05.png, S05_F06.png, S05_F07.png. Start from S05_F05.png; if an explicit first-frame control exists, place only that image there. Remaining files guide subsequent states, not automatic time pins. There is no supplied exact 13.5s still. The last supplied reference is a recognition guide at 11.5s; finish the remaining small settling motion into the END STATE below. Do not pin that earlier frame to the end.
+
+START STATE at local 0
+Door holds the same small opening. Man LEFT moves all free broad cloth toward own hip, leaving a visible gap from the empty closing seam. Her RIGHT holds handle.
+
+LOCAL ACTION
+Local 0-2 seconds: Only after all cloth and fingers are clear, she gently closes the same panel. RIGHT stays safely on the exterior handle outside the seam, then releases after latching and lowers by 2 seconds. The flush closed door and fully outside intact shirt visibly prove the fix.
+
+Local 2-4.5 seconds: He looks from the handle down to his intact free hem and smooths it once with LEFT. A small closed-lip press and relaxed shoulders show embarrassment at having tugged instead of opening. Her RIGHT remains down; she allows a tiny patient smile only now.
+
+Local 4.5-6.5 seconds: He releases the hem and lets both hands settle at his sides; no extra head shake or tug. She keeps her gaze on the solved problem instead of prolonging a mutual look. Both remain in the same positions, hands empty and clear of the car, ready for the final bow.
+
+END STATE at local 6.5s
+Door is fully closed and shirt free and intact outside the seam. Man has released his hem and both his hands are down. Heroine hands are empty down at her sides; both bodies clear of door arc, no bow yet.
+
+CONTINUITY
+One door, fixed front-edge hinge and trailing seam. Heroine RIGHT uses the exterior handle; man LEFT holds only his own broad intact hem. No ribbon or elastic strand. Door opens before release; all cloth clears before closure. Her fingers stay outside the seam; both bodies remain outside the swing path. Do not reset the segment’s starting door state. Preserve accepted character identity, styling and camera axis.
+
+PERFORMANCE AND SOUND
+One dominant facial cue per beat, eyes targeting the problem/control/result/redundant method. No premature relief, repeated mutual gaze, dialogue, readable text or new gesture. Generate no audio; music and synchronized object Foley are added separately in post. Preserve the complete film at 15 seconds in the final edit.
+
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+
+Create a wordless vertical 9:16 repair source shot for this same episode. Its action window will occupy 1.5 seconds in the final edit, replacing full-film 13.5-15s; it is not a new episode. All action-cue times are LOCAL to this source clip; reference provenance uses explicitly stated full-film times. Local 0 equals full-film 13.5s. If source duration is longer, hold the finished END STATE afterward with no additional action.
+
+INPUTS
+For reference-image mode, attach S05_F07.png, S05_F08.png. F07 is a pre-bow posture/identity guide from 11.5s, not an exact 13.5s first frame; F08 is the ending guide. For first-frame-only mode, instead attach a still extracted at 13.5s from the accepted episode showing the START STATE below. Do not force F07 as an exact first frame if its hands or props have not yet settled. If a last-frame control is available, S05_F08.png is the end-state target. Otherwise use it as visual guidance only.
+
+START STATE at local 0
+Door is fully closed and shirt free and intact outside the seam. Man has released his hem and both his hands are down. Heroine hands are empty down at her sides; both bodies clear of door arc, no bow yet.
+
+LOCAL ACTION
+Local 0-1.5 seconds: She brings both empty flat palms together at lower sternum, eyes soft, and makes one shallow forward bow. Keep the door closed and shirt free. Settle briefly with palms joined after the bow, without adding another action.
+
+END STATE at local 1.5s
+Door stays closed and shirt hangs free. Heroine two empty flat palms are together at lower sternum, settled after one small bow; man hands empty down.
+
+CONTINUITY
+One door, fixed front-edge hinge and trailing seam. Heroine RIGHT uses the exterior handle; man LEFT holds only his own broad intact hem. No ribbon or elastic strand. Door opens before release; all cloth clears before closure. Her fingers stay outside the seam; both bodies remain outside the swing path. Do not reset the segment’s starting door state. Preserve accepted character identity, styling and camera axis.
+
+PERFORMANCE AND SOUND
+One dominant facial cue per beat, eyes targeting the problem/control/result/redundant method. No premature relief, repeated mutual gaze, dialogue, readable text or new gesture. Generate no audio; music and synchronized object Foley are added separately in post. Preserve the complete film at 15 seconds in the final edit.
+
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.

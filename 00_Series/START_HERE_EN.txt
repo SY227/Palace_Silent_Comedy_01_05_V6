@@ -1,0 +1,28 @@
+PALACE COMMON SENSE — V6
+Five wordless stories · 15 seconds each · Eight references per episode
+
+1. START FRESH
+Start a new generation. Do not attach the failed MP4: its talking-like mouth movement and wrong reflections can be copied. Use the new PNGs and one matching text prompt.
+
+2. ATTACH ONE EPISODE ONLY
+If your mode supports eight references, attach that episode’s separate F01-F08 PNGs in order from01_Reference_Images. Paste ONE complete Grok_EN or Grok_TC prompt from02_Grok_Prompts. Both languages direct the same wordless film. Do not attach the PDF, a contact sheet or a storyboard grid.
+
+3. CHECK THE OPENING
+If an explicit First frame control exists, assign F01 there. Check the opening preview against F01; EP01 must begin with beige headliner in the real mirror. Do not let F08 or an already corrected mirror become the first frame. Other ordinary references guide states, not automatic time pins.
+If only one image is supported, attach F01 and use the matching First_Frame_Only prompt. Do not paste the eight-input prompt while omitting its images. Optional API guidance is in04_Advanced; consumer interface capabilities are not assumed.
+
+4. GENERATE VISUALS WITHOUT AUDIO
+Request15 seconds and vertical9:16 where controls exist. Use closed-mouth, nonverbal acting only; no dialogue, narration, lip-sync or human utterances. Do not supply voice references/reference_audios. If an audio-off control is explicitly offered, use it; this package does not invent an API audio-off field.
+
+5. REVIEW THE PICTURE FIRST
+Watch muted at normal speed, then inspect contact frames. Any speaking-like mouth motion fails even after muting. Check the mistaken method, correct-hand contact, physical result and final empty-hand bow. EP01: LEFT fingers touch the BLACK mirror frame, never the phone; ceiling changes continuously to the empty rear courtyard only while the mirror rotates, then remains there through the bow. See the per-episode Physical_Sense_Check and00_Series/Audio_And_Reflection_Control_EN_TC.txt.
+
+6. ADD SOUND SEPARATELY
+Remove the entire generated source-audio track. Add one original or appropriately licensed instrumental jazz bed and clean synchronized object Foley in post. No voices, humming, scat, laughter track or human utterances. Music remains quiet beneath useful contact sounds. The package contains a music brief, not an audio recording.
+Optional04_Advanced/export_without_source_audio.py removes source audio and can accept a separately supplied music track. It cannot fix a moving mouth or incorrect reflection.
+
+7. REPAIR AND EXPORT
+Use the local repair prompts only to replace failed sections. Match both sides of the edit; keep the finished film15 seconds. Check the ACTUAL output is9:16, with faces and key contact props intact. Do not stretch or blindly crop the film. Listen to the complete final soundtrack with headphones; no speech or human vocal sounds may remain.
+
+WHAT IS INCLUDED
+Five episodes;40 separate story PNGs, EN/TC main and single-frame prompts,40 individual repair prompts, acting/physics/audio checks, optional offline helpers and a PDF deck. V6 edits the eight EP01 references and retains32 approved references forEP02-05. All five episodes receive the new silent-acting and audio workflow. No new MP4 or soundtrack was generated; static materials do not guarantee correct model motion.

@@ -1,0 +1,52 @@
+START A FRESH GENERATION. Do not attach the failed MP4: it contains talking-like mouth motion and incorrect reflections that can be copied. Attach only the current episode’s eight separate V6 PNGs in F01-F08 order if that mode supports eight references. Where an explicit First frame control exists, assign F01 there. Check the opening preview against F01 before generating; for EP01 it must show beige headliner in the mirror, not an already corrected rear view. If only one image is supported, attach F01 and use the matching First_Frame_Only prompt. Do not attach a PDF, contact sheet or storyboard grid, and do not use F08 as the opening. These instructions do not assume your consumer interface supports eight images or first-frame control.
+
+開始全新生成。不要附上失敗MP4，因為錯誤說話口型與反射可能被沿用。只在目前模式支援八張參考時，依F01至F08順序附該集新版八張獨立PNG。若有明確首幀控制，把F01指定為首幀。生成前核對開場預覽是否符合F01；EP01鏡中必須是米色車頂，不能已出現調好的後景。若只支援一張，附F01並使用對應First_Frame_Only提示詞。不附PDF、檢查拼圖或分鏡格，也不用F08當開場。本說明不假設一般介面必定支援八張圖或首幀控制。
+
+V6 REQUIRED: silent visual generation; closed mouths; soundtrack added in post.
+V6必要流程：生成無聲畫面、嘴唇閉合、音軌後期加入。
+Read Audio_And_Reflection_Control_EN_TC.txt in00_Series.
+請看00_Series內Audio_And_Reflection_Control_EN_TC.txt。
+
+EIGHT REFERENCES ARE EIGHT STORY STATES, NOT EIGHT AUTOMATIC PINS.
+八張參考圖代表八個故事狀態，不是八個自動鎖定點。
+
+Verified source, accessed 26 October 2026 (Los Angeles):
+https://docs.x.ai/developers/model-capabilities/video/reference-to-video
+https://docs.x.ai/developers/model-capabilities/video/image-to-video
+
+The official documentation describes grok-imagine-video-1.5 API support for up to 14 reference images and up to 15 seconds. It distinguishes reference guidance from image-to-video first-frame input. It also documents first/last frames and up to 4 interior timed keyframes. These API capabilities do not establish which controls are visible in your consumer Grok interface.
+官方文件記載 grok-imagine-video-1.5 API 可用最多14張參考圖及最長15秒，並區分一般參考與首幀輸入；亦支援首尾幀與最多4個中間定時關鍵幀。這不代表你的一般Grok介面必然顯示相同控制。
+
+MODE A - Eight reference images, 15 seconds:
+F01 F02 F03 F04 F05 F06 F07 F08 guide the eight intended states. The main prompt names this order. If F01 can be explicitly set as First frame, use it to preserve the initial problem. Other reference targets remain guidance rather than timed pins.
+模式A：8張圖引導8個狀態；如有首幀控制，將F01鎖為首幀。其餘一般參考圖仍是指引。
+
+MODE B - Optional API frame control using all eight assets:
+F01 = first frame. F08 = last frame.
+F03 = keyframe at 3s; F04 =5s; F05 =7s; F07 =11.5s.
+F02 and F06 = supplementary references, not timed keyframes.
+There are SIX pinned frames, plus TWO appearance/state references. Interior times snap to the model's documented one-third-second grid. The model must still synthesize correct motion between anchors.
+模式B：首幀F01、尾幀F08；中間鎖定F03@3秒、F04@5秒、F05@7秒、F07@11.5秒；F02、F06為補充參考。這是6個鎖定點加2張指引，不是8個鎖定點；中間時點依文件吸附至三分之一秒格線。幀與幀之間仍須檢查動作。
+
+MODE C - Single first frame fallback:
+Use F01 plus the supplied First_Frame_Only_EN or TC prompt. F02-F08 remain manual review targets. This route does not claim the model has seen the other seven pictures.
+模式C：只用F01與First_Frame_Only提示詞，其餘7圖供人工對照，並不聲稱模型已看到其他圖片。
+
+Exact model limits can change. The sources above are the capability references for this revision; no app account or settings were inspected.
+功能限制可能變更；以上為本版所用官方來源，未查看你的帳號或介面設定。
+
+
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+只生成無聲畫面。兩名角色全程不說話，嘴唇自然輕閉：不對嘴、不做說話口型、不活動下顎、不露齒或舌頭、不張嘴笑、不喘氣、不嘆氣、不發任何人聲。只用眼神、眉毛、小幅頭部動作及姿態表演。不生成音訊：沒有人聲、旁白、音樂或音效；音軌另於後期加入。
+
+POST-PRODUCTION ONLY: remove or disable the complete generated source-audio track before editing. Add one original or appropriately licensed relaxed instrumental jazz bed around 80 BPM: soft piano, sparse upright bass and brushed drums, continuous through the bow. No vocals, humming, scat, speech, laugh track or comedy sting. Add clean synchronized object Foley separately, with no human voices; keep music below useful contact sounds. Do not add jazz or Foley instructions to the silent generation prompt. If your interface explicitly offers audio-off, use it; no such UI or API setting is assumed here. Still inspect every face for talking-like animation.
+僅後期處理：剪輯前先完整移除或停用生成素材的原音軌。另加一段原創或已取得適當授權、約每分鐘80拍的輕鬆爵士純演奏：柔和鋼琴、疏落低音提琴與刷奏爵士鼓，樂句連續至合掌。無歌聲、哼唱、擬聲唱、說話、罐頭笑聲或笑點提示音。另配乾淨、同步、無人聲的物件音效，爵士低於重要接觸聲。不要把爵士或音效製作指示貼入無聲畫面生成提示詞。若介面明確提供關閉音訊功能可使用，本包不假設存在該介面或API設定。仍須逐一檢查臉部有沒有說話動作。
+
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+保留原有玻璃透明度與反射空間，不新增反射人臉、重複人物或不可能的鏡中房間；非故事重點的反射保持簡單穩定。
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+Optional offline export helper: 04_Advanced/export_without_source_audio.py. It removes the original audio completely and can accept a separately supplied music track; this never fixes visible talking. Verify the actual final export is 15 seconds and 9:16. Do not stretch faces or blindly crop key action to force the ratio.
+選用離線輸出工具：04_Advanced/export_without_source_audio.py。完整移除原音軌，可另用獨立提供的配樂；它不能修好可見說話動作。實際輸出須檢查15秒及9:16；不要拉伸臉部或盲目裁掉關鍵動作來硬湊比例。

@@ -1,0 +1,51 @@
+EP04 / It Is Not a Sensor / 它不是感應器
+
+SILENT VISUAL FOOTAGE ONLY. Both characters keep their lips softly CLOSED throughout. No speech, lip-sync, word-shaped mouth movements, moving jaw, teeth, tongue, open-mouth laughter, gasps or sighs. Tell the joke through eyes, eyebrows, small head movements and posture.
+只生成無聲畫面。兩人全程嘴唇自然輕閉；不說話、不對嘴、不做說話口型、不動下顎、不露齒或舌頭、不張嘴笑、不喘氣或嘆氣。用眼神、眉毛、小幅頭部動作及姿態說故事。
+
+Manual dispenser, not a sensor. / 這是手拉式，不是感應式。
+Directing intent only; never written or spoken. / 只供導演參考，不顯示或說出。
+
+A bright shared kitchenette, one clean counter and one unbranded off-white manual roll-paper towel dispenser. The box has a single wide bottom slot, a physical tear edge and one clearly exposed paper tail. It is a hand-operated dispenser with no sensor or motor. The man in a blue overshirt is screen-left; heroine screen-right. Both are already within comfortable reach and stay in place. The fixed medium three-quarter view keeps faces, slot, fingers and the clear counter landing area visible. A detached sheet is one elongated hand-towel rectangle; keep its shape and proportions constant.
+明亮共用小廚房、一張乾淨檯面、一個無品牌米白手動捲紙巾盒。盒底只有一條寬槽、一條實際撕紙邊及一截清楚露出的紙尾。它由手拉動，沒有感應器或馬達。藍外襯男子在畫面左，女主在畫面右；兩人已在舒適可及位置，原地不動。固定中景四分之三鏡位同時看見臉、底槽、手指及空著的放紙檯面。一張取下的紙是修長手巾大小長方形，形狀與比例保持不變。
+
+0-1.5s
+Man waves RIGHT empty palm directly beneath the exposed tail without contact, expectant eyes on the slot. Paper stays still. He lowers RIGHT and brings LEFT under the same tail to begin the second wave at 1.5 seconds. Heroine watches with a neutral mouth.
+男子右空掌在露出紙尾正下方揮，不接觸，期待地看底槽；紙不動。他放低右手，把左掌帶到同一紙尾下，於第1.5秒開始第二次揮動。女主嘴角中性地觀察。
+
+1.5-3s
+Finish that one LEFT-hand wave; puzzled brow, still no paper movement. He lowers both hands by 3 seconds. Heroine shifts eyes to the graspable edge with one subtle eyebrow lift; by 3 seconds LEFT fingers approach its lower edge and RIGHT is near the slot, before gripping.
+完成這一次左手揮動；眉心疑惑，紙仍不動。男子於第3秒前放低雙手。女主輕挑眉看可握紙邊，第3秒左手指已靠近下緣、右手在底槽附近，尚未握紙。
+
+3-5s
+With his hands already down, she completes the short approach and grasps the lower edge with LEFT; RIGHT steadies near slot/perforation. Her eyes focus on the paper. By 5 seconds the same sheet is under a controlled pull but still visibly connected to the roll; no premature smile.
+男子雙手已放低，女主完成短距離靠近，以左手握下緣，右手在底槽或虛線附近穩住；眼睛專注紙張。第5秒同一張紙受控制拉動，但仍明顯連捲，不提前微笑。
+
+5-7s
+LEFT pulls downward as RIGHT steadies above. One sheet separates visibly at the tear edge/perforation. Both hands briefly support it while LEFT visibly regrips an upper corner, then RIGHT releases. By 7 seconds one elongated rectangle is detached and the short next tail remains. He looks at the sheet, brow lifting.
+左手向下拉、右手在上方穩住；一張紙清楚在撕邊或虛線分開。雙手短暫托紙，左手明確換握上角後右手放開。第7秒一張修長長方形已取下，下一截短紙尾仍在。男子看紙，輕抬眉。
+
+7-9s
+Her LEFT holds the same rectangle by its upper corner above the clear counter; RIGHT is free. She looks at the landing area, not at him. He glances from useful paper to his own previously waving palm. The hand remains still; he does not start a third wave.
+女主左手握同一紙張上角，停在空檯面上方，右手空著。她看放紙處，不看男子。男子由有用紙張看自己剛才揮的手掌；手不再動，不開始第三次揮手。
+
+9-11.5s
+She lays that sheet flat on the counter and releases it. He looks at the paper, then his own empty palm, and presses his lips briefly in embarrassed recognition: nothing was wrong with the dispenser. Her calm attention stays on the completed placement.
+女主把同一張紙平放檯面並放開。男子看紙，再看自己空掌，短暫抿嘴尷尬地明白：紙巾盒根本沒壞。女主仍平靜注意已完成的放紙動作。
+
+11.5-13.5s
+He lowers his hands and allows one small sheepish smile at his unnecessary waving. Only now she gives a tiny kind smile, hands empty and separate in her own space. No hand touching, offered palms toward him or romantic gaze.
+男子放低雙手，為自己多餘揮手淡淡尷尬一笑。女主這時才輕輕友善微笑，空手分開留自己空間。不碰手、不向他遞掌、不曖昧互望。
+
+13.5-15s
+She joins both empty flat palms at lower sternum, softens her eyes and makes one small bow. The same detached sheet stays flat on the counter and the next tail stays in the slot. End with a brief settled beat and the practical result still visible.
+女主兩隻空手在胸骨下方平貼合掌，眼神柔和，小幅鞠躬一次。同一張紙仍平放檯面，下一紙尾留底槽。結尾短暫停穩，實用結果仍可見。
+
+
+
+
+POST-PRODUCTION ONLY: remove or disable the complete generated source-audio track before editing. Add one original or appropriately licensed relaxed instrumental jazz bed around 80 BPM: soft piano, sparse upright bass and brushed drums, continuous through the bow. No vocals, humming, scat, speech, laugh track or comedy sting. Add clean synchronized object Foley separately, with no human voices; keep music below useful contact sounds. Do not add jazz or Foley instructions to the silent generation prompt. If your interface explicitly offers audio-off, use it; no such UI or API setting is assumed here. Still inspect every face for talking-like animation.
+EPISODE FOLEY: Quiet kitchenette ambience, one clear paper-feed rustle, a light tear and a soft paper landing, all synchronized to visible actions.
+
+僅後期處理：剪輯前先完整移除或停用生成素材的原音軌。另加一段原創或已取得適當授權、約每分鐘80拍的輕鬆爵士純演奏：柔和鋼琴、疏落低音提琴與刷奏爵士鼓，樂句連續至合掌。無歌聲、哼唱、擬聲唱、說話、罐頭笑聲或笑點提示音。另配乾淨、同步、無人聲的物件音效，爵士低於重要接觸聲。不要把爵士或音效製作指示貼入無聲畫面生成提示詞。若介面明確提供關閉音訊功能可使用，本包不假設存在該介面或API設定。仍須逐一檢查臉部有沒有說話動作。
+本集後期物件音效：低調小廚房底聲、一次清楚拉紙聲、輕撕聲及紙落檯面聲，全部與可見動作同步。

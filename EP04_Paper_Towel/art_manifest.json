@@ -1,0 +1,103 @@
+{
+  "episode": "EP04",
+  "package_revision": "V6",
+  "images_edited_this_revision": 0,
+  "frames": [
+    {
+      "file": "S04_F01.png",
+      "sha256": "630796fe6114f35a5d3ff018026fcc56efa5326dc298d33976a77f0de4b0e05b",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 0,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Man RIGHT palm waves directly beneath the exposed tail without contact. The single manual dispenser and paper remain still; heroine hands stay clear.",
+      "acting_en": "Man watches the unmoving paper tail with an expectant concentrated brow while RIGHT palm waves directly underneath; heroine observes the useless wave neutrally. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S04_F02.png",
+      "sha256": "4b6e52592b32125ebec55b033231b7dc865517fe96a314fb4407da36244d5dd7",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 1.5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Man LEFT palm gives the second compact wave beneath the same unchanged paper tail. No sensor, motor, or extra paper appears.",
+      "acting_en": "Man gives the LEFT-hand wave with a more puzzled brow, lips closed; heroine's eyes shift from his palm to the exposed paper edge, one slight brow lift. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S04_F03.png",
+      "sha256": "14ec55a9f700f267201b01c63f281783135b848f27431566f3790f8b452dd2a6",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 3,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Man has lowered both hands. Heroine LEFT fingers approach the lower paper edge, RIGHT hand near the upper section/slot; paper remains connected.",
+      "acting_en": "With his hands down, man looks at her approaching paper grip; heroine's eyes focus exactly on the paper edge, no smile. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S04_F04.png",
+      "sha256": "62384fd251875f16242af8af9156003ae62b20c245f77baa878daf14e00e1c7f",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Heroine LEFT grips the lower edge and RIGHT steadies near slot/perforation. Sheet is under a controlled pull but still visibly connected to roll.",
+      "acting_en": "Heroine stays calmly focused on the connected sheet under her two hands; man's brows begin to lift as he notices the manual pull. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S04_F05.png",
+      "sha256": "c8e9b94f5cb3c40a9ae89770fd15e0c26ef3b55912508b09f69ece97a6b167b7",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 7,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "One elongated rectangle is detached and held by LEFT at its upper corner after a visible two-hand regrip. RIGHT is free; short next tail remains.",
+      "acting_en": "Man looks at the single detached towel with a small realization brow lift; heroine checks the sheet calmly, without presenting it theatrically. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S04_F06.png",
+      "sha256": "14813a75b8808b03cc06c93e1ba47d20d6620c0f844cb1f73305481986ef9f93",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 9,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "LEFT holds the same intact rectangle by its upper corner above the clear foreground counter. RIGHT is free; the same short next tail stays in the slot.",
+      "acting_en": "Her gaze stays on the sheet and clear landing area. Man starts glancing from the useful paper toward his own previously waving palm, no renewed waving. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S04_F07.png",
+      "sha256": "2f3f8ae1cde93c05e6b942d375fa9b209f1b348945177c03032f00947945a0c4",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 11.5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Same sheet now lies flat on the counter and both heroine hands are empty in her own space. Man keeps his own hands separate from hers.",
+      "acting_en": "Man studies his own empty palm, lips briefly pressed and shoulders relaxed in mild embarrassment; heroine has a tiny earned smile, hands safely in her own space. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S04_F08.png",
+      "sha256": "f4802daa386eb42a1459391f1236cfc7891ad1730ab4aac037a18c7aad9e9597",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 15,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Two empty heroine flat palms meet at lower sternum for the small bow. Sheet stays flat in the same position; next tail stays in the slot.",
+      "acting_en": "Heroine's small bow has soft eyes and a calm mouth; man keeps hands to himself. The flat paper and exposed next tail stay clearly visible. Both mouths stay softly closed; no speech-shaped pose."
+    }
+  ]
+}

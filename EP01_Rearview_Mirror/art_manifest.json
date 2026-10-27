@@ -1,0 +1,103 @@
+{
+  "episode": "EP01",
+  "package_revision": "V6",
+  "images_edited_this_revision": 8,
+  "frames": [
+    {
+      "file": "S01_F01.png",
+      "sha256": "72eb502d2e95f07be9d91355fe51a407f53912ad29b6c0e639ac846d38aa580c",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 0,
+      "revision": "V6",
+      "physical_state_en": "Driver leans slightly forward toward the crooked taped phone. The real mirror shows headliner. Both heroine hands rest on her own lap; both occupants remain forward in their original seats. Real mirror: beige headliner only; phone: unchanged empty rear-window/headrests/brick-courtyard preview.",
+      "acting_en": "Driver's open narrowed eyes target the tiny phone; pinched brow, slight forward lean. Heroine watches that awkward viewing effort with a neutral mouth, not the camera. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S01_F02.png",
+      "sha256": "64d2039ed59052bf06ba9b3e7adb640730b543663b4fe233eafc01496697942e",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 1.5,
+      "revision": "V6",
+      "physical_state_en": "Driver holds a compact tilted-head viewing posture toward the phone. Phone, tape and mirror remain fixed; heroine hands remain on lap. Real mirror: beige headliner only; phone: unchanged empty rear-window/headrests/brick-courtyard preview.",
+      "acting_en": "Driver makes one small futile head tilt toward the phone. Heroine's eyes shift from phone to the unused mirror; one subtle eyebrow lift, no smile. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S01_F03.png",
+      "sha256": "85e86f7aaf3c970e6d096f1d1175ac5ce191d13d3df452e7dab881073997fb3b",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 3,
+      "revision": "V6",
+      "physical_state_en": "Heroine LEFT fingertips hover just beneath the lower mirror rim before contact. Mirror still reflects headliner; RIGHT hand stays on lap. Real mirror: beige headliner only; phone: unchanged empty rear-window/headrests/brick-courtyard preview. LEFT fingertips hover below the black mirror frame, not near the phone.",
+      "acting_en": "Heroine's eyes are fixed on the rim she is approaching; concentrated neutral face. Driver follows her hand toward the real mirror without turning his torso. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S01_F04.png",
+      "sha256": "46855195a0d192af4aac4a9317dba0cb38d4593b653a085ccf4d5ca4a5cfa1c4",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 5,
+      "revision": "V6",
+      "physical_state_en": "Heroine LEFT fingertips hold the actual lower rim after adjustment. Mirror shows the rear window; RIGHT hand stays on lap. Phone is unchanged. Real mirror: settled empty rear-window/headrests/brick-courtyard reflection; keep that same angle and view through F08. Phone preview is unchanged. LEFT fingertips grip the black mirror frame only.",
+      "acting_en": "Heroine watches the corrected reflection while maintaining contact, no grin. Driver has stopped squinting at the phone and now studies the real mirror. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S01_F05.png",
+      "sha256": "17c19d04577eacf6d62678c105ade0d84a20261cdb96781e880b8841248e3cbf",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 7,
+      "revision": "V6",
+      "physical_state_en": "LEFT fingertips have separated from the rim and begin descending. The corrected rear-window reflection holds; RIGHT remains on lap. Real mirror: settled empty rear-window/headrests/brick-courtyard reflection; keep that same angle and view through F08. Phone preview is unchanged. LEFT fingertips have released the mirror frame, never the phone.",
+      "acting_en": "Driver's brow begins to release only after the rear-window reflection is visible. Heroine remains focused as fingers separate from the rim. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S01_F06.png",
+      "sha256": "f1d981e08e7d0577a7c4245b831f6d1276fd16860772db2fe92a20f77d54007b",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 9,
+      "revision": "V6",
+      "physical_state_en": "Both heroine hands are back on her own lap. The corrected mirror and unchanged crooked phone remain visible together; both torsos stay forward. Real mirror: settled empty rear-window/headrests/brick-courtyard reflection; keep that same angle and view through F08. Phone preview is unchanged.",
+      "acting_en": "Driver looks between the corrected mirror and the crooked phone with one small raised-brow realization; heroine waits calmly with hands on lap. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S01_F07.png",
+      "sha256": "a952126be9d86a4d4d9f66f25c93be03e536813592f324a9ffdf121087342929",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 11.5,
+      "revision": "V6",
+      "physical_state_en": "All hands remain low and separate. Neither person reaches toward the other; both hips and torsos remain forward. Devices retain their states. Real mirror: settled empty rear-window/headrests/brick-courtyard reflection; keep that same angle and view through F08. Phone preview is unchanged.",
+      "acting_en": "Driver dips his chin with a brief pressed-lip sheepish smile after checking his redundant phone; heroine gives a tiny earned closed-mouth smile, gaze forward or toward the mirror, no intimate eye contact. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S01_F08.png",
+      "sha256": "10a86f7f8913c4919062f9a90e4fb79fbc1836377a086604b2888ccf7e7610d7",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 15,
+      "revision": "V6",
+      "physical_state_en": "Exactly two empty heroine palms meet at lower sternum in a small forward bow over her own lap toward the dashboard. Mirror stays corrected. Real mirror: settled empty rear-window/headrests/brick-courtyard reflection; keep that same angle and view through F08. Phone preview is unchanged.",
+      "acting_en": "Heroine's eyelids soften during a shallow bow forward over her own lap; small relaxed closed-mouth smile. Driver stays comfortably forward, no new gesture. Both mouths stay softly closed; no speech-shaped pose."
+    }
+  ]
+}

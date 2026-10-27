@@ -1,0 +1,51 @@
+EP02 / The Button Is Right There / 開關就在旁邊
+
+SILENT VISUAL FOOTAGE ONLY. Both characters keep their lips softly CLOSED throughout. No speech, lip-sync, word-shaped mouth movements, moving jaw, teeth, tongue, open-mouth laughter, gasps or sighs. Tell the joke through eyes, eyebrows, small head movements and posture.
+只生成無聲畫面。兩人全程嘴唇自然輕閉；不說話、不對嘴、不做說話口型、不動下顎、不露齒或舌頭、不張嘴笑、不喘氣或嘆氣。用眼神、眉毛、小幅頭部動作及姿態說故事。
+
+Lower the window; do not cut the hair. / 降下車窗，就不用剪頭髮。
+Directing intent only; never written or spoken. / 只供導演參考，不顯示或說出。
+
+A parked left-hand-drive car with engine off and accessory power on. The elevated windshield camera looks into the cabin: heroine screen-left in the vehicle-right passenger seat; woman screen-right in the vehicle-left driver seat. Both bodies face the dashboard. A small continuous strand of the driver’s hair tips is caught at the raised driver-window upper edge. The actual window rocker is on her outboard door armrest at far screen-right, reachable by her LEFT hand. One pair of closed red scissors is in her open lap bag. There are no competing window controls on the center console.
+左駕車停妥、引擎關閉、附件電源開啟。略高的擋風玻璃鏡位向車內拍：女主在畫面左的車右乘客座，女子在畫面右的車左駕駛座。兩人身體朝儀表板。駕駛一小束連續髮尾被夾在升起的駕駛側窗上緣。真正車窗翹板開關在她外側車門扶手、畫面最右方，由她左手可及。唯一一把合起的紅剪刀在膝上打開的包內；中央控制台沒有競爭性的車窗按鍵。
+
+0-1.5s
+Trapped hair tips are visibly taut without injury or neck strain. The driver looks from them to her lap bag, brow pinched, reaches in with RIGHT and brings the CLOSED red scissors to low chest height by 1.5 seconds, well away from hair and face. Heroine watches neutrally.
+被夾髮尾明顯拉緊，但不受傷、不扯頸。駕駛皺眉由髮尾看膝上包，右手伸入，於第1.5秒前把合起紅剪刀拿至胸下，遠離頭髮和臉。女主中性觀察。
+
+1.5-3s
+The driver briefly considers the already-raised CLOSED scissors, then returns them inside the same bag by 3 seconds. Heroine looks from scissors to the outboard rocker, raises one eyebrow slightly, and establishes a short RIGHT-index point toward it from her own seat by 3 seconds.
+駕駛短暫考慮已拿起的合起剪刀，隨即於第3秒前放回同一包。女主由剪刀看外側翹板，輕挑一眉，於第3秒從自己座位建立朝向開關的短促右食指指示。
+
+3-5s
+Continue that short point from her own side without crossing the driver torso. Scissors stay in the bag; driver RIGHT may rest on their handles there. Driver eyes follow the point, then LEFT index reaches the actual rocker by 5 seconds. Glass is still raised and hair caught at contact.
+女主延續自己一側的短促指示，不跨駕駛軀幹。剪刀留包，駕駛右手可搭包內剪刀柄。駕駛目光跟隨指示，再於第5秒用左食指接觸真正翹板；接觸時玻璃仍升起、頭髮仍被夾。
+
+5-7s
+The driver presses once with her LEFT index. Only then does the same glass descend in its tracks, top edge visibly separating from the hair tips. By 7 seconds the intact strand has fallen free onto her shoulder; her brow starts to soften after release, LEFT still pressing.
+駕駛左食指按一次，之後同一玻璃才沿軌下降，上緣清楚離開髮尾。第7秒完整髮束已落回肩上；鬆開後她眉心才舒展，左手仍在按。
+
+7-9s
+Glass reaches halfway down and stops after she releases the rocker. She gently checks the same free strand with her LEFT hand, relieved but restrained. The heroine retracts her RIGHT pointing hand to her own lap. The scissors remain untouched in the bag.
+玻璃降至一半，駕駛放開翹板後停住；她用左手輕查同一鬆開髮束，安心但克制。女主右手收回自己膝上。剪刀仍留包中，沒人再拿。
+
+9-11.5s
+The driver looks from the working switch down to the unused scissors. One small brow lift becomes a brief pressed-lip sheepish smile: she realizes she almost chose a haircut for a window problem. Her softened expression becomes a tiny knowing smile after this object-to-object comparison.
+駕駛由有用的開關低眼看沒用上的剪刀；輕抬眉後短暫抿嘴尷尬一笑，明白自己差點為車窗問題選擇剪髮。女主已放柔的表情，在這個物件之間的比較之後，才變成淡淡會心微笑。
+
+11.5-13.5s
+The driver settles both hands in her own space and gives one brief appreciative glance, then looks back to her freed hair. The heroine faces forward. No extended mutual gaze; window remains halfway down, hair intact and scissors inside the bag.
+駕駛雙手在自己範圍停穩，短暫感謝地看一眼，便看回已自由的頭髮。女主面向前方。不延長互望；車窗半開、頭髮完整、剪刀留包。
+
+13.5-15s
+The heroine joins both empty flat palms at lower sternum and makes one shallow bow forward over her own lap toward the dashboard, eyes soft. Stay within her seat. Settle briefly with the freed hair and lowered glass unchanged.
+女主兩隻空手於胸骨下方平貼合掌，眼神柔和，向自己膝上、朝儀表板淺淺鞠躬一次，留在自己座位。短暫停穩，鬆開頭髮與下降玻璃不變。
+
+
+
+
+POST-PRODUCTION ONLY: remove or disable the complete generated source-audio track before editing. Add one original or appropriately licensed relaxed instrumental jazz bed around 80 BPM: soft piano, sparse upright bass and brushed drums, continuous through the bow. No vocals, humming, scat, speech, laugh track or comedy sting. Add clean synchronized object Foley separately, with no human voices; keep music below useful contact sounds. Do not add jazz or Foley instructions to the silent generation prompt. If your interface explicitly offers audio-off, use it; no such UI or API setting is assumed here. Still inspect every face for talking-like animation.
+EPISODE FOLEY: A quiet cabin bed, a soft bag rustle, one switch click and a short window motor sound beginning with the press.
+
+僅後期處理：剪輯前先完整移除或停用生成素材的原音軌。另加一段原創或已取得適當授權、約每分鐘80拍的輕鬆爵士純演奏：柔和鋼琴、疏落低音提琴與刷奏爵士鼓，樂句連續至合掌。無歌聲、哼唱、擬聲唱、說話、罐頭笑聲或笑點提示音。另配乾淨、同步、無人聲的物件音效，爵士低於重要接觸聲。不要把爵士或音效製作指示貼入無聲畫面生成提示詞。若介面明確提供關閉音訊功能可使用，本包不假設存在該介面或API設定。仍須逐一檢查臉部有沒有說話動作。
+本集後期物件音效：低調車廂底聲、輕微包袋聲、一次按鍵聲，以及從按下開關才開始的一小段電動窗馬達聲。

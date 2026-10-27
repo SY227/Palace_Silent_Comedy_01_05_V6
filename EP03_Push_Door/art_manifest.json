@@ -1,0 +1,103 @@
+{
+  "episode": "EP03",
+  "package_revision": "V6",
+  "images_edited_this_revision": 0,
+  "frames": [
+    {
+      "file": "S03_F01.png",
+      "sha256": "b4e9a7986becb9a2965a524584c4b82971a8e3ed9658c9e3cf8d8f7eb3e2425d",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 0,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Both man hands grasp the rigid push bar and pull toward him. Door stays closed, hinges fixed viewer-left; his feet and both adults remain inside.",
+      "acting_en": "Man's pinched brow and closed lips show effort directed at the rigid bar; heroine studies his pulling direction, not his face. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S03_F02.png",
+      "sha256": "c4b70e72af4f25395818c5fa0ecd2d780bd4df150863cc0c30cfdc3243f3d32d",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 1.5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Man makes a second compact two-hand pull; the closed panel and bar stay rigid. Feet remain indoors and no one crosses the threshold.",
+      "acting_en": "One brief cheek puff accompanies the second compact tug; heroine's eyes move toward the bar's free end with a very small eyebrow lift. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S03_F03.png",
+      "sha256": "8670a5f9d7f641d420c490e005d42c376f0f519e4cbf2de78707062177f873a5",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 3,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Man has released the bar, hands withdrawn near chest, upright stance and one small indoor foot reposition complete. Heroine RIGHT palm approaches the moving bar near its free end.",
+      "acting_en": "Man watches her approaching RIGHT palm, hands already withdrawn; heroine focuses on the contact point with a neutral mouth. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S03_F04.png",
+      "sha256": "0cf6e598223a4eaa2d278d43d770cbd27f434101aaea9401cb6557ad77d61baa",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Heroine RIGHT palm makes actual contact with the moving bar; outward opening has begun around the same viewer-left hinge. Both adults stay inside.",
+      "acting_en": "Heroine calmly watches the moving bar at contact; man notices the first outward movement with a small eyebrow release, no smile yet. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S03_F05.png",
+      "sha256": "8e2b7a2e280afcb2e8aeb5f2c7aed1828655bf400376eb1c3eb962c03b8c9efe",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 7,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Same door is open roughly 45 degrees into the courtyard; heroine RIGHT palm still follows the bar at the free end. Feet stay inside; door arc is empty.",
+      "acting_en": "Man's eyes widen slightly at the open gap, not at the heroine; her expression stays focused while hand remains on the bar. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S03_F06.png",
+      "sha256": "19d6bce79e996adbd8de899132cd556f47135ae450bc63eb7b3e974d547b334e",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 9,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Door stays at the same open angle and heroine RIGHT hand has withdrawn. Free bottom corner is beyond the threshold outside; everyone remains indoors.",
+      "acting_en": "With the door held open and hand withdrawn, man glances from the clear opening down toward his own hands, beginning to understand. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S03_F07.png",
+      "sha256": "80dd27b3f53714519c18f4095c96ed62f5cfecc4718dee6dc42ce72d4c3fae70",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 11.5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Man inspects his own empty hands. Heroine hands rest loosely at her own waist; both keep feet planted indoors. Door remains open.",
+      "acting_en": "Man studies his own empty palms with dropped shoulders and a small embarrassed lip press; heroine holds a faint kind smile, hands at own waist. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S03_F08.png",
+      "sha256": "cf5241343cbf10e30dff011b8f5f1c6437d18a981ff48e32ae291455f9d63db9",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 15,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Heroine joins two empty flat palms at lower sternum in one small forward bow. Door remains open; nobody crosses its panel or threshold.",
+      "acting_en": "Heroine performs the shallow small bow, eyes gently lowered; man settles his hands and expression, the open doorway remains the visual answer. Both mouths stay softly closed; no speech-shaped pose."
+    }
+  ]
+}

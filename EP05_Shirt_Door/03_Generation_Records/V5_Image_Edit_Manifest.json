@@ -1,0 +1,184 @@
+{
+  "episode": "EP05",
+  "revision": "V5",
+  "message_en": "Open the door before tugging the shirt.",
+  "message_tc": "先開車門，不必硬拉衣角。",
+  "frames": [
+    {
+      "file": "S05_F01.png",
+      "time_seconds": 0,
+      "actual_state_en": "Fully latched flush door. The man lightly tests the same broad intact blue hem with his LEFT hand; its outer corner ends in the trailing seam. The heroine looks down toward the snag.",
+      "actual_state_tc": "車門完整扣上並貼齊車身。男子用左手輕試同一片完整寬幅藍色衣角，末端夾在後緣門縫；女主低頭看向夾住處。",
+      "expression_en": "Man brow knit and lips closed in concern; heroine neutral attentive with eyes down.",
+      "eye_target_en": "Man at trapped hem; heroine at cloth/seam.",
+      "acting_direction_en": "Man looks directly at the caught hem with a pinched brow and concentrated closed mouth; heroine's gaze is on the seam, not his face.",
+      "acting_direction_tc": "男子直接看被夾衣角，眉心皺起、閉嘴集中。女主看門縫，不看他的臉。",
+      "hand_ownership_en": "Man LEFT hand on hem; RIGHT empty at thigh. Heroine both hands empty/down.",
+      "generation_prompt": "Use case: identity-preserve. Edit the supplied single film-reference still. Preserve its exact framing and 9:16 portrait canvas, character identities, hairstyles, clothing, proportions, parked cream car, door geometry and current open/closed state, all hand positions and cloth state, golden light and background. Do NOT redesign or move anything. This is a subtle acting polish for wordless visual comedy: the man should look at the practical problem/result, the heroine at the relevant object, not exchange romantic looks. Maintain high-end stylized 3D game art, no text, subtitles, logos, borders or extra people. Only change the specified eyes, eyebrows, tiny facial muscles and minute head inclination; leave all poses and props unchanged. F01, beginning problem. The fully latched door is CLOSED; one continuous broad blue shirt hem remains pinched in the seam, man's LEFT hand lightly tests it and RIGHT hand hangs low. Refine the man's face into concerned concentration: eyes lowered directly toward the pinched blue cloth at the seam, inner eyebrows modestly drawn together, lips slightly pressed closed rather than a smile. The heroine's eyes look down toward that same snag, mouth neutral and attentive, brow relaxed. Her slight head inclination may follow the seam but keep her face recognizable. Do not look at his face.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP05_Shirt_Door/01_Reference_Images/S05_F01.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-743c2088-bc44-4fed-88b0-a12ebead3121.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep05/01_Reference_Images/S05_F01.png",
+      "sha256": "abb99a22a5d87ec73742a6d7fe68dea3d58d4ad75a30a2a190b719b7adc1ca42",
+      "size": [
+        941,
+        1672
+      ],
+      "qa": "Accepted: physical state and prop ownership retained; object-directed facial polish."
+    },
+    {
+      "file": "S05_F02.png",
+      "time_seconds": 1.5,
+      "actual_state_en": "Same door remains latched. Man braces and puffs his cheeks during one extra small tug; broad woven cloth stays continuous, without thin strings. Feet remain planted.",
+      "actual_state_tc": "同一車門仍扣上。男子鼓起臉頰、繃緊上身，再輕拉一次；寬幅衣料保持完整，沒有變成細繩，雙腳留原地。",
+      "expression_en": "Man slightly puffs cheeks and compresses lips in effort; heroine subtly raises one brow.",
+      "eye_target_en": "Man down at trapped hem; heroine down toward handle/seam.",
+      "acting_direction_en": "Man briefly puffs cheeks for the restrained extra tug; heroine's eyes shift from trapped cloth to the exterior handle with one subtle raised brow.",
+      "acting_direction_tc": "男子輕拉多一下時短暫鼓頰；女主由被夾衣料看外門把，輕挑一眉。",
+      "hand_ownership_en": "Man LEFT hand tugging hem; RIGHT empty/down. Heroine empty hands down.",
+      "generation_prompt": "Use case: identity-preserve. Edit the supplied single film-reference still. Preserve its exact framing and 9:16 portrait canvas, character identities, hairstyles, clothing, proportions, parked cream car, door geometry and current open/closed state, all hand positions and cloth state, golden light and background. Do NOT redesign or move anything. This is a subtle acting polish for wordless visual comedy: the man should look at the practical problem/result, the heroine at the relevant object, not exchange romantic looks. Maintain high-end stylized 3D game art, no text, subtitles, logos, borders or extra people. Only change the specified eyes, eyebrows, tiny facial muscles and minute head inclination; leave all poses and props unchanged. F02, unnecessary second tug. Door stays latched CLOSED, broad continuous shirt hem caught, all body/hand poses exactly as supplied. The man's strained eyebrows and compressed closed lips show mild effort, eyes fixed downward on the trapped hem; keep his braced torso and only subtle cheek tension. Heroine now glances downward toward the silver exterior door HANDLE with just one eyebrow gently raised, mouth neutral. She has quietly spotted the simple fix. NO smiling yet, no gaze up at the man.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP05_Shirt_Door/01_Reference_Images/S05_F02.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-2d9ce5d0-b26c-4766-8887-68e5a5b11a6f.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep05/01_Reference_Images/S05_F02.png",
+      "sha256": "3bc87647049acdaabfc375baec8151619aa470f232fa42e2739c3b7b3416bb33",
+      "size": [
+        941,
+        1672
+      ],
+      "qa": "Accepted: physical state and prop ownership retained; object-directed facial polish."
+    },
+    {
+      "file": "S05_F03.png",
+      "time_seconds": 3,
+      "actual_state_en": "Door remains fully shut and the hem remains trapped. Heroine RIGHT fingers visibly grip the existing silver exterior handle; her LEFT hand stays down. Man stops tugging.",
+      "actual_state_tc": "門仍完整關上、衣角仍被夾。女主右手指確實握住原有銀色外門把，左手垂下；男子停止拉扯。",
+      "expression_en": "Both mouths neutral, heroine concentrated; man stops exertion.",
+      "eye_target_en": "Heroine down toward own handle contact; man down toward trapped hem/seam adjacent to handle.",
+      "acting_direction_en": "Man stops exerting and watches her RIGHT hand on the handle; heroine focuses on the latch, keeping a neutral mouth.",
+      "acting_direction_tc": "男子停止用力，看她握門把的右手。女主專注門鎖，嘴角中性。",
+      "hand_ownership_en": "Heroine RIGHT hand grips exterior handle; LEFT empty/down. Man LEFT holds hem lightly; RIGHT empty/down.",
+      "generation_prompt": "Use case: identity-preserve. Edit the supplied single film-reference still. Preserve its exact framing and 9:16 portrait canvas, character identities, hairstyles, clothing, proportions, parked cream car, door geometry and current open/closed state, all hand positions and cloth state, golden light and background. Do NOT redesign or move anything. This is a subtle acting polish for wordless visual comedy: the man should look at the practical problem/result, the heroine at the relevant object, not exchange romantic looks. Maintain high-end stylized 3D game art, no text, subtitles, logos, borders or extra people. Only change the specified eyes, eyebrows, tiny facial muscles and minute head inclination; leave all poses and props unchanged. F03, real cause. Keep the door completely CLOSED and hem caught. Heroine RIGHT fingers remain visibly on the exterior silver handle; her LEFT hand hangs. Man LEFT hand holds cloth without tugging. Refine heroine eyes down to her actual handle contact, focused neutral mouth and relaxed intent brow. The man's eyes now watch the trapped seam with a slightly less tense brow, lips neutral closed, no smile yet. Preserve every hand, door seam and garment pixel relationship.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP05_Shirt_Door/01_Reference_Images/S05_F03.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-e7243eb3-4229-4bb9-8c44-3e9cc1a5dfbb.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep05/01_Reference_Images/S05_F03.png",
+      "sha256": "c258238500c23a78695b3ed961f8711a4f0dd96e3b668f7cbe5b7c32e90758c6",
+      "size": [
+        941,
+        1672
+      ],
+      "qa": "Accepted: physical state and prop ownership retained; object-directed facial polish."
+    },
+    {
+      "file": "S05_F04.png",
+      "time_seconds": 5,
+      "actual_state_en": "Door is now slightly open outward; the same shirt corner is visibly free and remains in the man's LEFT hand. Heroine RIGHT hand holds the exterior handle.",
+      "actual_state_tc": "車門已小幅朝外打開；同一衣角明顯鬆開，仍在男子左手。女主右手握住外門把。",
+      "expression_en": "Man brow relaxes slightly upon visible release, no grin; heroine quietly checks clearance.",
+      "eye_target_en": "Man at freed hem; heroine down toward opening/clearance.",
+      "acting_direction_en": "Only after the seam opens does the man's brow release as he looks at his now-free hem; heroine watches the clearance carefully.",
+      "acting_direction_tc": "門縫打開後，男子看自由衣角，眉心才舒展。女主仔細看衣料是否離開門縫。",
+      "hand_ownership_en": "Heroine RIGHT hand on handle; LEFT down. Man LEFT holds freed hem; RIGHT down.",
+      "generation_prompt": "Use case: identity-preserve. Edit the supplied single film-reference still. Preserve its exact framing and 9:16 portrait canvas, character identities, hairstyles, clothing, proportions, parked cream car, door geometry and current open/closed state, all hand positions and cloth state, golden light and background. Do NOT redesign or move anything. This is a subtle acting polish for wordless visual comedy: the man should look at the practical problem/result, the heroine at the relevant object, not exchange romantic looks. Maintain high-end stylized 3D game art, no text, subtitles, logos, borders or extra people. Only change the specified eyes, eyebrows, tiny facial muscles and minute head inclination; leave all poses and props unchanged. F04, release moment. Door already open exactly as supplied, broad continuous cloth visibly free in man's LEFT hand; heroine RIGHT hand on handle. Edit expressions only: man's eyebrows have just lifted slightly in recognition and his eyes look down at the newly freed shirt hem, mouth closed and softly parted only if imperceptible, no broad grin. Heroine eyes look down toward open seam/clearance with focused quiet face, not up at man. Keep geometry unchanged.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP05_Shirt_Door/01_Reference_Images/S05_F04.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-75adcaf8-9cf7-44c7-8951-b911b6fedb9a.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep05/01_Reference_Images/S05_F04.png",
+      "sha256": "c075bdc412e1a28447cd75e8b7c1ab875ad6c2af674113b0a01eaf413566297d",
+      "size": [
+        941,
+        1672
+      ],
+      "qa": "Accepted: physical state and prop ownership retained; object-directed facial polish."
+    },
+    {
+      "file": "S05_F05.png",
+      "time_seconds": 7,
+      "actual_state_en": "The door stays at the same small open angle. Man draws the free broad hem toward his own hip, leaving a visible gap from the empty trailing seam. He starts to recognize the simple solution.",
+      "actual_state_tc": "車門維持同一小幅開啟角度。男子把自由的寬幅衣角收向自己髖旁，與空著的後緣門縫之間留有明顯距離，開始明白解法。",
+      "expression_en": "Man restrained closed-lip relief, heroine focused at the clear seam.",
+      "eye_target_en": "Man at free fabric near hip; heroine at cleared seam.",
+      "acting_direction_en": "Man looks at the fabric he brings clear, a small raised brow marking recognition; heroine keeps a focused safety-check gaze on the empty seam.",
+      "acting_direction_tc": "男子看自己移開的衣料，輕抬眉開始明白。女主仍專注空門縫，確認可以關門。",
+      "hand_ownership_en": "Heroine RIGHT on exterior handle; LEFT down. Man LEFT holds cloth clear; RIGHT down.",
+      "generation_prompt": "Use case: identity-preserve. Edit the supplied single film-reference still. Preserve its exact framing and 9:16 portrait canvas, character identities, hairstyles, clothing, proportions, parked cream car, door geometry and current open/closed state, all hand positions and cloth state, golden light and background. Do NOT redesign or move anything. This is a subtle acting polish for wordless visual comedy: the man should look at the practical problem/result, the heroine at the relevant object, not exchange romantic looks. Maintain high-end stylized 3D game art, no text, subtitles, logos, borders or extra people. Only change the specified eyes, eyebrows, tiny facial muscles and minute head inclination; leave all poses and props unchanged. F05, all cloth clear. Preserve open door angle, heroine RIGHT handle grip, man LEFT holds same intact broad hem fully clear of seam. Man's eyes look down at free cloth, brows relaxing from surprise into relief, subtle closed-lip half-smile, no toothy grin. Heroine's eyes look at the empty seam and cloth clearance, calmly checking it; neutral concentrated mouth. No eye contact or romance.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP05_Shirt_Door/01_Reference_Images/S05_F05.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-95f52e3c-baf6-4ec0-8611-4e3e10525938.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep05/01_Reference_Images/S05_F05.png",
+      "sha256": "17170c3d60532d89932129d4496eb658e03fe094cb493c4b0b237a3404ae9df8",
+      "size": [
+        941,
+        1672
+      ],
+      "qa": "Accepted: physical state and prop ownership retained; object-directed facial polish."
+    },
+    {
+      "file": "S05_F06.png",
+      "time_seconds": 9,
+      "actual_state_en": "The door is fully closed again after cloth clearance. All intact shirt fabric remains outside the seam; heroine has withdrawn her RIGHT hand and both hands are down.",
+      "actual_state_tc": "確認衣料移開後，車門重新關好。完整衣料全部留在門縫外；女主右手已離開門把，雙手垂下。",
+      "expression_en": "Man softly thoughtful pressed-lip expression, heroine calm tiny corner smile.",
+      "eye_target_en": "Man at free cloth; heroine toward freed shirt rather than his face.",
+      "acting_direction_en": "With door closed again, man glances from handle to intact free cloth, expression softer; heroine's hands are down and face calm.",
+      "acting_direction_tc": "門重新關好後，男子由把手看完整自由衣料，神情放鬆。女主雙手已放低，表情平靜。",
+      "hand_ownership_en": "Man LEFT lightly holds free hem away from seam; RIGHT down. Heroine both empty hands down.",
+      "generation_prompt": "Use case: identity-preserve. Edit the supplied single film-reference still. Preserve its exact framing and 9:16 portrait canvas, character identities, hairstyles, clothing, proportions, parked cream car, door geometry and current open/closed state, all hand positions and cloth state, golden light and background. Do NOT redesign or move anything. This is a subtle acting polish for wordless visual comedy: the man should look at the practical problem/result, the heroine at the relevant object, not exchange romantic looks. Maintain high-end stylized 3D game art, no text, subtitles, logos, borders or extra people. Only change the specified eyes, eyebrows, tiny facial muscles and minute head inclination; leave all poses and props unchanged. F06, door closed after clearance. Preserve CLOSED flush door, intact free shirt entirely outside, heroine both hands down, man LEFT hand lightly holds free hem. Man looks down at the safe blue cloth with relaxed brow and a small thoughtful pressed-lip expression as he processes the obvious fix, no big smile. Heroine eyes lower toward the intact free cloth, only a tiny barely visible corner smile after successful result. Both remain physically unchanged.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP05_Shirt_Door/01_Reference_Images/S05_F06.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-3e9b828d-4314-411f-ada7-7c93b0155f0a.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep05/01_Reference_Images/S05_F06.png",
+      "sha256": "e07631cb9af18851824d98a2e20454dfff37e0c17898599b2aa258ada36b5fca",
+      "size": [
+        941,
+        1672
+      ],
+      "qa": "Accepted: physical state and prop ownership retained; object-directed facial polish."
+    },
+    {
+      "file": "S05_F07.png",
+      "time_seconds": 11.5,
+      "actual_state_en": "Man looks down with a rueful smile and smooths his intact freed shirt with his LEFT palm. Heroine watches with a restrained patient expression; no mutual hand contact.",
+      "actual_state_tc": "男子低頭露出有點尷尬的笑，用左掌撫平完整自由的衣角。女主保持克制耐心的神情，兩人沒有碰手。",
+      "expression_en": "Man downward sheepish half-smile, heroine small patient smile.",
+      "eye_target_en": "Man at his own smoothing LEFT hand and shirt; heroine at shirt/hand.",
+      "acting_direction_en": "Man smooths his own shirt with a small downward pressed-lip sheepish smile; heroine allows a tiny patient smile, without a long mutual gaze.",
+      "acting_direction_tc": "男子撫平自己襯衫，低頭抿嘴尷尬小笑。女主淡淡耐心微笑，不長時間互望。",
+      "hand_ownership_en": "Man LEFT palm on own shirt; RIGHT down. Heroine both empty hands down.",
+      "generation_prompt": "Use case: identity-preserve. Edit the supplied single film-reference still. Preserve its exact framing and 9:16 portrait canvas, character identities, hairstyles, clothing, proportions, parked cream car, door geometry and current open/closed state, all hand positions and cloth state, golden light and background. Do NOT redesign or move anything. This is a subtle acting polish for wordless visual comedy: the man should look at the practical problem/result, the heroine at the relevant object, not exchange romantic looks. Maintain high-end stylized 3D game art, no text, subtitles, logos, borders or extra people. Only change the specified eyes, eyebrows, tiny facial muscles and minute head inclination; leave all poses and props unchanged. F07, sheepish recognition. Preserve CLOSED door, man LEFT palm smoothing his own intact shirt, right empty down, heroine hands down. Man eyes clearly lowered toward his shirt/own hand, a slight brow knit and restrained self-aware pressed-lip half-smile, tiny chin dip, embarrassed at his own effort not flirting. Heroine eyes look toward his shirt and hand, one very small warm knowing corner-smile. Do not make them look at each other's faces.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP05_Shirt_Door/01_Reference_Images/S05_F07.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-88f9d59f-ceef-4016-982a-08a6e0e77b10.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep05/01_Reference_Images/S05_F07.png",
+      "sha256": "e62d85da56af37080659f97a4c77db79cecb3f7a1865b684df32c9d308548a07",
+      "size": [
+        941,
+        1672
+      ],
+      "qa": "Accepted: physical state and prop ownership retained; object-directed facial polish."
+    },
+    {
+      "file": "S05_F08.png",
+      "time_seconds": 15,
+      "actual_state_en": "Door stays closed and shirt hangs free. Heroine holds both empty flat palms together at lower sternum with a small inclined head and settled patient smile after a brief bow.",
+      "actual_state_tc": "車門保持關好、衣角自由垂下。女主空手在胸骨下方平掌合攏，短暫輕鞠躬後保持微傾頭和耐心微笑。",
+      "expression_en": "Heroine gentle lowered eyelids and tiny closed smile after shallow bow; man self-aware downward gaze.",
+      "eye_target_en": "Heroine eyes lowered toward joined hands; man down toward own free shirt.",
+      "acting_direction_en": "Heroine settles after a shallow bow with joined flat palms and soft eyes; man stands relaxed, shirt intact and clearly outside the closed seam.",
+      "acting_direction_tc": "女主淺鞠躬後平掌合攏停穩，眼神放柔。男子放鬆站著，襯衫完整、清楚留在已關門縫外。",
+      "hand_ownership_en": "Heroine two empty palms together at lower sternum. Man both empty hands down.",
+      "generation_prompt": "Use case: identity-preserve. Edit the supplied single film-reference still. Preserve its exact framing and 9:16 portrait canvas, character identities, hairstyles, clothing, proportions, parked cream car, door geometry and current open/closed state, all hand positions and cloth state, golden light and background. Do NOT redesign or move anything. This is a subtle acting polish for wordless visual comedy: the man should look at the practical problem/result, the heroine at the relevant object, not exchange romantic looks. Maintain high-end stylized 3D game art, no text, subtitles, logos, borders or extra people. Only change the specified eyes, eyebrows, tiny facial muscles and minute head inclination; leave all poses and props unchanged. F08, familiar sign-off. Keep CLOSED door, shirt hanging freely, man's empty hands down, heroine two empty flat palms joined at lower sternum, fingertips up, settled after one small bow. Refine heroine to a small forward chin dip with relaxed eyelids and a kind restrained closed-lip smile, eyes lowered toward her joined hands; no deep bow. Man looks down toward his now-free shirt with a modest sheepish closed-lip smile, not toward her face. All physical relationships and clothes unchanged.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP05_Shirt_Door/01_Reference_Images/S05_F08.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-9a254b7f-b5ed-44c3-9aba-15d2abcb158b.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep05/01_Reference_Images/S05_F08.png",
+      "sha256": "c6ae128d855f2844eb968c9cb1c217eddeed152162151ad2613cb814c2dfc40e",
+      "size": [
+        941,
+        1672
+      ],
+      "qa": "Accepted: physical state and prop ownership retained; object-directed facial polish."
+    }
+  ],
+  "qa": {
+    "all_eight_actually_edited": true,
+    "geometry": "Closed F01-F03; open F04-F05; closed F06-F08. Same front-hinged door and camera.",
+    "hands": "Heroine RIGHT handle F03-F05, withdrawn by F06; man LEFT owns continuous cloth F01-F06 and smoothing F07; empty hands at F08.",
+    "cloth": "Broad intact blue hem remains connected to shirt, caught until door opens; free and clear before closure.",
+    "expression": "No mutual romantic gaze; concern/effort then focused action then recognition then modest bow.",
+    "limitations": "Static states checked; actual generated video motion still needs inspection. Eye targets are implied by pupils and head inclination, not a guarantee of animated eyeline."
+  }
+}

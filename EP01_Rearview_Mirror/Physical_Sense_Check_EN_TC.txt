@@ -1,0 +1,65 @@
+V6 PHYSICAL / SILENT PERFORMANCE CHECK
+
+CONTINUITY / 連戲
+Both adults stay forward-seated; preserve the rear camera axis.
+Heroine LEFT hand alone adjusts the existing mirror joint.
+The phone/tape stay fixed; reflected view follows mirror rotation.
+Hands return to own lap before the forward seated bow.
+Reference states are exact intended boundary states: finish the preceding transition before that timestamp; do not start acquiring an already-shown grip afterward.
+In muted viewing, the first two seconds show a specific mistaken method; real contact and the separate visible result explain the simple solution.
+Eye target confirms the successful result before relief; only then compare the redundant tool/method and allow the small sheepish smile. One dominant cue per beat.
+Both mouths stay softly closed throughout; generate visuals without audio, then replace any source audio with separately prepared instrumental music and clean Foley.
+REFLECTION LOCK: F01-F03 show only the beige headliner in the real mirror. During 3-5s, her LEFT fingertips first grip the BLACK lower mirror frame, clearly separate from the phone below-left, then rotate that same mirror on its existing joint. The optical view sweeps continuously from headliner, past the upper rear-window edge, to the empty rear window and quiet rear courtyard with a plain brick wall, low green plants and stone paving BEHIND the car. At F04 the adjustment is complete; this rear view remains unchanged through F08. The phone is never touched and its fixed image-only camera preview keeps showing that same rear location with its own camera perspective. No face, person, duplicate occupant, filming camera or forward sunset skyline appears inside either device. Do not copy the front windshield into the mirror, crossfade reflected scenes, or return to the headliner after release.
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+兩人朝前坐，保持後方鏡頭軸線。
+只有女主左手調整原有鏡軸。
+手機及膠帶固定，反射隨鏡子旋轉改變。
+雙手回到自己膝上，才朝前坐姿合掌。
+參考圖是指定時間邊界的狀態：前一轉換須於該時點前完成，不在之後才開始取得圖中已握好的姿勢。
+靜音看前兩秒應見具體錯誤方法；真正接觸與獨立可見結果解釋簡單解法。
+視線先確認成功結果才安心，之後才比較多餘工具或方法、淡淡尷尬一笑；每拍一個主表情。
+全程嘴唇自然輕閉；生成無音訊畫面，後期以獨立純演奏及乾淨物件音效取代任何原音軌。
+反射鎖定：F01至F03真正鏡子只映米色車頂。第3至5秒，女主左手指尖先握實際黑色下鏡框，與左下方手機清楚分開，才沿原有轉軸轉動同一鏡子。反射連續掃過車頂、後窗上緣，最後看見空的後窗及車後安靜後庭院：素磚牆、低矮綠植與石鋪地面。F04已調好，此後維持同一後景直到F08。手機全程不被碰觸，其固定無字相機預覽以自身鏡位顯示同一車後位置。兩個裝置內不出現臉、人物、重複乘客、攝影機或前方夕陽天際線；不把擋風玻璃前景複製進鏡子，不用溶接切換反射，手離開後不再映回車頂。
+保留原有玻璃透明度與反射空間，不新增反射人臉、重複人物或不可能的鏡中房間；非故事重點的反射保持簡單穩定。
+
+REJECT / 必須修復
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+Opening contains only mutual looks; phone-related difficulty is not visible.
+Either seated torso faces backward or a person changes seats.
+Mirror reflection changes before hand contact or phone moves without contact.
+An extra hand appears, hand crosses through mirror, or reflection behaves like a digital transition.
+Concerned faces without a visible mistaken method in the first two seconds.
+Relief or smiling before the physical result; repeated mutual gaze replacing the redundant-method comparison.
+Story message rendered as dialogue, subtitle, floating caption or readable prop text.
+Her fingers touch the phone rather than the BLACK mirror frame.
+Mirror begins with a corrected rear view, changes without contact, shows a face/front skyline, or resets to headliner after 5s.
+Any voice reference or reference_audios input is supplied.
+Export is not 9:16 or faces/key contact props were distorted by stretching or blind cropping.
+任何角色張嘴或做說話口型，即使已靜音也須重做；刪除音訊不能修好說話動作。不要寫出故事訊息，不加字幕、字卡、標籤、標誌、產品名稱或遊戲介面。
+開場只有互看，沒有可讀的手機觀看困難。
+坐姿軀幹向後或人物交換座位。
+手未碰鏡反射已改變，或手機沒有被碰卻移動。
+出現多餘手、手穿過鏡子，或反射像數位轉場。
+前兩秒只有擔心表情，卻看不見具體錯誤方法。
+物理結果前已安心微笑；用反覆互望代替對多餘方法的比較。
+把故事訊息做成對白、字幕、浮動字卡或可讀道具文字。
+手指碰手機而非真正黑色鏡框。
+鏡子開場已調好、未接觸就換景、出現臉／前方天際線，或第5秒後映回車頂。
+提供任何人聲參考或reference_audios輸入。
+實際輸出不是9:16，或拉伸／盲目裁切扭曲角色及關鍵接觸道具。
+
+STORY / 故事
+Mute the film: within the first two seconds, identify what the person is wrongly trying, not merely that they look concerned.
+The real control or usable object is visible before intervention, and the eye target leads naturally toward it.
+Visible correct-hand contact precedes movement; the result is a separate readable state, not a magical jump.
+The person looks at the successful result and then their redundant method or tool; this comparison makes the message explicit without text.
+Relief and the small embarrassed lip press occur only after proof that the action worked. No lingering romantic gaze.
+Empty hands, correct posture and unchanged result precede the last 1.5-second signature bow.
+Both mouths stay softly closed throughout; generate visuals without audio, then replace any source audio with separately prepared instrumental music and clean Foley.
+把影片靜音：前兩秒應看懂人物正在用哪種錯誤方法，而不只是看出他擔心。
+出手前已看見真正控制處或可用物件，視線自然引導觀眾注意它。
+正確手部先實際接觸才有移動；結果是一個獨立可讀狀態，不是魔法跳變。
+人物先看成功結果，再看自己多餘方法或工具；這個比較不用文字也能明示故事。
+有證據奏效後才安心、才輕抿嘴尷尬；沒有延長曖昧互望。
+最後1.5秒招牌合掌前，雙手空出、姿勢正確、結果保持不變。
+全程嘴唇自然輕閉；生成無音訊畫面，後期以獨立純演奏及乾淨物件音效取代任何原音軌。

@@ -1,0 +1,32 @@
+V6 AUDIO AND REFLECTION CONTROL / 音訊與反射控制
+
+GENERATION / 生成
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+只生成無聲畫面。兩名角色全程不說話，嘴唇自然輕閉：不對嘴、不做說話口型、不活動下顎、不露齒或舌頭、不張嘴笑、不喘氣、不嘆氣、不發任何人聲。只用眼神、眉毛、小幅頭部動作及姿態表演。不生成音訊：沒有人聲、旁白、音樂或音效；音軌另於後期加入。
+
+POST / 後期
+POST-PRODUCTION ONLY: remove or disable the complete generated source-audio track before editing. Add one original or appropriately licensed relaxed instrumental jazz bed around 80 BPM: soft piano, sparse upright bass and brushed drums, continuous through the bow. No vocals, humming, scat, speech, laugh track or comedy sting. Add clean synchronized object Foley separately, with no human voices; keep music below useful contact sounds. Do not add jazz or Foley instructions to the silent generation prompt. If your interface explicitly offers audio-off, use it; no such UI or API setting is assumed here. Still inspect every face for talking-like animation.
+僅後期處理：剪輯前先完整移除或停用生成素材的原音軌。另加一段原創或已取得適當授權、約每分鐘80拍的輕鬆爵士純演奏：柔和鋼琴、疏落低音提琴與刷奏爵士鼓，樂句連續至合掌。無歌聲、哼唱、擬聲唱、說話、罐頭笑聲或笑點提示音。另配乾淨、同步、無人聲的物件音效，爵士低於重要接觸聲。不要把爵士或音效製作指示貼入無聲畫面生成提示詞。若介面明確提供關閉音訊功能可使用，本包不假設存在該介面或API設定。仍須逐一檢查臉部有沒有說話動作。
+
+MIRROR EPISODE / 鏡子一集
+REFLECTION LOCK: F01-F03 show only the beige headliner in the real mirror. During 3-5s, her LEFT fingertips first grip the BLACK lower mirror frame, clearly separate from the phone below-left, then rotate that same mirror on its existing joint. The optical view sweeps continuously from headliner, past the upper rear-window edge, to the empty rear window and quiet rear courtyard with a plain brick wall, low green plants and stone paving BEHIND the car. At F04 the adjustment is complete; this rear view remains unchanged through F08. The phone is never touched and its fixed image-only camera preview keeps showing that same rear location with its own camera perspective. No face, person, duplicate occupant, filming camera or forward sunset skyline appears inside either device. Do not copy the front windshield into the mirror, crossfade reflected scenes, or return to the headliner after release.
+反射鎖定：F01至F03真正鏡子只映米色車頂。第3至5秒，女主左手指尖先握實際黑色下鏡框，與左下方手機清楚分開，才沿原有轉軸轉動同一鏡子。反射連續掃過車頂、後窗上緣，最後看見空的後窗及車後安靜後庭院：素磚牆、低矮綠植與石鋪地面。F04已調好，此後維持同一後景直到F08。手機全程不被碰觸，其固定無字相機預覽以自身鏡位顯示同一車後位置。兩個裝置內不出現臉、人物、重複乘客、攝影機或前方夕陽天際線；不把擋風玻璃前景複製進鏡子，不用溶接切換反射，手離開後不再映回車頂。
+
+ACCEPTANCE / 驗收
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+任何角色張嘴或做說話口型，即使已靜音也須重做；刪除音訊不能修好說話動作。不要寫出故事訊息，不加字幕、字卡、標籤、標誌、產品名稱或遊戲介面。
+Review the visible mouth in normal-speed playback, then frame-by-frame around any movement. Check the entire final audio track with headphones; zero spoken words or human utterances. Inspect the mirror at opening, just before contact, during rotation, immediately after release and during the final bow. A prompt is a direction, not proof that the generated take passed.
+先正常播放檢查嘴部，再逐格看可疑動作。戴耳機聽完整最終音軌，不能有說話或人類發聲。鏡子須檢查開場、接觸前、轉動中、放手後及最終合掌；提示詞只是指令，不代表成片已通過。
+
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+保留原有玻璃透明度與反射空間，不新增反射人臉、重複人物或不可能的鏡中房間；非故事重點的反射保持簡單穩定。
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+Optional offline export helper: 04_Advanced/export_without_source_audio.py. It removes the original audio completely and can accept a separately supplied music track; this never fixes visible talking. Verify the actual final export is 15 seconds and 9:16. Do not stretch faces or blindly crop key action to force the ratio.
+選用離線輸出工具：04_Advanced/export_without_source_audio.py。完整移除原音軌，可另用獨立提供的配樂；它不能修好可見說話動作。實際輸出須檢查15秒及9:16；不要拉伸臉部或盲目裁掉關鍵動作來硬湊比例。
+
+REFERENCE GEOMETRY / 參考圖幾何
+The opening F01-F03 mirror housing is visibly tilted upward, with its glass foreshortened. F04-F08 use the corrected pitch. Animate that physical rotation at the existing ball joint; do not treat the two states as different pictures on an unchanged screen.
+F01至F03鏡殼可見向上傾斜，玻璃平面因透視而縮短；F04至F08為調好後的角度。須沿原有球形轉軸實際轉動，不能把兩種狀態當作固定螢幕切換圖片。

@@ -1,0 +1,58 @@
+宮廷少女的簡單解法 — V6
+五個無言故事 · 每集15秒 · 每集八張參考圖
+
+1. 重新開始生成
+不要附失敗MP4：錯誤說話口型與反射可能被沿用。只使用新版PNG和一份相符提示詞。
+
+2. 每次只附一集
+模式支援八張參考時，依順序附該集01_Reference_Images內F01至F08獨立PNG，貼上02_Grok_Prompts內一份完整Grok_EN或Grok_TC。英繁指令描述同一支無言影片，只選一種。不附PDF、檢查拼圖或分鏡格。
+
+3. 核對開場
+若有明確首幀控制，指定F01。核對開場預覽；EP01真正鏡子必須只映米色車頂，不能用F08或已調好後景作開場。其餘一般參考只引導狀態，不自動鎖定時間。
+若只支援一張，附F01並用對應First_Frame_Only提示詞；不要漏附圖片卻貼八圖版。選用API說明在04_Advanced，本包不假設一般介面具備相同功能。
+
+4. 只生成無聲畫面
+有控制項時選15秒、直式9:16。全程嘴唇自然輕閉，以眼神與姿態表演；無對白、旁白、對嘴或人類發聲。不提供聲音參考或reference_audios。若介面明確提供關閉音訊可使用，本包不杜撰API關閉音訊欄位。
+
+5. 先驗收畫面
+先靜音正常播放，再逐格檢查接觸；嘴型像說話，即使已靜音也不合格。核對錯誤方法、正確手部接觸、物理結果及空手合掌。EP01左手只碰黑色真鏡框、不碰手機；轉鏡時反射才從車頂連續轉至空後庭院，之後保持到合掌。詳看逐集Physical_Sense_Check及00_Series/Audio_And_Reflection_Control_EN_TC.txt。
+
+6. 聲音後期另加
+完整移除生成素材原音軌。另配原創或已取得適當授權的爵士純演奏與乾淨同步物件音效；無說話、哼唱、擬聲唱、罐頭笑聲或其他人聲。爵士低於重要接觸聲。本包提供配樂指引，沒有音樂錄音。
+選用04_Advanced/export_without_source_audio.py可移除原音軌及另配獨立音樂；它不能修好嘴型或錯誤反射。
+
+7. 局部修復及輸出
+修復提示詞只替換失敗片段，檢查剪接兩邊連戲，最後仍保留15秒。實際輸出須為9:16，臉與關鍵接觸道具完整；不要拉伸或盲目裁切。戴耳機聽完整最終音軌，不可殘留說話或任何人聲。
+
+內容
+五集、40張獨立故事PNG、英繁主提示詞及單首幀備用版、40份個別修復提示詞、表演／物理／聲音檢查、選用離線工具及PDF。V6修改EP01八張參考，保留EP02至05的32張已確認圖片；五集均更新無聲表演及音訊流程。未生成新MP4或音樂錄音；靜態素材不保證生成動作正確。
+
+
+PALACE COMMON SENSE — V6
+Five wordless stories · 15 seconds each · Eight references per episode
+
+1. START FRESH
+Start a new generation. Do not attach the failed MP4: its talking-like mouth movement and wrong reflections can be copied. Use the new PNGs and one matching text prompt.
+
+2. ATTACH ONE EPISODE ONLY
+If your mode supports eight references, attach that episode’s separate F01-F08 PNGs in order from01_Reference_Images. Paste ONE complete Grok_EN or Grok_TC prompt from02_Grok_Prompts. Both languages direct the same wordless film. Do not attach the PDF, a contact sheet or a storyboard grid.
+
+3. CHECK THE OPENING
+If an explicit First frame control exists, assign F01 there. Check the opening preview against F01; EP01 must begin with beige headliner in the real mirror. Do not let F08 or an already corrected mirror become the first frame. Other ordinary references guide states, not automatic time pins.
+If only one image is supported, attach F01 and use the matching First_Frame_Only prompt. Do not paste the eight-input prompt while omitting its images. Optional API guidance is in04_Advanced; consumer interface capabilities are not assumed.
+
+4. GENERATE VISUALS WITHOUT AUDIO
+Request15 seconds and vertical9:16 where controls exist. Use closed-mouth, nonverbal acting only; no dialogue, narration, lip-sync or human utterances. Do not supply voice references/reference_audios. If an audio-off control is explicitly offered, use it; this package does not invent an API audio-off field.
+
+5. REVIEW THE PICTURE FIRST
+Watch muted at normal speed, then inspect contact frames. Any speaking-like mouth motion fails even after muting. Check the mistaken method, correct-hand contact, physical result and final empty-hand bow. EP01: LEFT fingers touch the BLACK mirror frame, never the phone; ceiling changes continuously to the empty rear courtyard only while the mirror rotates, then remains there through the bow. See the per-episode Physical_Sense_Check and00_Series/Audio_And_Reflection_Control_EN_TC.txt.
+
+6. ADD SOUND SEPARATELY
+Remove the entire generated source-audio track. Add one original or appropriately licensed instrumental jazz bed and clean synchronized object Foley in post. No voices, humming, scat, laughter track or human utterances. Music remains quiet beneath useful contact sounds. The package contains a music brief, not an audio recording.
+Optional04_Advanced/export_without_source_audio.py removes source audio and can accept a separately supplied music track. It cannot fix a moving mouth or incorrect reflection.
+
+7. REPAIR AND EXPORT
+Use the local repair prompts only to replace failed sections. Match both sides of the edit; keep the finished film15 seconds. Check the ACTUAL output is9:16, with faces and key contact props intact. Do not stretch or blindly crop the film. Listen to the complete final soundtrack with headphones; no speech or human vocal sounds may remain.
+
+WHAT IS INCLUDED
+Five episodes;40 separate story PNGs, EN/TC main and single-frame prompts,40 individual repair prompts, acting/physics/audio checks, optional offline helpers and a PDF deck. V6 edits the eight EP01 references and retains32 approved references forEP02-05. All five episodes receive the new silent-acting and audio workflow. No new MP4 or soundtrack was generated; static materials do not guarantee correct model motion.

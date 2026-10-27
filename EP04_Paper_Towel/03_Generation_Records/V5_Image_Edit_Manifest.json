@@ -1,0 +1,168 @@
+{
+  "episode": "EP04",
+  "revision": "V5",
+  "message_en": "Manual dispenser, not a sensor.",
+  "message_tc": "這是手動紙巾盒，不是感應器。",
+  "frames": [
+    {
+      "file": "S04_F01.png",
+      "time_seconds": 0,
+      "actual_state_en": "Man RIGHT palm directly under short attached tail without contact, LEFT down; heroine empty hands low, eyes on paper/palm.",
+      "expression_en": "Man watches the unmoving paper tail with an expectant concentrated brow while RIGHT palm waves directly underneath; heroine observes the useless wave neutrally.",
+      "eye_target_en": "Man at paper/slot; heroine down toward exposed tail and hovering right palm.",
+      "hand_ownership_en": "Man RIGHT under paper, LEFT down. Heroine both hands low.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP04_Paper_Towel/01_Reference_Images/S04_F01.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-070a022c-4d55-43cb-bcb5-7e195429d961.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep04/01_Reference_Images/S04_F01.png",
+      "generation_prompt": "Precise identity-preserving facial correction. In this exact image change ONLY the heroine's head pitch and pupils: lower her chin clearly enough that she is looking down at the WHITE PAPER TAIL and the man's palm directly below it (approximately image center, below her eye level). Her eyes should not point up-left toward his face. Both irises track down-left; upper eyelids follow the lowered gaze naturally. Her expression is neutral attentive, eyebrows relaxed, lips softly closed without smile. Preserve her exact face shape, brown eyes, hairstyle, coral ribbon, all costumes and hands. DO NOT change the man's face or pose. DO NOT change any body, hand, paper, dispenser, counter, kitchen, lighting, composition or framing. Same vertical9:16 full-frame artwork. No text or new objects.",
+      "initial_generation_prompt": "Use case: identity-preserve. Edit the attached approved EP04 frame 01 only. Preserve this exact vertical 9:16 composition, two adult characters, face identities, hairstyles, costumes, hands and all physical geometry, warm lighting, dispenser, paper tail, kitchen and empty counter. Change ONLY facial microexpression and eye aim for a readable silent comedy: the man on the left is mistakenly expecting this manual dispenser to be automatic. His RIGHT palm remains directly beneath the dangling paper without contact, LEFT arm stays down. His eyes point unmistakably at the paper's bottom slot above his palm, brows mildly raised with earnest expectation, lips closed neutrally, no smile. The heroine watches his hovering palm/paper tail with attentive neutral eyes and relaxed brows, not looking up at his face, not smiling yet. Her hands remain low in the identical pose. The joke is 'manual dispenser, not a sensor', expressed solely by acting; render absolutely no writing. Preserve every prop and hand exactly. No new objects, no extra limbs, no gesture changes, no paper movement, no readable text, no labels, no watermark. Highest quality consistent polished stylized game art. Output one full-frame image.",
+      "sha256": "630796fe6114f35a5d3ff018026fcc56efa5326dc298d33976a77f0de4b0e05b",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "newly_edited": true
+    },
+    {
+      "file": "S04_F02.png",
+      "time_seconds": 1.5,
+      "actual_state_en": "Man LEFT palm directly under same attached tail, RIGHT down; heroine lowers gaze with patient brow lift.",
+      "expression_en": "Man gives the LEFT-hand wave with a more puzzled brow, lips closed; heroine's eyes shift from his palm to the exposed paper edge, one slight brow lift.",
+      "eye_target_en": "Man at unmoving paper; heroine down-left toward tail and hovering left palm.",
+      "hand_ownership_en": "Man LEFT under paper, RIGHT down. Heroine both hands low.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP04_Paper_Towel/01_Reference_Images/S04_F02.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-fa1ee51f-91d8-4102-895f-6b310976aa7e.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep04/01_Reference_Images/S04_F02.png",
+      "generation_prompt": "Precise facial retouch of heroine only. Keep exact attached frame02, the same adults and all bodies, hands, paper, dispenser, background and vertical9:16 framing. Lower ONLY heroine's chin more clearly and aim both brown irises DOWN-LEFT toward the hanging white paper above the man's waiting palm, not up-left to his face. Her lowered eyelids follow the gaze; eyebrow nearest the paper lifts very slightly in patient recognition, mouth remains closed neutral. Preserve her lovely exact face identity and hairstyle, no new expression lines or redesign. Man's furrowed concentrated face and LEFT palm under paper are unchanged. Keep physical paper geometry, lighting, props and all original pixels outside head area as closely as possible. No text, watermark, new props or camera change. One full-frame image.",
+      "initial_generation_prompt": "Use case: identity-preserve. Edit only facial acting in this approved EP04 frame02. Preserve exact vertical9:16 artwork, adult identities, outfits, hands, poses, dispenser, short hanging paper, empty counter, camera and golden kitchen. The man remains slightly hunched, LEFT palm waiting directly beneath the unchanged paper tail, RIGHT hand low. He stares down-right at the unmoving paper and slot with more puzzled knitted eyebrows and tightly closed lips, no smile. The heroine has noticed the obvious manual paper edge: lower her chin a little and direct both eyes clearly DOWN-LEFT at the hanging paper near his palm, not up at his face. Give her just one slightly lifted eyebrow and a calm closed mouth, no smile or romantic expression. Her hands remain folded low, unchanged. One tiny skeptical eyebrow is the only joke accent. Nothing happens to paper. Do not move hands or body, add props, or alter face identity. Keep exact dispenser geometry and setting. No words, labels, symbols, watermark. Output one polished full frame.",
+      "sha256": "4b6e52592b32125ebec55b033231b7dc865517fe96a314fb4407da36244d5dd7",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "newly_edited": true
+    },
+    {
+      "file": "S04_F03.png",
+      "time_seconds": 3,
+      "actual_state_en": "Both his hands have withdrawn to his own sides. Her LEFT fingers approach the lower paper edge with a visible gap; her RIGHT fingers hover near the slot. Paper remains short and attached.",
+      "expression_en": "With his hands down, man looks at her approaching paper grip; heroine's eyes focus exactly on the paper edge, no smile.",
+      "eye_target_en": "Both gaze at lower paper edge and approaching fingers.",
+      "hand_ownership_en": "Heroine LEFT approaches lower edge, RIGHT approaches upper edge; man hands clear.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP04_Paper_Towel/01_Reference_Images/S04_F03.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-6042ed5e-90a7-4e30-ad67-7c4aa5044b46.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep04/01_Reference_Images/S04_F03.png",
+      "generation_prompt": "Use case: identity-preserve. Edit facial expression and gaze only in attached EP04 frame03. All scene geometry, characters' identities, hair, clothing, hands, paper, positions, camera, vertical9:16 framing and golden lighting must remain identical. The heroine is calmly beginning the obvious manual solution. Keep her LEFT hand approaching below the short paper tail with the visible gap, RIGHT fingers near upper edge exactly as drawn; paper still attached to fixed dispenser. Lower her chin a little and aim both eyes DOWN-LEFT precisely at the lower paper edge and approaching LEFT fingers; neutral lips together, brows calm and lightly focused. Do not smile, look at the man or act romantic. The man has both arms down unchanged and his eyes focus down-right on her approaching paper grip, brow tension easing only slightly with curiosity; mouth closed, no smile yet. The viewers must follow her gaze to the paper, not a conversation. Do not change any hands or physical state; no text, symbols or new objects. One polished full-frame image.",
+      "initial_generation_prompt": "Use case: identity-preserve. Edit facial expression and gaze only in attached EP04 frame03. All scene geometry, characters' identities, hair, clothing, hands, paper, positions, camera, vertical9:16 framing and golden lighting must remain identical. The heroine is calmly beginning the obvious manual solution. Keep her LEFT hand approaching below the short paper tail with the visible gap, RIGHT fingers near upper edge exactly as drawn; paper still attached to fixed dispenser. Lower her chin a little and aim both eyes DOWN-LEFT precisely at the lower paper edge and approaching LEFT fingers; neutral lips together, brows calm and lightly focused. Do not smile, look at the man or act romantic. The man has both arms down unchanged and his eyes focus down-right on her approaching paper grip, brow tension easing only slightly with curiosity; mouth closed, no smile yet. The viewers must follow her gaze to the paper, not a conversation. Do not change any hands or physical state; no text, symbols or new objects. One polished full-frame image.",
+      "sha256": "14ec55a9f700f267201b01c63f281783135b848f27431566f3790f8b452dd2a6",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "newly_edited": true
+    },
+    {
+      "file": "S04_F04.png",
+      "time_seconds": 5,
+      "actual_state_en": "Her LEFT fingers hold the lower edge of one extended paper length while her RIGHT hand steadies it near the slot. The paper is visibly still connected.",
+      "expression_en": "Heroine stays calmly focused on the connected sheet under her two hands; man's brows begin to lift as he notices the manual pull.",
+      "eye_target_en": "Heroine down at connected sheet; man down-right at manual pull.",
+      "hand_ownership_en": "Heroine LEFT lower grip, RIGHT upper support; man hands down.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP04_Paper_Towel/01_Reference_Images/S04_F04.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-2520445f-b2d0-4dee-adda-d181ef17312a.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep04/01_Reference_Images/S04_F04.png",
+      "generation_prompt": "Use case: identity-preserve. Retouch ONLY the facial microacting of attached approved EP04 frame04, with the exact same adult faces, hair and body proportions. Preserve vertical9:16 camera, clothing, hands, paper dimensions, dispenser, physical connected paper state, kitchen and warm light. The heroine looks down-left directly at the connected paper she is pulling, not at the man. Chin slightly lowered, eyes gently narrowed in calm focus, lips together without a smile. Keep LEFT fingers gripping lower edge and RIGHT fingers steadying upper edge near slot exactly as drawn. Man looks down-right at this obvious manual pull; his eyebrows now lift a small amount as he begins to understand, lips remain closed, no open-mouth gasp or big grin. Both faces must direct viewer attention to the actual hand-paper contact. No changes to hand anatomy/positions, roll or counter. No text, labels, watermarks, extra characters or new props. One polished full-frame image.",
+      "initial_generation_prompt": "Use case: identity-preserve. Retouch ONLY the facial microacting of attached approved EP04 frame04, with the exact same adult faces, hair and body proportions. Preserve vertical9:16 camera, clothing, hands, paper dimensions, dispenser, physical connected paper state, kitchen and warm light. The heroine looks down-left directly at the connected paper she is pulling, not at the man. Chin slightly lowered, eyes gently narrowed in calm focus, lips together without a smile. Keep LEFT fingers gripping lower edge and RIGHT fingers steadying upper edge near slot exactly as drawn. Man looks down-right at this obvious manual pull; his eyebrows now lift a small amount as he begins to understand, lips remain closed, no open-mouth gasp or big grin. Both faces must direct viewer attention to the actual hand-paper contact. No changes to hand anatomy/positions, roll or counter. No text, labels, watermarks, extra characters or new props. One polished full-frame image.",
+      "sha256": "62384fd251875f16242af8af9156003ae62b20c245f77baa878daf14e00e1c7f",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "newly_edited": true
+    },
+    {
+      "file": "S04_F05.png",
+      "time_seconds": 7,
+      "actual_state_en": "One elongated sheet is detached and hangs from her LEFT upper-corner grip. Her RIGHT hand has released near the slot. A short next tail remains; counter is empty; man realizes the solution.",
+      "expression_en": "Man looks at the single detached towel with a small realization brow lift; heroine checks the sheet calmly, without presenting it theatrically.",
+      "eye_target_en": "Both gaze at single detached towel.",
+      "hand_ownership_en": "After tear, visibly reposition LEFT grip to upper corner with RIGHT assistance, then release RIGHT.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP04_Paper_Towel/01_Reference_Images/S04_F05.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-c850bd36-c5a7-4342-8005-cc4180a9c384.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep04/01_Reference_Images/S04_F05.png",
+      "generation_prompt": "Use case: identity-preserve. Edit attached approved EP04 frame05 only, facial acting and gaze refinement. Preserve exact vertical9:16 composition, both adult identities/costumes, positions, hands, paper, dispenser, counter, light and background. The heroine has torn ONE elongated rectangle and LEFT fingers hold its upper corner; RIGHT hand remains just released near the slot. Keep these hands and detached paper exactly; short next tail remains in slot and counter empty. Her chin is a little lowered and eyes look DOWN-LEFT at the actual detached rectangle. She is calm, lips closed neutral, no theatrical presentation or smile. Man's eyes look down-right at this single towel; slightly raised eyebrows express a small realization, and CLOSE his mouth softly rather than open gasping. It must read 'oh, I should have pulled it'. No words printed anywhere. Preserve eye size, anatomy and charm, no face redesign. No changes to physical paper state, no extra paper/limbs/objects, no logos or watermarks. One full-frame image.",
+      "initial_generation_prompt": "Use case: identity-preserve. Edit attached approved EP04 frame05 only, facial acting and gaze refinement. Preserve exact vertical9:16 composition, both adult identities/costumes, positions, hands, paper, dispenser, counter, light and background. The heroine has torn ONE elongated rectangle and LEFT fingers hold its upper corner; RIGHT hand remains just released near the slot. Keep these hands and detached paper exactly; short next tail remains in slot and counter empty. Her chin is a little lowered and eyes look DOWN-LEFT at the actual detached rectangle. She is calm, lips closed neutral, no theatrical presentation or smile. Man's eyes look down-right at this single towel; slightly raised eyebrows express a small realization, and CLOSE his mouth softly rather than open gasping. It must read 'oh, I should have pulled it'. No words printed anywhere. Preserve eye size, anatomy and charm, no face redesign. No changes to physical paper state, no extra paper/limbs/objects, no logos or watermarks. One full-frame image.",
+      "sha256": "c8e9b94f5cb3c40a9ae89770fd15e0c26ef3b55912508b09f69ece97a6b167b7",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "newly_edited": true
+    },
+    {
+      "file": "S04_F06.png",
+      "time_seconds": 9,
+      "actual_state_en": "Her LEFT hand holds the same detached elongated sheet above the empty counter; her RIGHT hand is lowered. The same short next tail stays at the slot.",
+      "expression_en": "Her gaze stays on the sheet and clear landing area. Man starts glancing from the useful paper toward his own previously waving palm, no renewed waving.",
+      "eye_target_en": "Heroine down at paper/landing area; man gaze beginning down toward own lowered hand.",
+      "hand_ownership_en": "Heroine LEFT owns detached sheet; RIGHT down; both man hands down.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP04_Paper_Towel/01_Reference_Images/S04_F06.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-79284bb1-24f1-4de9-87d6-d69246fab513.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep04/01_Reference_Images/S04_F06.png",
+      "generation_prompt": "Use case: identity-preserve. Edit attached approved EP04 frame06 as a subtle acting correction. Preserve exact adult face identities, proportions, hairstyles, costume, vertical9:16 camera, hands and paper placement, dispenser and kitchen light. Only change both facial expressions and eye direction. Heroine LEFT hand still holds the SAME detached elongated paper rectangle by upper corner above empty counter; RIGHT remains lowered. She lowers chin slightly and looks DOWN at the sheet and clear countertop landing area, concentrated neutral mouth with no smile. Man's gaze drops down from the useful paper toward his OWN lowered hand near his hip, never at heroine's face. His eyebrows slightly relax and lips press into a modest embarrassed line, not broad grin. Keep shoulders/arms/hand poses exactly as in source. The paper and counter remain empty/unchanged respectively, short next tail stays in slot. This is recognition of his pointless sensor wave, not romantic glancing. No writing or symbols, no paper duplication, no physical redesign. One polished full-frame image.",
+      "initial_generation_prompt": "Use case: identity-preserve. Edit attached approved EP04 frame06 as a subtle acting correction. Preserve exact adult face identities, proportions, hairstyles, costume, vertical9:16 camera, hands and paper placement, dispenser and kitchen light. Only change both facial expressions and eye direction. Heroine LEFT hand still holds the SAME detached elongated paper rectangle by upper corner above empty counter; RIGHT remains lowered. She lowers chin slightly and looks DOWN at the sheet and clear countertop landing area, concentrated neutral mouth with no smile. Man's gaze drops down from the useful paper toward his OWN lowered hand near his hip, never at heroine's face. His eyebrows slightly relax and lips press into a modest embarrassed line, not broad grin. Keep shoulders/arms/hand poses exactly as in source. The paper and counter remain empty/unchanged respectively, short next tail stays in slot. This is recognition of his pointless sensor wave, not romantic glancing. No writing or symbols, no paper duplication, no physical redesign. One polished full-frame image.",
+      "sha256": "14813a75b8808b03cc06c93e1ba47d20d6620c0f844cb1f73305481986ef9f93",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "newly_edited": true
+    },
+    {
+      "file": "S04_F07.png",
+      "time_seconds": 11.5,
+      "actual_state_en": "The same sheet lies flat on the foreground counter. He looks at his own two empty palms with a sheepish smile. Her two empty hands are low at her own waist; nobody touches anyone.",
+      "expression_en": "Man studies his own empty palm, lips briefly pressed and shoulders relaxed in mild embarrassment; heroine has a tiny earned smile, hands safely in her own space.",
+      "eye_target_en": "Man studies own upturned palms; heroine gaze lower toward palms/counter with small smile.",
+      "hand_ownership_en": "Man palms up at own waist. Heroine hands low, empty and separate from him.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP04_Paper_Towel/01_Reference_Images/S04_F07.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-ef62df47-4706-47ad-a6ae-826c0f148dbc.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep04/01_Reference_Images/S04_F07.png",
+      "generation_prompt": "Use case: identity-preserve. Edit attached approved EP04 frame07, retaining EXACT physical hands, paper flat on counter, dispenser short next tail, costumes, face identities, warm light, kitchen and vertical9:16 framing. Refine only microexpression and eyelines to make the visual joke obvious without words. The man studies his own upturned empty RIGHT palm, chin slightly lowered; eyebrows now relaxed with a tiny self-conscious inner brow lift, lips pressed together in a small asymmetric sheepish smile. He understands he was waving at a manual dispenser. Do not make him theatrically shocked or stupid. The heroine lowers her gaze toward his empty palm/the paper on counter, NOT his face. Give her soft attentive eyes and a tiny earned closed-mouth corner smile, kindly amused, no grin or flirting. Keep both her empty hands low at her OWN waist; no touching anyone. One understated visible reaction each. All anatomy and objects identical, no new props, text, symbols, borders, watermark. Output one full-frame image.",
+      "initial_generation_prompt": "Use case: identity-preserve. Edit attached approved EP04 frame07, retaining EXACT physical hands, paper flat on counter, dispenser short next tail, costumes, face identities, warm light, kitchen and vertical9:16 framing. Refine only microexpression and eyelines to make the visual joke obvious without words. The man studies his own upturned empty RIGHT palm, chin slightly lowered; eyebrows now relaxed with a tiny self-conscious inner brow lift, lips pressed together in a small asymmetric sheepish smile. He understands he was waving at a manual dispenser. Do not make him theatrically shocked or stupid. The heroine lowers her gaze toward his empty palm/the paper on counter, NOT his face. Give her soft attentive eyes and a tiny earned closed-mouth corner smile, kindly amused, no grin or flirting. Keep both her empty hands low at her OWN waist; no touching anyone. One understated visible reaction each. All anatomy and objects identical, no new props, text, symbols, borders, watermark. Output one full-frame image.",
+      "sha256": "2f3f8ae1cde93c05e6b942d375fa9b209f1b348945177c03032f00947945a0c4",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "newly_edited": true
+    },
+    {
+      "file": "S04_F08.png",
+      "time_seconds": 15,
+      "actual_state_en": "Heroine empty flat palms joined at lower sternum, chin modestly inclined and eyes lowered; man arms down; same sheet flat on counter and next tail at slot.",
+      "expression_en": "Heroine's small bow has soft eyes and a calm mouth; man keeps hands to himself. The flat paper and exposed next tail stay clearly visible.",
+      "eye_target_en": "Heroine eyes lowered toward joined palms/counter; man down at result.",
+      "hand_ownership_en": "Heroine both empty palms joined; man hands down.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP04_Paper_Towel/01_Reference_Images/S04_F08.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-e975f2c6-1c41-4c8b-a154-e8521f5a48fb.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep04/01_Reference_Images/S04_F08.png",
+      "generation_prompt": "Use case: identity-preserve. Refine attached EP04 final frame08 only. Keep exact characters' adult identities, hair, costumes, full vertical9:16 camera, kitchen, dispenser, short paper tail and ONE same sheet flat on counter. Preserve heroine's two EMPTY flat palms pressed together at lower sternum, fingertips up, hands never touching the man. Adjust her head only into the settled finish of a small polite bow: chin modestly dipped straight forward, eyes gently lowered toward her joined hands/counter, relaxed eyebrows and tiny soft closed-mouth smile. Not looking up romantically at the man, not a deep waist bow. Keep body and hands otherwise exactly placed. The man keeps both arms down, chin slightly dipped toward the countertop sheet, lips in a small self-conscious closed smile; not looking into her eyes. Calm kind conclusion, not theatrical. Preserve all physical props and lighting, no extra paper, no writing/logos/watermark. One polished full-frame image.",
+      "initial_generation_prompt": "Use case: identity-preserve. Refine attached EP04 final frame08 only. Keep exact characters' adult identities, hair, costumes, full vertical9:16 camera, kitchen, dispenser, short paper tail and ONE same sheet flat on counter. Preserve heroine's two EMPTY flat palms pressed together at lower sternum, fingertips up, hands never touching the man. Adjust her head only into the settled finish of a small polite bow: chin modestly dipped straight forward, eyes gently lowered toward her joined hands/counter, relaxed eyebrows and tiny soft closed-mouth smile. Not looking up romantically at the man, not a deep waist bow. Keep body and hands otherwise exactly placed. The man keeps both arms down, chin slightly dipped toward the countertop sheet, lips in a small self-conscious closed smile; not looking into her eyes. Calm kind conclusion, not theatrical. Preserve all physical props and lighting, no extra paper, no writing/logos/watermark. One polished full-frame image.",
+      "sha256": "f4802daa386eb42a1459391f1236cfc7891ad1730ab4aac037a18c7aad9e9597",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "newly_edited": true
+    }
+  ],
+  "qa": {
+    "all_eight_individually_edited": true,
+    "imagegen_calls": 10,
+    "extra_calls": "F01 and F02 targeted eyeline correction",
+    "static_physics_check": "Pass: right-palm then left-palm attempts; approach; connected two-hand pull; detached left-held sheet; place same sheet; empty-hand bow.",
+    "continuity": "Same dispenser, fixed camera, wardrobe and characters; no unexplained extra paper or limbs.",
+    "limitations": "Static reference review only; paper tear/regrip and eye transitions must be checked in rendered motion. Minor regenerated surface texture variations may remain."
+  }
+}

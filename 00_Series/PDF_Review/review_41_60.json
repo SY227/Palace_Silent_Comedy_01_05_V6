@@ -1,0 +1,113 @@
+{
+  "status": "final pass",
+  "page_range": [
+    41,
+    60
+  ],
+  "visual_review": "Individually inspected all20 rendered pages at full displayed resolution. No clipping, overlap, missing glyphs or truncated prompt paragraphs. EN and Traditional Chinese readable. Story images preserve full vertical composition. Sound instructions consistently require silent visuals, closed lips and post-produced instrumental jazz/Foley; no stale generated-music request found. No hard blockers.",
+  "pages": [
+    {
+      "page": 41,
+      "sha256": "00a6cc2b43c00f460fdf7df0ed0259fbe0abae908509200dffe2b5a697ad6022",
+      "status": "pass"
+    },
+    {
+      "page": 42,
+      "sha256": "d89762fb3792f6b2f2cdf34b5bbfda14b12ae02fbd07400817c15d6ebde6b0e7",
+      "status": "pass"
+    },
+    {
+      "page": 43,
+      "sha256": "4ec1fc1d9dd41bc924950a0fa3f7a6bb4d083da8c178c90bbeaa1bf794087001",
+      "status": "pass"
+    },
+    {
+      "page": 44,
+      "sha256": "995a9f3640225884864e14c65cdb8a4a129c955dc65be28b6ba8fc03e7fdaf06",
+      "status": "pass"
+    },
+    {
+      "page": 45,
+      "sha256": "782efadf58c5fe5b0c96a71964b70f90d665aa253e14d41e22a71df4d579fc0f",
+      "status": "pass"
+    },
+    {
+      "page": 46,
+      "sha256": "a450da947018bd9556b5a4196c702c1d2e51397e9fd63493cc5c2ddd1907ba8e",
+      "status": "pass"
+    },
+    {
+      "page": 47,
+      "sha256": "1904a36c29a6ed4264655349d0a60910aef21cb6ee50947a1bc2a68b747a858d",
+      "status": "pass"
+    },
+    {
+      "page": 48,
+      "sha256": "fb23abca3edf99a8a581f4a8cc6bab2e08a9a40bf6949d33952a306f56537bb2",
+      "status": "pass"
+    },
+    {
+      "page": 49,
+      "sha256": "1e532d3c9698e91291b5873244538f77df84ae71705ba612a4620b67e3188e18",
+      "status": "pass"
+    },
+    {
+      "page": 50,
+      "sha256": "aa80b4a5e57586a46d5d7377b32be468010c53ff05a4eab4294bf3af6eb4fc6d",
+      "status": "pass"
+    },
+    {
+      "page": 51,
+      "sha256": "f8ba9587604b7d6baff1ce4b8c08ca4c63776c82a99467a12b3a829ebe18a4f2",
+      "status": "pass"
+    },
+    {
+      "page": 52,
+      "sha256": "4c2ad67821f0256ae1e75603f1831bcae59dbe8c4f3a247e9768da3403422409",
+      "status": "pass"
+    },
+    {
+      "page": 53,
+      "sha256": "b299f487574c9ec36529d1111b6714955eaadd389386af96f59447e4f9877aa6",
+      "status": "pass"
+    },
+    {
+      "page": 54,
+      "sha256": "e98411d7d3a4e3280b08509a32c9c907b1d533ac7a89247825518e24abe898f9",
+      "status": "pass"
+    },
+    {
+      "page": 55,
+      "sha256": "332b25f63581c6842c0ed8fe5e75b31c11dbac8b9483a55f23c2c4671708234c",
+      "status": "pass"
+    },
+    {
+      "page": 56,
+      "sha256": "a32525afca4bc6f606bbe87e541088f2ca6bd0f1e113bc461c7b2727b9e4e4a6",
+      "status": "pass"
+    },
+    {
+      "page": 57,
+      "sha256": "ab9c2a6a7e001aba2f80fcb1a3b95524f677982605d62e90ed6c0d5014da30d3",
+      "status": "pass"
+    },
+    {
+      "page": 58,
+      "sha256": "56d342583e2a708669380cc37d500de4962b35f79e29f841af9f1344e68ba4cd",
+      "status": "pass"
+    },
+    {
+      "page": 59,
+      "sha256": "5ee15c7aca661fdcb4d75196ba9c5ed38f239640de314dc1aff8f351872c1a6a",
+      "status": "pass"
+    },
+    {
+      "page": 60,
+      "sha256": "4f76b64a7ee9856cd84d8e047e658425dfd3c4468521ff880fdb7aa91ec3c7a6",
+      "status": "pass"
+    }
+  ],
+  "limitations": "Static PDF review only; not verification of generated motion or audio.",
+  "final_pdf_sha256": "28fe10bf2ee113db0700e5e5337c9af07ddf904d955ab4dda0b1547a253c6f7a",
+  "final_review_note": "Re-opened final changed pages43,53,58,59,60 after CJKcolumnheadingfix; all bilingual headings visible and legible. Other15pagehashes identical to already individually reviewed renders."
+}

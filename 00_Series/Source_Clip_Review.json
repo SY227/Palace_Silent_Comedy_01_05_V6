@@ -1,0 +1,68 @@
+{
+  "attachment": "upload/generated_video(3).mp4",
+  "episode_identified": "EP01 rearview mirror",
+  "duration_seconds": 15.041667,
+  "width": 784,
+  "height": 1168,
+  "fps": 24,
+  "audio": {
+    "stream_present": true,
+    "listened_or_transcribed": false,
+    "note": "User reports talking. Visual talking-like mouth movement confirmed; no claim about words or voice content."
+  },
+  "method": "30 video frames sampled every0.5s; enlarged reflection/contact review; stream0 only.",
+  "findings": [
+    {
+      "time": "0.0-5.5s",
+      "severity": "major",
+      "finding": "Mirror already shows rear seat/headrests and rear road from opening. Missing initial misadjusted headliner state; simple solution has no clear before/after."
+    },
+    {
+      "time": "0.5-2.0s",
+      "severity": "major",
+      "finding": "Man turns toward heroine and visibly opens/closes mouth in conversational rhythm. This reads as speaking instead of silent effort at phone."
+    },
+    {
+      "time": "5.5-7.0s",
+      "severity": "major",
+      "finding": "Heroine LEFT fingers contact phone screen, not mirror outer rim; mirror is never visibly adjusted by contact."
+    },
+    {
+      "time": "6.5-9.0s",
+      "severity": "major",
+      "finding": "Large heroine face appears inside mirror; reflected face moves independently from the existing static rear scene and changes back without supported mirror adjustment."
+    },
+    {
+      "time": "9.5-11.0s",
+      "severity": "major",
+      "finding": "Mirror returns to prior rear-seat/road view, again without visible hand contact."
+    },
+    {
+      "time": "11.5-15.0s",
+      "severity": "major",
+      "finding": "Mirror rotates toward headliner hands-free, reversing the intended solved state and breaking physical causality."
+    },
+    {
+      "time": "10.5-14.0s",
+      "severity": "moderate",
+      "finding": "Repeated mutual head turns and mouth expressions again read as conversation; object-comparison reaction is missing."
+    },
+    {
+      "time": "13.5-15.0s",
+      "severity": "moderate",
+      "finding": "Heroine lowers head but palms-together signature is not clearly shown in framing; avoid claiming finished bow is preserved."
+    },
+    {
+      "time": "whole clip",
+      "severity": "moderate",
+      "finding": "784x1168 is not9:16. Preserve faces/props and select true9:16 output; do not stretch current result."
+    }
+  ],
+  "correction_contract": {
+    "speech": "Wordless acting with gently closed lips. No speaking, lip-sync, syllabic mouth cycles, muttering, narration, singing, humming, laughter, gasps or vocal Foley. Communicate via eyes, brows, blink, head inclination and shoulder relaxation. Use original instrumental jazz and non-vocal Foley only. For guaranteed silent-human release, discard entire generated audio track and add separate instrumental/Foley tracks; muting alone does not cure talking mouths.",
+    "contact": "Heroine LEFT fingertips reach and touch MIRROR OUTER RIM only; never phone/tape. Contact precedes tilt; attached mirror stays on pivot. One small rotation only.",
+    "reflection": "F01-F03 reflect plain headliner with no road or faces. During contact/tilt, visible reflection shifts continuously toward rear window. F04-F08 solved rear window, two rear headrests and cooler quiet street remain geometrically stable. No invented face inserts or independent mirror motion. Exterior ahead and rearward view differ; no duplicate front skyline/sun. Phone preview remains separately framed rear-camera view, not identical mirror texture.",
+    "after_result": "Driver compares working mirror then redundant taped phone, lips closed, sheepish chin dip. No mutual dialogue-like gaze. Heroine returns LEFT hand to lap, closed-lip tiny smile, then small forward bow over own lap with both palms clearly visible.",
+    "scope": "Keep15s,8refs,carstationary,existingcostume/artdirection,relaxedjazz. Fix reference stills as needed; prompts alone cannot guarantee geometry."
+  }
+}

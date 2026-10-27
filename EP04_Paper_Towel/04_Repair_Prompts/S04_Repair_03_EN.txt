@@ -1,0 +1,30 @@
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+
+Create a wordless vertical 9:16 repair source shot for this same episode. Its action window will occupy 6.5 seconds in the final edit, replacing full-film 7-13.5s; it is not a new episode. All action-cue times are LOCAL to this source clip; reference provenance uses explicitly stated full-film times. Local 0 equals full-film 7s. If source duration is longer, hold the finished END STATE afterward with no additional action.
+
+INPUTS
+Attach these scene images in order: S04_F05.png, S04_F06.png, S04_F07.png. Start from S04_F05.png; if an explicit first-frame control exists, place only that image there. Remaining files guide subsequent states, not automatic time pins. There is no supplied exact 13.5s still. The last supplied reference is a recognition guide at 11.5s; finish the remaining small settling motion into the END STATE below. Do not pin that earlier frame to the end.
+
+START STATE at local 0
+One elongated rectangle is detached and held by LEFT at its upper corner after a visible two-hand regrip. RIGHT is free; short next tail remains.
+
+LOCAL ACTION
+Local 0-2 seconds: Her LEFT holds the same rectangle by its upper corner above the clear counter; RIGHT is free. She looks at the landing area, not at him. He glances from useful paper to his own previously waving palm. The hand remains still; he does not start a third wave.
+
+Local 2-4.5 seconds: She lays that sheet flat on the counter and releases it. He looks at the paper, then his own empty palm, and presses his lips briefly in embarrassed recognition: nothing was wrong with the dispenser. Her calm attention stays on the completed placement.
+
+Local 4.5-6.5 seconds: He lowers his hands and allows one small sheepish smile at his unnecessary waving. Only now she gives a tiny kind smile, hands empty and separate in her own space. No hand touching, offered palms toward him or romantic gaze.
+
+END STATE at local 6.5s
+One intact towel lies flat on counter and the short next tail stays in slot. Man has lowered his own hands. Heroine hands are empty and separate in her own space; no bow yet and no mutual contact.
+
+CONTINUITY
+One dispenser and one continuous paper strip; LEFT pulls, RIGHT steadies. During contact section only, visible tear precedes the visible two-hand LEFT regrip to upper corner. The resulting one rectangle keeps its shape and goes onto counter. Never reconnect a detached sheet; no character hand contact. Preserve accepted character identity, styling and camera axis.
+
+PERFORMANCE AND SOUND
+One dominant facial cue per beat, eyes targeting the problem/control/result/redundant method. No premature relief, repeated mutual gaze, dialogue, readable text or new gesture. Generate no audio; music and synchronized object Foley are added separately in post. Preserve the complete film at 15 seconds in the final edit.
+
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.

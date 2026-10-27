@@ -1,0 +1,420 @@
+V6 — attach only the matching F01 for each prompt. / 每份只附該集F01。
+
+EP01
+
+SILENT VISUAL FOOTAGE ONLY. Both characters keep their lips softly CLOSED throughout. No speech, lip-sync, word-shaped mouth movements, moving jaw, teeth, tongue, open-mouth laughter, gasps or sighs. Tell the joke through eyes, eyebrows, small head movements and posture.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+Create one complete 15-second vertical 9:16 visual comedy. Preserve the approved heroine’s brown eyes, braided brown side bun, coral ribbon, ivory-and-gold robe, jade dress, coral sash and wooden clerk tag. Keep the two original adults, styling and setting.
+
+REFERENCE INPUT
+Only F01 is attached as the first-frame image. The other seven states are described in the timeline, not attached. Begin with that visible problem and natural movement; preserve identity, camera axis, geometry, hand ownership and props through one continuous scene. No slideshow.
+
+STAGING
+A parked left-hand-drive car, engine off. A fixed rear-bench camera looks forward, slightly from the driver side. Man in vehicle-left driver seat; heroine in vehicle-right passenger seat. Hips, knees and feet face the dashboard; seatbacks remain behind shoulders. The phone sits below-left of the real BLACK-framed mirror, taped crookedly near the windshield; leave a visible gap between the devices. Phone screen and selfie camera face the empty rear cabin, showing only two beige rear headrests, the rear-window frame and a quiet rear courtyard with a plain brick wall, low green plants and stone paving behind the car, with no people or interface. The real mirror initially points too high and reflects only beige headliner. Front windshield retains the approved river/city sunset; that forward view is different from the rear courtyard. Phone, tape, mount, seats and camera never move.
+
+STORY
+0-1.5s: Man already squints at the tiny taped phone, brow pinched, leaning forward. Make one small futile head tilt by 1.5s. Heroine observes the awkward method, not his face.
+
+1.5-3s: He holds the awkward angle. Her eyes move from phone to real mirror, one raised eyebrow. LEFT fingertips hover beneath the BLACK mirror frame by 3s, without contact; reflection remains ceiling.
+
+3-5s: LEFT fingertips grip the BLACK mirror frame, not the phone. After visible contact, rotate once. By 5s the rear-courtyard reflection is settled and fingers still hold the frame. Eyes follow the real contact.
+
+5-7s: LEFT fingertips release the frame by 7s, then descend clear of the phone. Mirror angle and rear view stay fixed. Man studies the working reflection; only now his brow relaxes.
+
+7-9s: LEFT hand returns to her lap. Man looks from the real mirror to the unnecessary phone and back; one slight eyebrow lift, no torso turn.
+
+9-11.5s: He sits comfortably upright, checks the pointless tape, then dips his chin with a small sheepish closed-lip press. She calmly watches the working mirror.
+
+11.5-13.5s: He settles. She gives a tiny kind closed-mouth smile, facing forward, both hands separately on her lap. No exchange of looks.
+
+13.5-15s: She brings exactly two EMPTY flat palms visibly together at lower sternum, fingers upward. One shallow bow forward over her own lap, then hold. Keep the joined palms, fixed rear reflection and taped phone visible.
+
+PHYSICAL CONTINUITY
+F01-F03: real mirror reflects beige headliner only. During 3-5s, LEFT fingertips contact the BLACK lower mirror frame, visibly separate from the phone below-left. Rotate once on the existing joint; the view sweeps continuously through the upper rear-window edge into the empty rear window, TWO beige headrests and the brick-wall courtyard behind. F04-F08: keep that mirror angle and rear view fixed. Phone is never touched; its own wider camera preview shows the same rear location throughout. Never reflect faces, people, a camera or the FRONT sunset/skyline. No crossfade, scene substitution or return to ceiling. RIGHT hand stays on lap until the bow. Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+
+PERFORMANCE
+Eyes lead the head: problem, control, result, then redundant method. One facial cue per beat. Keep lips softly closed; small closed-lip smiles come only after the visible result. No repeated mutual gaze or camera-facing mugging. Finish with two empty flat palms and one shallow bow; in cars, bow forward over her own lap.
+
+AUDIO
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+RELEASE CHECK
+REJECT talking-like mouth animation even if muted. Removing audio does not fix visible speech. Reject a magical result, wrong contact target or changing reflection without physical cause. No text, subtitles, labels, logos, product mention or game UI.
+
+
+只生成無聲畫面。兩人全程嘴唇自然輕閉；不說話、不對嘴、不做說話口型、不動下顎、不露齒或舌頭、不張嘴笑、不喘氣或嘆氣。用眼神、眉毛、小幅頭部動作及姿態說故事。
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+製作完整15秒、直式9:16視覺喜劇。保留女主棕眼、棕色編髮側髻、珊瑚緞帶、象牙白金繡外袍、玉綠內裙、珊瑚腰帶與木製腰牌；兩名原創成年人、風格及場景不變。
+
+參考輸入
+只附F01作首幀；其餘七個狀態由時間線描述，沒有附圖。從圖中可見問題開始自然動作，以同一連續場景保持角色、鏡頭軸線、空間、手部歸屬與道具，不播放投影片。
+
+站位
+左駕車停妥，引擎關閉。固定後排鏡頭略靠駕駛側向前拍；男子在車左駕駛座，女主在車右乘客座。骨盆、膝蓋及雙腳朝儀表板，椅背仍在肩後。手機歪貼於擋風玻璃附近，在真正黑框鏡子的左下方，兩者保留可見空隙。手機螢幕及自拍鏡頭朝空的後排，只顯示兩個米色後座頭枕、後窗框及車後安靜後庭院：素磚牆、低矮綠植與石鋪地面，沒有人或介面。真正鏡子起初朝得太高，只映米色車頂。前擋風玻璃保留原河景／城市夕陽，與車後庭院不同。手機、膠帶、鏡座、座椅及攝影機均不移動。
+
+故事
+0-1.5s: 男子已前傾，睜眼瞇窄、皺眉看小手機，於第1.5秒前小幅歪頭一次仍無幫助；女主看錯誤方法，不看他的臉。
+
+1.5-3s: 男子保持彆扭角度；女主由手機看真鏡，輕挑眉。第3秒左手指尖停黑色鏡框下方未接觸，鏡中仍是車頂。
+
+3-5s: 左手指尖握黑色鏡框、不碰手機；清楚接觸後才轉一次。第5秒後庭院反射已停穩，手仍握框；眼睛追隨真正接觸。
+
+5-7s: 第7秒左手指尖離框下降，避開手機。鏡子角度與後景不變；男子看有用反射，此時眉心才放鬆。
+
+7-9s: 左手回自己膝上。男子由真鏡看多餘手機，再看回鏡子，只輕抬眉、不轉軀幹。
+
+9-11.5s: 男子坐直，看多餘膠帶後微低下巴、閉嘴輕抿，尷尬明白；她平靜看已能用的鏡子。
+
+11.5-13.5s: 男子停穩。她朝前淡淡友善閉嘴笑，雙手分開放膝上，不互相對望。
+
+13.5-15s: 她恰好兩隻空手在胸骨下方清楚平貼合掌，指尖向上，朝自己膝上淺欠一次後停穩。合掌、固定後景反射與貼著手機均保持可見。
+
+物理連戲
+F01至F03：真鏡只映米色車頂。第3至5秒左手先碰黑色下鏡框，與左下方手機清楚分開；沿原轉軸轉一次，反射連續掃過後窗上緣，至空後窗、兩個米色頭枕及車後磚牆庭院。F04至F08保持這個角度與後景。手機不被碰，其較闊相機預覽全程顯示同一後景。不可反映臉、人物、攝影機或前方夕陽天際線；不溶接、不換場景、不映回車頂。右手放膝上至合掌。 保留原有玻璃透明度與反射空間，不新增反射人臉、重複人物或不可能的鏡中房間；非故事重點的反射保持簡單穩定。
+
+表演
+先移眼再轉頭，依次看問題、控制處、結果及多餘方法。每拍一個主表情，嘴唇輕閉；結果可見後才淡淡閉嘴笑。不反覆互望、不對鏡頭擠眉弄眼。最後兩隻空手平貼合掌、淺欠一次；車內向自己膝上前欠。
+
+音訊
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+驗收
+即使靜音，嘴型像說話仍須重做；刪音軌不能修好可見說話動作。魔法式結果、碰錯物件或反射無故改變也須重做。不加文字、字幕、標籤、標誌、產品名稱或遊戲UI。
+
+
+EP02
+
+SILENT VISUAL FOOTAGE ONLY. Both characters keep their lips softly CLOSED throughout. No speech, lip-sync, word-shaped mouth movements, moving jaw, teeth, tongue, open-mouth laughter, gasps or sighs. Tell the joke through eyes, eyebrows, small head movements and posture.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+Create one complete 15-second vertical 9:16 visual comedy. Preserve the approved heroine’s brown eyes, braided brown side bun, coral ribbon, ivory-and-gold robe, jade dress, coral sash and wooden clerk tag. Keep the two original adults, styling and setting.
+
+REFERENCE INPUT
+Only F01 is attached as the first-frame image. The other seven states are described in the timeline, not attached. Begin with that visible problem and natural movement; preserve identity, camera axis, geometry, hand ownership and props through one continuous scene. No slideshow.
+
+STAGING
+A parked left-hand-drive car with engine off and accessory power on. The elevated windshield camera looks into the cabin: heroine screen-left in the vehicle-right passenger seat; woman screen-right in the vehicle-left driver seat. Both bodies face the dashboard. A small continuous strand of the driver’s hair tips is caught at the raised driver-window upper edge. The actual window rocker is on her outboard door armrest at far screen-right, reachable by her LEFT hand. One pair of closed red scissors is in her open lap bag. There are no competing window controls on the center console.
+
+STORY
+0-1.5s: Trapped hair tips are visibly taut without injury or neck strain. The driver looks from them to her lap bag, brow pinched, reaches in with RIGHT and brings the CLOSED red scissors to low chest height by 1.5 seconds, well away from hair and face. Heroine watches neutrally.
+
+1.5-3s: The driver briefly considers the already-raised CLOSED scissors, then returns them inside the same bag by 3 seconds. Heroine looks from scissors to the outboard rocker, raises one eyebrow slightly, and establishes a short RIGHT-index point toward it from her own seat by 3 seconds.
+
+3-5s: Continue that short point from her own side without crossing the driver torso. Scissors stay in the bag; driver RIGHT may rest on their handles there. Driver eyes follow the point, then LEFT index reaches the actual rocker by 5 seconds. Glass is still raised and hair caught at contact.
+
+5-7s: The driver presses once with her LEFT index. Only then does the same glass descend in its tracks, top edge visibly separating from the hair tips. By 7 seconds the intact strand has fallen free onto her shoulder; her brow starts to soften after release, LEFT still pressing.
+
+7-9s: Glass reaches halfway down and stops after she releases the rocker. She gently checks the same free strand with her LEFT hand, relieved but restrained. The heroine retracts her RIGHT pointing hand to her own lap. The scissors remain untouched in the bag.
+
+9-11.5s: The driver looks from the working switch down to the unused scissors. One small brow lift becomes a brief pressed-lip sheepish smile: she realizes she almost chose a haircut for a window problem. Her softened expression becomes a tiny knowing smile after this object-to-object comparison.
+
+11.5-13.5s: The driver settles both hands in her own space and gives one brief appreciative glance, then looks back to her freed hair. The heroine faces forward. No extended mutual gaze; window remains halfway down, hair intact and scissors inside the bag.
+
+13.5-15s: The heroine joins both empty flat palms at lower sternum and makes one shallow bow forward over her own lap toward the dashboard, eyes soft. Stay within her seat. Settle briefly with the freed hair and lowered glass unchanged.
+
+PHYSICAL CONTINUITY
+The driver uses her LEFT hand; the heroine points from her own side without reaching across the driver’s torso or touching the switch. The glass must descend before the hair can release. Keep that same strand attached to the driver’s head and intact. The closed scissors return to the bag before switch operation and never touch hair. Preserve one rocker, one window panel and each person’s two hands. Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+
+PERFORMANCE
+Eyes lead the head: problem, control, result, then redundant method. One facial cue per beat. Keep lips softly closed; small closed-lip smiles come only after the visible result. No repeated mutual gaze or camera-facing mugging. Finish with two empty flat palms and one shallow bow; in cars, bow forward over her own lap.
+
+AUDIO
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+RELEASE CHECK
+REJECT talking-like mouth animation even if muted. Removing audio does not fix visible speech. Reject a magical result, wrong contact target or changing reflection without physical cause. No text, subtitles, labels, logos, product mention or game UI.
+
+
+只生成無聲畫面。兩人全程嘴唇自然輕閉；不說話、不對嘴、不做說話口型、不動下顎、不露齒或舌頭、不張嘴笑、不喘氣或嘆氣。用眼神、眉毛、小幅頭部動作及姿態說故事。
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+製作完整15秒、直式9:16視覺喜劇。保留女主棕眼、棕色編髮側髻、珊瑚緞帶、象牙白金繡外袍、玉綠內裙、珊瑚腰帶與木製腰牌；兩名原創成年人、風格及場景不變。
+
+參考輸入
+只附F01作首幀；其餘七個狀態由時間線描述，沒有附圖。從圖中可見問題開始自然動作，以同一連續場景保持角色、鏡頭軸線、空間、手部歸屬與道具，不播放投影片。
+
+站位
+左駕車停妥、引擎關閉、附件電源開啟。略高的擋風玻璃鏡位向車內拍：女主在畫面左的車右乘客座，女子在畫面右的車左駕駛座。兩人身體朝儀表板。駕駛一小束連續髮尾被夾在升起的駕駛側窗上緣。真正車窗翹板開關在她外側車門扶手、畫面最右方，由她左手可及。唯一一把合起的紅剪刀在膝上打開的包內；中央控制台沒有競爭性的車窗按鍵。
+
+故事
+0-1.5s: 被夾髮尾明顯拉緊，但不受傷、不扯頸。駕駛皺眉由髮尾看膝上包，右手伸入，於第1.5秒前把合起紅剪刀拿至胸下，遠離頭髮和臉。女主中性觀察。
+
+1.5-3s: 駕駛短暫考慮已拿起的合起剪刀，隨即於第3秒前放回同一包。女主由剪刀看外側翹板，輕挑一眉，於第3秒從自己座位建立朝向開關的短促右食指指示。
+
+3-5s: 女主延續自己一側的短促指示，不跨駕駛軀幹。剪刀留包，駕駛右手可搭包內剪刀柄。駕駛目光跟隨指示，再於第5秒用左食指接觸真正翹板；接觸時玻璃仍升起、頭髮仍被夾。
+
+5-7s: 駕駛左食指按一次，之後同一玻璃才沿軌下降，上緣清楚離開髮尾。第7秒完整髮束已落回肩上；鬆開後她眉心才舒展，左手仍在按。
+
+7-9s: 玻璃降至一半，駕駛放開翹板後停住；她用左手輕查同一鬆開髮束，安心但克制。女主右手收回自己膝上。剪刀仍留包中，沒人再拿。
+
+9-11.5s: 駕駛由有用的開關低眼看沒用上的剪刀；輕抬眉後短暫抿嘴尷尬一笑，明白自己差點為車窗問題選擇剪髮。女主已放柔的表情，在這個物件之間的比較之後，才變成淡淡會心微笑。
+
+11.5-13.5s: 駕駛雙手在自己範圍停穩，短暫感謝地看一眼，便看回已自由的頭髮。女主面向前方。不延長互望；車窗半開、頭髮完整、剪刀留包。
+
+13.5-15s: 女主兩隻空手於胸骨下方平貼合掌，眼神柔和，向自己膝上、朝儀表板淺淺鞠躬一次，留在自己座位。短暫停穩，鬆開頭髮與下降玻璃不變。
+
+物理連戲
+駕駛用自己的左手操作，女主從自己一側指示，不跨駕駛軀幹或碰開關。玻璃必須先下降，頭髮才可鬆開。同一髮束一直連著駕駛頭部、完整無斷裂。剪刀合起、操作開關前已回到包，從不碰髮。保留同一開關、同一窗片，每人只有兩隻手。 保留原有玻璃透明度與反射空間，不新增反射人臉、重複人物或不可能的鏡中房間；非故事重點的反射保持簡單穩定。
+
+表演
+先移眼再轉頭，依次看問題、控制處、結果及多餘方法。每拍一個主表情，嘴唇輕閉；結果可見後才淡淡閉嘴笑。不反覆互望、不對鏡頭擠眉弄眼。最後兩隻空手平貼合掌、淺欠一次；車內向自己膝上前欠。
+
+音訊
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+驗收
+即使靜音，嘴型像說話仍須重做；刪音軌不能修好可見說話動作。魔法式結果、碰錯物件或反射無故改變也須重做。不加文字、字幕、標籤、標誌、產品名稱或遊戲UI。
+
+
+EP03
+
+SILENT VISUAL FOOTAGE ONLY. Both characters keep their lips softly CLOSED throughout. No speech, lip-sync, word-shaped mouth movements, moving jaw, teeth, tongue, open-mouth laughter, gasps or sighs. Tell the joke through eyes, eyebrows, small head movements and posture.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+Create one complete 15-second vertical 9:16 visual comedy. Preserve the approved heroine’s brown eyes, braided brown side bun, coral ribbon, ivory-and-gold robe, jade dress, coral sash and wooden clerk tag. Keep the two original adults, styling and setting.
+
+REFERENCE INPUT
+Only F01 is attached as the first-frame image. The other seven states are described in the timeline, not attached. Begin with that visible problem and natural movement; preserve identity, camera axis, geometry, hand ownership and props through one continuous scene. No slideshow.
+
+STAGING
+Inside a modern studio lobby, one glass door leads to an empty courtyard. Its horizontal push bar is on the near interior face. Hinges are fixed on the viewer-left jamb, so the panel opens AWAY from the camera into the courtyard. The fixed interior three-quarter view shows bar, jamb, threshold and both adults’ feet. The man in mustard stands screen-left; heroine screen-right near the bar’s free end. Both stand inside behind the threshold and outside the panel’s swing path. Keep the original hinge, handle geometry and floor lines. The open door can remain open without a visible closing spring.
+
+STORY
+0-1.5s: The man already grasps the bar with both hands and pulls toward himself, brow pinched and feet planted, shoulders leaning slightly back. The fully closed door does not budge. The heroine studies the direction of his pull, not his face.
+
+1.5-3s: At 1.5 seconds he starts the second compact tug with a brief cheek puff. Nothing changes. He releases, withdraws hands near his chest and straightens with one visible small foot reposition indoors, all complete by 3 seconds. Heroine has raised RIGHT palm toward the free end, still just before contact.
+
+3-5s: Continue her short RIGHT-palm approach. His hands and stance are already settled inside. Her flat palm contacts the moving bar near its free end, not the fixed latch housing; eyes focus there. Only after visible contact does outward movement begin, already slightly underway by 5 seconds.
+
+5-7s: Her RIGHT palm gently pushes away from the camera, following the bar. The same panel pivots on the original viewer-left hinge into the empty courtyard to the verified angle, roughly 45 degrees, by 7 seconds. He watches the opening gap, eyebrows lifting slightly as effort proves unnecessary.
+
+7-9s: The door holds the same open angle. She withdraws her RIGHT hand after it settles. The free bottom corner is beyond the threshold outside; both adults and all feet stay inside. The man looks from the easy open path down to his own hands by 9 seconds.
+
+9-11.5s: He turns his empty palms upward once, studying the hands that were pulling. Shoulders drop; lips press briefly in mild embarrassment. By 11.5 seconds she has withdrawn both hands to rest loosely at her own waist, with a tiny kind smile. The open path remains unobscured.
+
+11.5-13.5s: He lowers his palms with a restrained sheepish half-smile. Her hands rest loosely folded at her own waist, not yet the formal palms-together gesture. Feet stay planted; nobody enters or crosses the doorway. Avoid repeated glances between their faces.
+
+13.5-15s: With the door still open, she joins both empty flat palms at lower sternum and makes one shallow forward bow, eyes gently lowered. Both bodies stay clear of the panel. Hold a brief settled beat, not a deep waist bend.
+
+PHYSICAL CONTINUITY
+A fixed hinge determines the entire door arc. The free edge goes into the courtyard, never through either person. The man must let go before her push. Her RIGHT palm stays on the moving bar during the push; once released, hand and panel remain separate. The solid glass, metal frame and threshold keep their shape. Nobody crosses the doorway or changes sides. Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+
+PERFORMANCE
+Eyes lead the head: problem, control, result, then redundant method. One facial cue per beat. Keep lips softly closed; small closed-lip smiles come only after the visible result. No repeated mutual gaze or camera-facing mugging. Finish with two empty flat palms and one shallow bow; in cars, bow forward over her own lap.
+
+AUDIO
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+RELEASE CHECK
+REJECT talking-like mouth animation even if muted. Removing audio does not fix visible speech. Reject a magical result, wrong contact target or changing reflection without physical cause. No text, subtitles, labels, logos, product mention or game UI.
+
+
+只生成無聲畫面。兩人全程嘴唇自然輕閉；不說話、不對嘴、不做說話口型、不動下顎、不露齒或舌頭、不張嘴笑、不喘氣或嘆氣。用眼神、眉毛、小幅頭部動作及姿態說故事。
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+製作完整15秒、直式9:16視覺喜劇。保留女主棕眼、棕色編髮側髻、珊瑚緞帶、象牙白金繡外袍、玉綠內裙、珊瑚腰帶與木製腰牌；兩名原創成年人、風格及場景不變。
+
+參考輸入
+只附F01作首幀；其餘七個狀態由時間線描述，沒有附圖。從圖中可見問題開始自然動作，以同一連續場景保持角色、鏡頭軸線、空間、手部歸屬與道具，不播放投影片。
+
+站位
+現代工作室大堂內，一扇玻璃門通往空庭院。橫向推桿在靠鏡頭的室內面；鉸鏈固定於畫面左門框，門片朝遠離鏡頭方向、向庭院打開。固定的室內四分之三鏡位看見推桿、門框、門檻及兩人的雙腳。芥黃上衣男子在畫面左，女主在畫面右、推桿自由端附近。兩人均站門檻後的室內，避開門片轉動路徑。保持原有鉸鏈、把手結構及地磚線；門打開後可停在原位，沒有可見閉門彈簧。
+
+故事
+0-1.5s: 男子已雙手握桿向自己拉，眉心皺起、雙腳站穩、肩膀略後傾，完整關上的門沒有動。女主看他拉的方向，不看他的臉。
+
+1.5-3s: 第1.5秒男子短暫鼓頰，開始第二次短促拉動；門不動。他放手、雙手收胸前附近，站直並在室內清楚小調一次腳步，全部於第3秒完成。女主右掌已抬向自由端，仍在接觸之前。
+
+3-5s: 延續女主右掌的短距離靠近。男子的手與站姿已在室內停穩。她平掌接觸活動推桿自由端附近，不碰固定鎖殼，目光專注接觸點；清楚碰到後才向外動，第5秒已略微開始打開。
+
+5-7s: 女主右掌輕輕向遠離鏡頭方向推，手隨桿走。同一門片沿原有畫面左鉸鏈向空庭院轉，第7秒達已確認的約45度角。男子看正在打開的空隙，眉毛輕抬，發現原來不需用力。
+
+7-9s: 門保持同一開啟角度，停穩後女主才收右手。門片自由底角在門檻外庭院側，兩人及所有雙腳留室內。第9秒男子由輕鬆打開的通道低眼看自己雙手。
+
+9-11.5s: 男子只一次把空掌翻上，看剛才用來拉門的雙手；肩膀放鬆、短暫抿嘴有點尷尬。第11.5秒女主雙手已收至自己的腰前鬆放，帶極淡友善笑。打開的通道保持不被遮擋。
+
+11.5-13.5s: 男子帶克制的尷尬淡笑放下手掌。女主雙手鬆鬆疊於自己的腰前，尚未正式合掌。雙腳站原位，無人進入或跨過門口，不反覆互望臉部。
+
+13.5-15s: 門仍開著，女主兩隻空手於胸骨下方平貼合掌，目光輕垂，淺淺前欠一次。兩人身體避開門片，短暫停穩，不深彎腰。
+
+物理連戲
+固定鉸鏈決定整條開門弧線，自由端向庭院移動，不能穿過人物。男子必須先放手，女主才推。推動期間右掌留在活動推桿；放開後手與門片分開。玻璃、金屬框與門檻保持堅固形狀；沒有人穿門或換邊。 保留原有玻璃透明度與反射空間，不新增反射人臉、重複人物或不可能的鏡中房間；非故事重點的反射保持簡單穩定。
+
+表演
+先移眼再轉頭，依次看問題、控制處、結果及多餘方法。每拍一個主表情，嘴唇輕閉；結果可見後才淡淡閉嘴笑。不反覆互望、不對鏡頭擠眉弄眼。最後兩隻空手平貼合掌、淺欠一次；車內向自己膝上前欠。
+
+音訊
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+驗收
+即使靜音，嘴型像說話仍須重做；刪音軌不能修好可見說話動作。魔法式結果、碰錯物件或反射無故改變也須重做。不加文字、字幕、標籤、標誌、產品名稱或遊戲UI。
+
+
+EP04
+
+SILENT VISUAL FOOTAGE ONLY. Both characters keep their lips softly CLOSED throughout. No speech, lip-sync, word-shaped mouth movements, moving jaw, teeth, tongue, open-mouth laughter, gasps or sighs. Tell the joke through eyes, eyebrows, small head movements and posture.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+Create one complete 15-second vertical 9:16 visual comedy. Preserve the approved heroine’s brown eyes, braided brown side bun, coral ribbon, ivory-and-gold robe, jade dress, coral sash and wooden clerk tag. Keep the two original adults, styling and setting.
+
+REFERENCE INPUT
+Only F01 is attached as the first-frame image. The other seven states are described in the timeline, not attached. Begin with that visible problem and natural movement; preserve identity, camera axis, geometry, hand ownership and props through one continuous scene. No slideshow.
+
+STAGING
+A bright shared kitchenette, one clean counter and one unbranded off-white manual roll-paper towel dispenser. The box has a single wide bottom slot, a physical tear edge and one clearly exposed paper tail. It is a hand-operated dispenser with no sensor or motor. The man in a blue overshirt is screen-left; heroine screen-right. Both are already within comfortable reach and stay in place. The fixed medium three-quarter view keeps faces, slot, fingers and the clear counter landing area visible. A detached sheet is one elongated hand-towel rectangle; keep its shape and proportions constant.
+
+STORY
+0-1.5s: Man waves RIGHT empty palm directly beneath the exposed tail without contact, expectant eyes on the slot. Paper stays still. He lowers RIGHT and brings LEFT under the same tail to begin the second wave at 1.5 seconds. Heroine watches with a neutral mouth.
+
+1.5-3s: Finish that one LEFT-hand wave; puzzled brow, still no paper movement. He lowers both hands by 3 seconds. Heroine shifts eyes to the graspable edge with one subtle eyebrow lift; by 3 seconds LEFT fingers approach its lower edge and RIGHT is near the slot, before gripping.
+
+3-5s: With his hands already down, she completes the short approach and grasps the lower edge with LEFT; RIGHT steadies near slot/perforation. Her eyes focus on the paper. By 5 seconds the same sheet is under a controlled pull but still visibly connected to the roll; no premature smile.
+
+5-7s: LEFT pulls downward as RIGHT steadies above. One sheet separates visibly at the tear edge/perforation. Both hands briefly support it while LEFT visibly regrips an upper corner, then RIGHT releases. By 7 seconds one elongated rectangle is detached and the short next tail remains. He looks at the sheet, brow lifting.
+
+7-9s: Her LEFT holds the same rectangle by its upper corner above the clear counter; RIGHT is free. She looks at the landing area, not at him. He glances from useful paper to his own previously waving palm. The hand remains still; he does not start a third wave.
+
+9-11.5s: She lays that sheet flat on the counter and releases it. He looks at the paper, then his own empty palm, and presses his lips briefly in embarrassed recognition: nothing was wrong with the dispenser. Her calm attention stays on the completed placement.
+
+11.5-13.5s: He lowers his hands and allows one small sheepish smile at his unnecessary waving. Only now she gives a tiny kind smile, hands empty and separate in her own space. No hand touching, offered palms toward him or romantic gaze.
+
+13.5-15s: She joins both empty flat palms at lower sternum, softens her eyes and makes one small bow. The same detached sheet stays flat on the counter and the next tail stays in the slot. End with a brief settled beat and the practical result still visible.
+
+PHYSICAL CONTINUITY
+Her LEFT pulls; RIGHT steadies above. Paper stays connected until the tear. Afterward show both hands supporting the sheet as LEFT regrips its upper corner, then RIGHT releases. The same rectangle goes onto the counter. Both hands are empty before the bow. The man keeps his hands to himself; the box stays fixed. Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+
+PERFORMANCE
+Eyes lead the head: problem, control, result, then redundant method. One facial cue per beat. Keep lips softly closed; small closed-lip smiles come only after the visible result. No repeated mutual gaze or camera-facing mugging. Finish with two empty flat palms and one shallow bow; in cars, bow forward over her own lap.
+
+AUDIO
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+RELEASE CHECK
+REJECT talking-like mouth animation even if muted. Removing audio does not fix visible speech. Reject a magical result, wrong contact target or changing reflection without physical cause. No text, subtitles, labels, logos, product mention or game UI.
+
+
+只生成無聲畫面。兩人全程嘴唇自然輕閉；不說話、不對嘴、不做說話口型、不動下顎、不露齒或舌頭、不張嘴笑、不喘氣或嘆氣。用眼神、眉毛、小幅頭部動作及姿態說故事。
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+製作完整15秒、直式9:16視覺喜劇。保留女主棕眼、棕色編髮側髻、珊瑚緞帶、象牙白金繡外袍、玉綠內裙、珊瑚腰帶與木製腰牌；兩名原創成年人、風格及場景不變。
+
+參考輸入
+只附F01作首幀；其餘七個狀態由時間線描述，沒有附圖。從圖中可見問題開始自然動作，以同一連續場景保持角色、鏡頭軸線、空間、手部歸屬與道具，不播放投影片。
+
+站位
+明亮共用小廚房、一張乾淨檯面、一個無品牌米白手動捲紙巾盒。盒底只有一條寬槽、一條實際撕紙邊及一截清楚露出的紙尾。它由手拉動，沒有感應器或馬達。藍外襯男子在畫面左，女主在畫面右；兩人已在舒適可及位置，原地不動。固定中景四分之三鏡位同時看見臉、底槽、手指及空著的放紙檯面。一張取下的紙是修長手巾大小長方形，形狀與比例保持不變。
+
+故事
+0-1.5s: 男子右空掌在露出紙尾正下方揮，不接觸，期待地看底槽；紙不動。他放低右手，把左掌帶到同一紙尾下，於第1.5秒開始第二次揮動。女主嘴角中性地觀察。
+
+1.5-3s: 完成這一次左手揮動；眉心疑惑，紙仍不動。男子於第3秒前放低雙手。女主輕挑眉看可握紙邊，第3秒左手指已靠近下緣、右手在底槽附近，尚未握紙。
+
+3-5s: 男子雙手已放低，女主完成短距離靠近，以左手握下緣，右手在底槽或虛線附近穩住；眼睛專注紙張。第5秒同一張紙受控制拉動，但仍明顯連捲，不提前微笑。
+
+5-7s: 左手向下拉、右手在上方穩住；一張紙清楚在撕邊或虛線分開。雙手短暫托紙，左手明確換握上角後右手放開。第7秒一張修長長方形已取下，下一截短紙尾仍在。男子看紙，輕抬眉。
+
+7-9s: 女主左手握同一紙張上角，停在空檯面上方，右手空著。她看放紙處，不看男子。男子由有用紙張看自己剛才揮的手掌；手不再動，不開始第三次揮手。
+
+9-11.5s: 女主把同一張紙平放檯面並放開。男子看紙，再看自己空掌，短暫抿嘴尷尬地明白：紙巾盒根本沒壞。女主仍平靜注意已完成的放紙動作。
+
+11.5-13.5s: 男子放低雙手，為自己多餘揮手淡淡尷尬一笑。女主這時才輕輕友善微笑，空手分開留自己空間。不碰手、不向他遞掌、不曖昧互望。
+
+13.5-15s: 女主兩隻空手在胸骨下方平貼合掌，眼神柔和，小幅鞠躬一次。同一張紙仍平放檯面，下一紙尾留底槽。結尾短暫停穩，實用結果仍可見。
+
+物理連戲
+女主左手拉、右手穩住上方，紙直到撕開前一直相連。之後雙手托住，左手可見地換握上角，右手才放開。同一長方形放到檯面，合掌前雙手空出；男子不碰女主，紙盒固定。 保留原有玻璃透明度與反射空間，不新增反射人臉、重複人物或不可能的鏡中房間；非故事重點的反射保持簡單穩定。
+
+表演
+先移眼再轉頭，依次看問題、控制處、結果及多餘方法。每拍一個主表情，嘴唇輕閉；結果可見後才淡淡閉嘴笑。不反覆互望、不對鏡頭擠眉弄眼。最後兩隻空手平貼合掌、淺欠一次；車內向自己膝上前欠。
+
+音訊
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+驗收
+即使靜音，嘴型像說話仍須重做；刪音軌不能修好可見說話動作。魔法式結果、碰錯物件或反射無故改變也須重做。不加文字、字幕、標籤、標誌、產品名稱或遊戲UI。
+
+
+EP05
+
+SILENT VISUAL FOOTAGE ONLY. Both characters keep their lips softly CLOSED throughout. No speech, lip-sync, word-shaped mouth movements, moving jaw, teeth, tongue, open-mouth laughter, gasps or sighs. Tell the joke through eyes, eyebrows, small head movements and posture.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+Create one complete 15-second vertical 9:16 visual comedy. Preserve the approved heroine’s brown eyes, braided brown side bun, coral ribbon, ivory-and-gold robe, jade dress, coral sash and wooden clerk tag. Keep the two original adults, styling and setting.
+
+REFERENCE INPUT
+Only F01 is attached as the first-frame image. The other seven states are described in the timeline, not attached. Begin with that visible problem and natural movement; preserve identity, camera axis, geometry, hand ownership and props through one continuous scene. No slideshow.
+
+STAGING
+Outside a parked cream car, engine off. One ordinary side door is fully latched and flush CLOSED at the opening. Its hinge is at the front edge; the exterior handle and caught hem are by the trailing edge. The man is screen-left, heroine screen-right by the handle; both bodies stand fully outside the small outward swing path. A broad, intact lower corner of his blue untucked shirt is visibly clamped in the closed trailing seam. His LEFT hand gently holds that same fabric; his RIGHT hand is empty and low. Her RIGHT hand operates the exterior handle. Everyone stays outside.
+
+STORY
+0-1.5s: Start on the fully CLOSED latched door with the broad blue shirt corner clearly clamped in its trailing seam. The man looks directly at the snag, brow pinched, and gives a mild LEFT-hand tug. Cloth stays continuous from shirt body to seam; heroine studies the same snag.
+
+1.5-3s: At 1.5 seconds he briefly puffs cheeks for the second mild LEFT-hand tug, then stops by 3 seconds and only holds the cloth. She looks from snag to handle with a slight eyebrow lift; her RIGHT fingers establish contact on that handle by 3 seconds. Door remains fully shut, hem trapped.
+
+3-5s: Starting from her established RIGHT grip on the exterior handle, she unlatches and opens the same panel a little. Man LEFT holds the hem lightly without tugging. The seam must separate before the cloth releases. By 5 seconds the door is ajar and the intact hem is visibly free.
+
+5-7s: She holds the same small opening at the exterior handle, eyes checking the seam. With LEFT, he draws every fold of that freed broad corner toward his own hip until the closing seam is visibly empty by 7 seconds. His brow relaxes only after release; both bodies stay outside the arc.
+
+7-9s: Only after all cloth and fingers are clear, she gently closes the same panel. RIGHT stays safely on the exterior handle outside the seam, then releases after latching and lowers by 9 seconds. The flush closed door and fully outside intact shirt visibly prove the fix.
+
+9-11.5s: He looks from the handle down to his intact free hem and smooths it once with LEFT. A small closed-lip press and relaxed shoulders show embarrassment at having tugged instead of opening. Her RIGHT remains down; she allows a tiny patient smile only now.
+
+11.5-13.5s: He releases the hem and lets both hands settle at his sides; no extra head shake or tug. She keeps her gaze on the solved problem instead of prolonging a mutual look. Both remain in the same positions, hands empty and clear of the car, ready for the final bow.
+
+13.5-15s: She brings both empty flat palms together at lower sternum, eyes soft, and makes one shallow forward bow. Keep the door closed and shirt free. Settle briefly with palms joined after the bow, without adding another action.
+
+PHYSICAL CONTINUITY
+The opening must be a latched closed door, never an already-open panel. The trapped material is a broad corner of the same shirt, not a ribbon, cord or elastic strand. Handle contact causes unlatching, panel movement opens the seam, then cloth falls free. Clear all fabric before closing. During closure her RIGHT hand remains outside on the handle. No scissors, garment tearing or entering the car. Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+
+PERFORMANCE
+Eyes lead the head: problem, control, result, then redundant method. One facial cue per beat. Keep lips softly closed; small closed-lip smiles come only after the visible result. No repeated mutual gaze or camera-facing mugging. Finish with two empty flat palms and one shallow bow; in cars, bow forward over her own lap.
+
+AUDIO
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+RELEASE CHECK
+REJECT talking-like mouth animation even if muted. Removing audio does not fix visible speech. Reject a magical result, wrong contact target or changing reflection without physical cause. No text, subtitles, labels, logos, product mention or game UI.
+
+
+只生成無聲畫面。兩人全程嘴唇自然輕閉；不說話、不對嘴、不做說話口型、不動下顎、不露齒或舌頭、不張嘴笑、不喘氣或嘆氣。用眼神、眉毛、小幅頭部動作及姿態說故事。
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+製作完整15秒、直式9:16視覺喜劇。保留女主棕眼、棕色編髮側髻、珊瑚緞帶、象牙白金繡外袍、玉綠內裙、珊瑚腰帶與木製腰牌；兩名原創成年人、風格及場景不變。
+
+參考輸入
+只附F01作首幀；其餘七個狀態由時間線描述，沒有附圖。從圖中可見問題開始自然動作，以同一連續場景保持角色、鏡頭軸線、空間、手部歸屬與道具，不播放投影片。
+
+站位
+停妥的奶油色車外，引擎關閉。開場一扇普通側門已扣上、完全關閉並與車身平齊。鉸鏈在前緣，外把手及被夾衣角在後緣附近。男子在畫面左、女主在畫面右的門把旁，兩人身體均完全避開小幅朝外開門的路徑。他未紮入褲的藍襯衫有一塊寬而完整下角，清楚夾在關閉的後緣門縫。男子左手輕拿同一衣料，右手空著放低；女主右手操作外把手，全員一直在車外。
+
+故事
+0-1.5s: 開場車門完整扣上關好，寬藍衣角清楚夾在後緣門縫。男子皺眉直接看被夾處，左手輕拉一次；衣料從衣身至門縫連續完整。女主看同一被夾位置。
+
+1.5-3s: 第1.5秒男子短暫鼓頰，開始第二次左手輕拉；第3秒前已停，只輕握衣料。女主由夾處看門把、輕挑眉，右手指於第3秒已接觸握住門把。門仍完整關好、衣角仍被夾。
+
+3-5s: 由女主右手已握外門把的狀態開始，她解扣並把同一門片小幅打開。男子左手輕握衣角，不再拉扯。門縫必須先分開，衣料才鬆開；第5秒門半掩，完整衣角明顯自由。
+
+5-7s: 女主握外把手維持同一小幅開口，眼睛檢查門縫。男子用左手把已自由的寬衣角每處衣褶收向自己髖旁，第7秒關門縫明顯空著。他在衣角鬆開後才放鬆眉心；兩人身體避開門弧。
+
+7-9s: 所有衣料與手指移開後，女主才輕關同一門片。右手安全留在門縫外的外把手，扣上後才放開，於第9秒前放低。平齊關好的車門與完整留在車外的襯衫，清楚證明問題已解決。
+
+9-11.5s: 男子由門把低眼看完整自由衣角，左手撫平一次；輕抿嘴、肩膀放鬆，為剛才只拉衣服沒開門有點尷尬。女主右手保持放低，此刻才淡淡耐心微笑。
+
+11.5-13.5s: 男子放開衣角，雙手在身側停穩，不添加搖頭或拉扯。女主目光留在已解決問題，不延長互望。兩人仍在原位，空手離車身，準備最後合掌。
+
+13.5-15s: 女主兩隻空手在胸骨下方平貼合掌、眼神柔和，淺淺前欠一次。門保持關好、衣角自由。欠身後合掌短暫停穩，不再添其他動作。
+
+物理連戲
+開場必須是扣上的關門，不能已經開著。被夾的是同一襯衫的寬衣角，不是緞帶、細繩或彈性絲。先碰把手解扣，再由門片移動分開門縫，衣料才自由；所有衣料清空後才關門。關門時女主右手仍在外把手、門縫外。沒有剪刀、撕衣或上車。 保留原有玻璃透明度與反射空間，不新增反射人臉、重複人物或不可能的鏡中房間；非故事重點的反射保持簡單穩定。
+
+表演
+先移眼再轉頭，依次看問題、控制處、結果及多餘方法。每拍一個主表情，嘴唇輕閉；結果可見後才淡淡閉嘴笑。不反覆互望、不對鏡頭擠眉弄眼。最後兩隻空手平貼合掌、淺欠一次；車內向自己膝上前欠。
+
+音訊
+不生成音訊、對白、旁白或任何人聲。不提供聲音參考或reference_audios。先丟棄原音軌，再於後期另加爵士及乾淨物件音效。
+
+驗收
+即使靜音，嘴型像說話仍須重做；刪音軌不能修好可見說話動作。魔法式結果、碰錯物件或反射無故改變也須重做。不加文字、字幕、標籤、標誌、產品名稱或遊戲UI。

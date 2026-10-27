@@ -1,0 +1,192 @@
+{
+  "episode": "EP01",
+  "revision": "V5",
+  "message_en": "A mirror already does this.",
+  "frames": [
+    {
+      "file": "S01_F01.png",
+      "time_seconds": 0,
+      "actual_state_en": "Driver leans and squints upward at the crooked taped phone; real mirror still shows headliner. Heroine watches his effort, hands on lap.",
+      "actual_state_tc": "駕駛前傾瞇眼看歪貼的小手機，真正鏡子仍映出車頂；女主雙手放膝上，看著他的費勁動作。",
+      "expression_en": "Driver's open narrowed eyes target the tiny phone; pinched brow, slight forward lean. Heroine watches that awkward viewing effort with a neutral mouth, not the camera.",
+      "expression_tc": "駕駛睜著瞇窄的眼看小手機，眉心輕皺、稍微前傾。女主看他費力看螢幕的動作，嘴角中性，不看鏡頭。",
+      "eye_target_en": "Man: tiny crooked phone; heroine: upward toward phone/effort.",
+      "hand_ownership_en": "Both heroine hands resting on own lap; male right hand on own thigh, left low/occluded.",
+      "generation_prompt": "Use case: identity-preserve. Asset: one polished vertical 9:16 silent-comedy reference frame. Edit target is the supplied image. Preserve everything pixel-faithfully except the specified subtle facial expression and eye direction. Same exact two adult stylized characters and face identities, same adult palace heroine brown eyes, compact braided brown side bun, coral ribbon, ivory/gold robe, jade dress, coral sash and wooden tag; identical body positions, hands, fingers, sleeve, seat geometry, phone/tape location, mirror/reflection, dashboard, sunset, framing, camera and lighting. No extra props, labels, text or captions. Both seated normally facing dashboard; never turn bodies backward. Warm patient humor, no romance, no exaggerated cartoon mugging. No smile until the problem is solved. Frame 1 at 0s: man is already trying to see the tiny crooked taped PHONE screen overhead: noticeably narrowed eyes aimed precisely at that phone, lightly knitted brows, gently compressed lips, slight effort in jaw. Heroine's eyes look UP toward that phone and his awkward effort, not toward his eyes; mouth relaxed and closed, attentive neutral brow. This must immediately read as struggling to use a tiny phone as a mirror, while the actual mirror still uselessly reflects the ceiling. Retain original seated lean and all hands on laps.",
+      "generation_prompt_file": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/02_Generation_Records/S01_F01_prompt.txt",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP01_Rearview_Mirror/01_Reference_Images/S01_F01.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-c5904a7c-c5ec-48e8-a47a-223fb36b891e.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/01_Reference_Images/S01_F01.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "4e9bca3915cfc0c6a74991f136190974d82bff3840199a5bfcf3b7be1ec34dd0",
+      "different_from_v4": true,
+      "discrepancy_en": "No blocking static discrepancy observed."
+    },
+    {
+      "file": "S01_F02.png",
+      "time_seconds": 1.5,
+      "actual_state_en": "Driver cranes and angles his head further toward the phone, with narrowed eye and pursed concentration. Phone and mirror remain unchanged.",
+      "actual_state_tc": "駕駛繼續伸頸稍轉頭，瞇眼專注看手機；手機與鏡子狀態不變。",
+      "expression_en": "Driver makes one small futile head tilt toward the phone. Heroine's eyes shift from phone to the unused mirror; one subtle eyebrow lift, no smile.",
+      "expression_tc": "駕駛朝手機輕歪頭一次仍無幫助。女主視線由手機移到未調好的鏡子，只輕抬一側眉，尚未笑。",
+      "eye_target_en": "Man: tiny phone after head tilt; heroine: real mirror above phone.",
+      "hand_ownership_en": "Both heroine hands remain low on own lap. Driver does not touch phone.",
+      "generation_prompt": "Use case: identity-preserve. Asset: one polished vertical 9:16 silent-comedy reference frame. Edit target is the supplied image. Preserve everything pixel-faithfully except the specified subtle facial expression and eye direction. Same exact two adult stylized characters and face identities, same adult palace heroine brown eyes, compact braided brown side bun, coral ribbon, ivory/gold robe, jade dress, coral sash and wooden tag; identical body positions, hands, fingers, sleeve, seat geometry, phone/tape location, mirror/reflection, dashboard, sunset, framing, camera and lighting. No extra props, labels, text or captions. Both seated normally facing dashboard; never turn bodies backward. Warm patient humor, no romance, no exaggerated cartoon mugging. No smile until the problem is solved. Frame 2 at 1.5s: preserve the man's existing short head tilt while trying harder to read tiny crooked PHONE screen: focused narrowed eyes on PHONE, slightly knitted brow and compressed lips; not eyes closed, not smiling. Heroine glances toward the real mirror ABOVE the phone with ONE eyebrow subtly lifted as she spots obvious solution. Her lips closed neutral, not flirtatious; no mutual eye contact. Keep actual mirror reflecting headliner and hands in lap.",
+      "generation_prompt_file": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/02_Generation_Records/S01_F02_prompt.txt",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP01_Rearview_Mirror/01_Reference_Images/S01_F02.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-07437797-2520-41e9-9751-e1b32dd31b39.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/01_Reference_Images/S01_F02.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "e6207d2bcc63fc4c68d23b92f6543f1d3274c139a272336a1c366945037c1875",
+      "different_from_v4": true,
+      "discrepancy_en": "No blocking static discrepancy observed."
+    },
+    {
+      "file": "S01_F03.png",
+      "time_seconds": 3,
+      "actual_state_en": "Heroine LEFT fingertips hover just below the lower mirror rim. The mirror still shows the headliner; it has not yet been adjusted.",
+      "actual_state_tc": "女主左手指尖停在鏡子下緣附近，尚未接觸；鏡子仍映出車頂，未完成調整。",
+      "expression_en": "Heroine's eyes are fixed on the rim she is approaching; concentrated neutral face. Driver follows her hand toward the real mirror without turning his torso.",
+      "expression_tc": "女主眼睛專注將碰到的鏡框，表情平靜集中。駕駛視線隨她的手移向真正鏡子，不轉動軀幹。",
+      "eye_target_en": "Heroine: mirror rim at hand; man: hand/real mirror.",
+      "hand_ownership_en": "Heroine LEFT arm raised; RIGHT hand remains on lap.",
+      "generation_prompt": "Use case: identity-preserve. Asset: one polished vertical 9:16 silent-comedy reference frame. Edit target is the supplied image. Preserve everything pixel-faithfully except the specified subtle facial expression and eye direction. Same exact two adult stylized characters and face identities, same adult palace heroine brown eyes, compact braided brown side bun, coral ribbon, ivory/gold robe, jade dress, coral sash and wooden tag; identical body positions, hands, fingers, sleeve, seat geometry, phone/tape location, mirror/reflection, dashboard, sunset, framing, camera and lighting. No extra props, labels, text or captions. Both seated normally facing dashboard; never turn bodies backward. Warm patient humor, no romance, no exaggerated cartoon mugging. No smile until the problem is solved. Frame 3 at 3s: heroine's LEFT fingertips remain exactly at the original just-under-rim approach position; mirror STILL shows ceiling/headliner. Change only heroine face and eyes so she is calmly concentrating UP at the mirror rim she is about to touch, mouth neutral closed, no smile. Man's gaze follows her raised hand toward real mirror, no mutual eye contact. Keep original heads, body orientation and all physical positions.",
+      "generation_prompt_file": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/02_Generation_Records/S01_F03_prompt.txt",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP01_Rearview_Mirror/01_Reference_Images/S01_F03.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-be5d05db-074b-46af-985e-d828772ea017.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/01_Reference_Images/S01_F03.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "862a186d53f7b1b796397d8837e005b655309b54239c0651da894da40583ddee",
+      "different_from_v4": true,
+      "discrepancy_en": "Driver brow detail partly occluded by preserved rear camera; gaze target and head orientation carry the cue."
+    },
+    {
+      "file": "S01_F04.png",
+      "time_seconds": 5,
+      "actual_state_en": "LEFT fingertips visibly grip the lower rim; mirror now shows the rear window and road. This is the end of the contact-and-rotation action, not its beginning.",
+      "actual_state_tc": "左手指尖確實握住鏡子下緣，鏡中已出現後窗與道路；此圖是接觸轉動完成時，而非開始之前。",
+      "expression_en": "Heroine watches the corrected reflection while maintaining contact, no grin. Driver has stopped squinting at the phone and now studies the real mirror.",
+      "expression_tc": "女主持續接觸鏡框，專注看已調好的反射，不露大笑。駕駛不再瞇眼盯手機，改看真正鏡子。",
+      "eye_target_en": "Heroine: corrected mirror; man: real mirror, face mostly rear-facing.",
+      "hand_ownership_en": "Heroine LEFT hand on mirror; RIGHT on lap.",
+      "generation_prompt": "Use case: identity-preserve. Edit ONLY the heroine's pupil direction and mouth in image 1, preserving absolutely ALL other details in image 1. Image 1 is the primary edit target. Image 2 is ONLY the reference for her neutral mouth and eyes looking UP at the mirror. The heroine is concentrating quietly on the mirror she is holding; eliminate the smile, closed relaxed lips, attentive calm eyes directed UP at mirror. Keep exactly original heroine head shape, body and left fingertips holding mirror. CRITICAL preserve image 1 rearview mirror REFLECTION IDENTICALLY including identical rear-seat headrest sizes and positions, reflected rear road/cars/trees/sun; do not use image2 reflection or change/zoom the reflection. Do not change any environment, camera, phone, tape, face identity, costume, hair, hands, lighting or man's head orientation. Both adults remain forward seated in same parked car. No text. Single 941x1672 vertical reference still.",
+      "generation_prompt_file": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/02_Generation_Records/S01_F04_final_prompt.txt",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP01_Rearview_Mirror/01_Reference_Images/S01_F04.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-379af324-de3a-4780-ae70-2050d08a87a2.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/01_Reference_Images/S01_F04.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "6fa032dbf4609a3a85381f22f371846089c3fe797c2ea46d9480bb7e268cc7d6",
+      "different_from_v4": true,
+      "discrepancy_en": "Driver brow detail partly occluded by preserved rear camera; gaze target and head orientation carry the cue."
+    },
+    {
+      "file": "S01_F05.png",
+      "time_seconds": 7,
+      "actual_state_en": "Her LEFT fingers have visibly separated from the rim and start descending; corrected rear-view reflection remains.",
+      "actual_state_tc": "女主左手指尖已離開鏡緣並開始下降；調好的後方反射仍保留。",
+      "expression_en": "Driver's brow begins to release only after the rear-window reflection is visible. Heroine remains focused as fingers separate from the rim.",
+      "expression_tc": "鏡中清楚出現後窗後，駕駛眉心才開始放鬆。女主指尖離開鏡框時仍集中注意。",
+      "eye_target_en": "Heroine: corrected mirror while releasing; man: real mirror.",
+      "hand_ownership_en": "LEFT hand in air below mirror; RIGHT on lap.",
+      "generation_prompt": "Use case: identity-preserve. Asset: one polished vertical 9:16 silent-comedy reference frame. Edit target is the supplied image. Preserve everything pixel-faithfully except the specified subtle facial expression and eye direction. Same exact two adult stylized characters and face identities, same adult palace heroine brown eyes, compact braided brown side bun, coral ribbon, ivory/gold robe, jade dress, coral sash and wooden tag; identical body positions, hands, fingers, sleeve, seat geometry, phone/tape location, mirror/reflection, dashboard, sunset, framing, camera and lighting. No extra props, labels, text or captions. Both seated normally facing dashboard; never turn bodies backward. Warm patient humor, no romance, no exaggerated cartoon mugging. No smile until the problem is solved. Frame 5 at 7s: preserve heroine LEFT hand just released from mirror rim, fingers separated in exactly existing pose, corrected rear-window reflection stable. Man's brow starts releasing and eyes aimed at useful mirror reflection, subtle recognition but not a grin. Heroine still calmly focused UP at mirror while hand lowers; her mouth neutral or barely softened, not smiling at man. Exact original all prop/hand/body positions.",
+      "generation_prompt_file": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/02_Generation_Records/S01_F05_prompt.txt",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP01_Rearview_Mirror/01_Reference_Images/S01_F05.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-1b3e1430-c86f-4bba-93f7-292996d3d0d5.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/01_Reference_Images/S01_F05.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "21f237a776ca11c12a92910a61bbb10bdd49d0f8c9afe3ff5139b6a536354dde",
+      "different_from_v4": true,
+      "discrepancy_en": "Driver brow detail partly occluded by preserved rear camera; gaze target and head orientation carry the cue."
+    },
+    {
+      "file": "S01_F06.png",
+      "time_seconds": 9,
+      "actual_state_en": "Both heroine hands are back on lap. The man looks upward toward the real mirror and the still-taped tiny phone.",
+      "actual_state_tc": "女主雙手已回到膝上；男子抬頭比較真正鏡子與仍貼著的小手機。",
+      "expression_en": "Driver looks between the corrected mirror and the crooked phone with one small raised-brow realization; heroine waits calmly with hands on lap.",
+      "expression_tc": "駕駛在調好的鏡子與歪手機之間移動視線，眉毛輕抬，剛剛明白。女主雙手膝上，平靜等他發現。",
+      "eye_target_en": "Heroine: real mirror above; man: mirror before comparison glance.",
+      "hand_ownership_en": "Both heroine hands low on lap, empty.",
+      "generation_prompt": "Use case: identity-preserve. Asset: one polished vertical 9:16 silent-comedy reference frame. Edit target is the supplied image. Preserve everything pixel-faithfully except the specified subtle facial expression and eye direction. Same exact two adult stylized characters and face identities, same adult palace heroine brown eyes, compact braided brown side bun, coral ribbon, ivory/gold robe, jade dress, coral sash and wooden tag; identical body positions, hands, fingers, sleeve, seat geometry, phone/tape location, mirror/reflection, dashboard, sunset, framing, camera and lighting. No extra props, labels, text or captions. Both seated normally facing dashboard; never turn bodies backward. Warm patient humor, no romance, no exaggerated cartoon mugging. No smile until the problem is solved. Frame 6 at 9s: preserve both heroine hands on her own lap, corrected real mirror and crooked phone identical. Man studies useful mirror with a small raised-brow realization, no smile yet and no head backward. Heroine quietly waits, eyes UP toward the corrected mirror rather than at the man's face, relaxed neutral closed mouth. Eliminate romantic gaze. Keep same anatomy, proportions, body positions and all original details.",
+      "generation_prompt_file": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/02_Generation_Records/S01_F06_prompt.txt",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP01_Rearview_Mirror/01_Reference_Images/S01_F06.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-286c2081-e342-44ef-87d0-9a4988e86418.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/01_Reference_Images/S01_F06.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "2dac90e37746dfcb760661f1eb693828d1b2a7653aeae793ff3ea62f2e168ee4",
+      "different_from_v4": true,
+      "discrepancy_en": "Driver brow detail partly occluded by preserved rear camera; gaze target and head orientation carry the cue."
+    },
+    {
+      "file": "S01_F07.png",
+      "time_seconds": 11.5,
+      "actual_state_en": "Driver lowers chin and eyes with a sheepish half-smile. Heroine gives a patient side glance; both torsos remain forward.",
+      "actual_state_tc": "男子低頭垂眼，露出有點尷尬的微笑；女主淡定側望，兩人身體仍朝前。",
+      "expression_en": "Driver dips his chin with a brief pressed-lip sheepish smile after checking his redundant phone; heroine gives a tiny earned closed-mouth smile, gaze forward or toward the mirror, no intimate eye contact.",
+      "expression_tc": "駕駛看過多此一舉的手機後微低下巴，短暫抿嘴尷尬一笑。女主這時才淡淡閉嘴微笑，望前方或鏡子，不親密互望。",
+      "eye_target_en": "Man: downward toward dashboard/lap; heroine: mirror/phone, not his face.",
+      "hand_ownership_en": "All hands low; neither reaches toward the other.",
+      "generation_prompt": "Use case: identity-preserve. Asset: one polished vertical 9:16 silent-comedy reference frame. Edit target is the supplied image. Preserve everything pixel-faithfully except the specified subtle facial expression and eye direction. Same exact two adult stylized characters and face identities, same adult palace heroine brown eyes, compact braided brown side bun, coral ribbon, ivory/gold robe, jade dress, coral sash and wooden tag; identical body positions, hands, fingers, sleeve, seat geometry, phone/tape location, mirror/reflection, dashboard, sunset, framing, camera and lighting. No extra props, labels, text or captions. Both seated normally facing dashboard; never turn bodies backward. Warm patient humor, no romance, no exaggerated cartoon mugging. No smile until the problem is solved. Frame 7 at 11.5s: preserve man's downward chin/head dip and hand on lap. His closed lips form only a brief small pressed-lip sheepish halfsmile, his eyes lowered toward dashboard after realizing redundant phone, not looking at heroine. Heroine's eyes look up toward mirror/phone rather than his eyes; tiny earned closed-mouth corner-smile, patient amused kindness without smirk or mockery. Both torsos forward and hands low, no new hand gesture.",
+      "generation_prompt_file": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/02_Generation_Records/S01_F07_prompt.txt",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP01_Rearview_Mirror/01_Reference_Images/S01_F07.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-09f184a4-67a9-4ab7-8914-3919ebe4c782.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/01_Reference_Images/S01_F07.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "2e04445dea63e5144e5624e3533d855a4a4d4f9013b33dc294372082b0a3d81d",
+      "different_from_v4": true,
+      "discrepancy_en": "No blocking static discrepancy observed."
+    },
+    {
+      "file": "S01_F08.png",
+      "time_seconds": 15,
+      "actual_state_en": "Heroine holds empty flat palms together before her chest and makes a small bow toward the dashboard over her own lap. Mirror stays corrected.",
+      "actual_state_tc": "女主空手於胸前合掌，朝儀表板、在自己膝上方小幅鞠躬；鏡子保持調好狀態。",
+      "expression_en": "Heroine's eyelids soften during a shallow bow forward over her own lap; small relaxed closed-mouth smile. Driver stays comfortably forward, no new gesture.",
+      "expression_tc": "女主向自己膝上淺淺鞠躬，眼皮放鬆、嘴角輕柔。駕駛仍舒適朝前，不添加新手勢。",
+      "eye_target_en": "Heroine: down over own lap during bow; man: comfortably forward.",
+      "hand_ownership_en": "Exactly two heroine palms joined; no remaining lap hand.",
+      "generation_prompt": "Use case: identity-preserve. Asset: one polished vertical 9:16 silent-comedy reference frame. Edit target is the supplied image. Preserve everything pixel-faithfully except the specified subtle facial expression and eye direction. Same exact two adult stylized characters and face identities, same adult palace heroine brown eyes, compact braided brown side bun, coral ribbon, ivory/gold robe, jade dress, coral sash and wooden tag; identical body positions, hands, fingers, sleeve, seat geometry, phone/tape location, mirror/reflection, dashboard, sunset, framing, camera and lighting. No extra props, labels, text or captions. Both seated normally facing dashboard; never turn bodies backward. Warm patient humor, no romance, no exaggerated cartoon mugging. No smile until the problem is solved. Frame 8 at15s: preserve exact empty flat palms joined at lower sternum, heroine shallow seated bow FORWARD OVER HER OWN LAP toward dashboard, hips/knees remain forward, no sideways lean or touching man. Refine only her eyes and mouth: eyelids gently lowered, tiny calm relaxed closed-mouth smile, tender composure without flirtation. Man faces forward comfortably looking useful mirror, neutral relaxed brow. Keep all original mirror, phone and physical geometry.",
+      "generation_prompt_file": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/02_Generation_Records/S01_F08_prompt.txt",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP01_Rearview_Mirror/01_Reference_Images/S01_F08.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-8afd1fc1-9e9a-4850-a9f1-5d3ddc0d5e19.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep01/01_Reference_Images/S01_F08.png",
+      "size": [
+        941,
+        1672
+      ],
+      "sha256": "f1ffadf9003a205249f3b6622c2132d3db350b37356724867a565ac0cedf4d2f",
+      "different_from_v4": true,
+      "discrepancy_en": "No blocking static discrepancy observed."
+    }
+  ],
+  "qa": {
+    "review": "All eight final outputs viewed at full resolution and as contact sheet.",
+    "tool": "built-in imagegen; eight separate edits plus one targeted F04 repair",
+    "physical_continuity": "Same seating, camera, costume, phone/tape, hand progression; headliner reflection F01-F03 then rear view F04-F08. F04 repair restored original reflected headrest/road composition.",
+    "acting": "Object-directed gaze and neutral solving mouth; earned small smile F07, quiet forward bow F08. No mutual romantic gaze.",
+    "all_eight_images_changed": true,
+    "limitations": "Static references guide intent; final generated motion and actual timing remain unverified. Driver eyebrows partly occluded in rear camera; do not rotate torso to expose them.",
+    "rejected_draft": "Initial F04 generated reflection shifted; replaced with targeted repair preserving original reflection. Draft excluded from final reference folder."
+  }
+}

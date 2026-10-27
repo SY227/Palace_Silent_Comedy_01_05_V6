@@ -1,0 +1,11 @@
+V6 — NO TALKING / REFLECTION CORRECTION
+V6 — 禁止說話／反射修正
+
+All five episode main, first-frame and repair prompts now request visual-only generation with softly closed mouths, no lip-sync and no audio. Jazz remains in the finished series but is added separately in post, after discarding source audio. A voice-free track alone does not pass visible-mouth review.
+五集所有主提示詞、單首幀及修復提示詞改為只生成畫面、嘴自然閉合、無對嘴且無音訊。最終系列仍保留爵士，先丟棄原音軌再於後期加入。單純刪人聲不能通過嘴部檢查。
+
+EP01: separate the phone from the black mirror frame as action targets. Mirror begins with headliner; physical contact and rotation produce a continuous transition to empty rear window/headrests/brick courtyard. That view stays stable through the bow. No face or front-sunset reflection.
+EP01：明確區分手機與黑色真鏡框；開場映車頂，碰到鏡框轉動後才連續過渡至空後窗／頭枕／磚牆庭院，並保持至合掌。不出現人臉或前方夕陽反射。
+
+Keep the five stories, 15 seconds each, eight separate references per episode, heroine identity, costume, microexpressions and signature bow. The other four episodes retain their approved image states; their acting/audio instructions are updated. This is a production package, not a newly generated or tested MP4.
+保留五故事、每集15秒／八張獨立參考、角色服裝、微表情及招牌合掌；其餘四集保留已確認畫面狀態，更新表演及音訊指示。本包為製作素材，並非新生成或已驗收MP4。

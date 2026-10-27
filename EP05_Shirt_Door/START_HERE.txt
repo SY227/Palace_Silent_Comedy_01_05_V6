@@ -1,0 +1,13 @@
+EP05 — Save the Shirt / 保住那件襯衫
+
+Start a fresh generation; do not attach the failed MP4. Attach this episode’sF01-F08 only when the mode supports eight references, then paste ONE matching EN orTC main prompt. If available, setF01 as the explicit first frame. For one-image mode, attachF01 and useFirst_Frame_Only. The PDF/contact sheet is not a video input.
+開始新生成，不附失敗MP4。模式支援時只附本集F01至F08，再貼一份相符英或繁主提示詞。若有首幀功能，指定F01；只支援一圖時附F01及First_Frame_Only。不附PDF或檢查拼圖。
+
+Generate visuals with softly closed mouths and NO AUDIO; no speech, lip-sync, voices or voice references. Remove any source audio, then add instrumental jazz and clean object Foley separately. Muting cannot fix visible talking.
+只生成嘴唇自然閉合的無聲畫面，無說話、對嘴、人聲或聲音參考。移除任何原音軌後另配爵士純演奏及乾淨物件音效；靜音不能修好說話嘴型。
+
+CheckPhysical_Sense_Check_EN_TC.txt before accepting the take. Keep the final film15seconds and9:16; check the actual output rather than assuming a prompt guarantees it. Repair prompts replace only failed sections.
+驗收時對照Physical_Sense_Check_EN_TC.txt。成片保留15秒及9:16，檢查實際輸出，不能假設文字指令必定實現。局部修復只替換失敗段。
+
+Optional offline helper in the kit’s04_Advanced folder: export_without_source_audio.py. It removes source audio and can accept separately supplied music; it does not repair mouths or reflections. No new MP4 or music recording is included.
+素材包04_Advanced內選用工具export_without_source_audio.py可移除原音軌及另配提供的音樂；不修嘴型或反射。本包沒有新MP4或音樂錄音。

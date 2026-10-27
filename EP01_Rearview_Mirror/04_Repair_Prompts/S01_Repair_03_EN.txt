@@ -1,0 +1,32 @@
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+
+Create a wordless vertical 9:16 repair source shot for this same episode. Its action window will occupy 6.5 seconds in the final edit, replacing full-film 7-13.5s; it is not a new episode. All action-cue times are LOCAL to this source clip; reference provenance uses explicitly stated full-film times. Local 0 equals full-film 7s. If source duration is longer, hold the finished END STATE afterward with no additional action.
+
+INPUTS
+Attach these scene images in order: S01_F05.png, S01_F06.png, S01_F07.png. Start from S01_F05.png; if an explicit first-frame control exists, place only that image there. Remaining files guide subsequent states, not automatic time pins. There is no supplied exact 13.5s still. The last supplied reference is a recognition guide at 11.5s; finish the remaining small settling motion into the END STATE below. Do not pin that earlier frame to the end.
+
+START STATE at local 0
+LEFT fingertips have separated from the rim and begin descending. The corrected rear-window reflection holds; RIGHT remains on lap. Real mirror: settled empty rear-window/headrests/brick-courtyard reflection; keep that same angle and view through F08. Phone preview is unchanged. LEFT fingertips have released the mirror frame, never the phone.
+
+LOCAL ACTION
+Local 0-2 seconds: Her LEFT hand returns to her own lap. The man looks from the real mirror to the redundant phone and back to the mirror, with small eye movements rather than a torso turn. One slight eyebrow lift registers that both are trying to show the same thing.
+
+Local 2-4.5 seconds: He eases out of his strained lean and briefly checks the elaborate tape around his phone. A small chin dip and closed-lip press show self-conscious recognition of his own unnecessary effort. She waits calmly, eyes on the working mirror, without teasing him.
+
+Local 4.5-6.5 seconds: His shoulders settle and his gaze returns to the proper mirror. Only now she allows a tiny kind closed-mouth smile, facing forward; both hands remain separately on her lap. End the recognition here instead of filling the time with repeated mutual glances.
+
+END STATE at local 6.5s
+Mirror is corrected, phone still taped. Both occupants face forward. Heroine has two separate empty hands on her own lap; the driver has settled his hands and recognition. No bow has begun.
+
+CONTINUITY
+Keep the same fixed phone, tape, seats and mirror mount. Only her LEFT fingertips can rotate the mirror in the contact section; never reset a corrected reflection. RIGHT stays low until the bow. Both hips and torsos stay forward; sleeves clear dashboard and phone. Preserve accepted character identity, styling and camera axis.
+
+PERFORMANCE AND SOUND
+One dominant facial cue per beat, eyes targeting the problem/control/result/redundant method. No premature relief, repeated mutual gaze, dialogue, readable text or new gesture. Generate no audio; music and synchronized object Foley are added separately in post. Preserve the complete film at 15 seconds in the final edit.
+
+REFLECTION CONTINUITY: in this segment, use the START STATE above. Do not replay the opening or reset the mirror. Only the 3-5s full-film contact action rotates the black mirror frame; the phone is never touched. Thereafter preserve the empty rear-window/headrests/brick-courtyard view through the final bow, with no faces or front-windshield scene.
+
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.

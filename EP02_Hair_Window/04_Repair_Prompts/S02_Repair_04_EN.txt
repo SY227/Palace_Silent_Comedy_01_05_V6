@@ -1,0 +1,26 @@
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+
+Create a wordless vertical 9:16 repair source shot for this same episode. Its action window will occupy 1.5 seconds in the final edit, replacing full-film 13.5-15s; it is not a new episode. All action-cue times are LOCAL to this source clip; reference provenance uses explicitly stated full-film times. Local 0 equals full-film 13.5s. If source duration is longer, hold the finished END STATE afterward with no additional action.
+
+INPUTS
+For reference-image mode, attach S02_F07.png, S02_F08.png. F07 is a pre-bow posture/identity guide from 11.5s, not an exact 13.5s first frame; F08 is the ending guide. For first-frame-only mode, instead attach a still extracted at 13.5s from the accepted episode showing the START STATE below. Do not force F07 as an exact first frame if its hands or props have not yet settled. If a last-frame control is available, S02_F08.png is the end-state target. Otherwise use it as visual guidance only.
+
+START STATE at local 0
+Window stays halfway down, hair free and intact, closed scissors inside bag. Both people face forward within their seats. Heroine hands are empty and separate on her own lap; no bow yet.
+
+LOCAL ACTION
+Local 0-1.5 seconds: The heroine joins both empty flat palms at lower sternum and makes one shallow bow forward over her own lap toward the dashboard, eyes soft. Stay within her seat. Settle briefly with the freed hair and lowered glass unchanged.
+
+END STATE at local 1.5s
+Heroine joins exactly two empty flat palms at lower sternum and bows forward over her own lap. Window, free hair and bag contents stay unchanged.
+
+CONTINUITY
+Driver LEFT operates the outboard rocker; heroine RIGHT only points from her own side. Glass descends only after real switch contact; keep the same intact strand. Scissors stay closed and return to bag before operation. Never reset freed hair or a lowered window in a later section. Preserve accepted character identity, styling and camera axis.
+
+PERFORMANCE AND SOUND
+One dominant facial cue per beat, eyes targeting the problem/control/result/redundant method. No premature relief, repeated mutual gaze, dialogue, readable text or new gesture. Generate no audio; music and synchronized object Foley are added separately in post. Preserve the complete film at 15 seconds in the final edit.
+
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.

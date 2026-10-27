@@ -1,0 +1,39 @@
+SILENT VISUAL FOOTAGE ONLY. Both characters keep their lips softly CLOSED throughout. No speech, lip-sync, word-shaped mouth movements, moving jaw, teeth, tongue, open-mouth laughter, gasps or sighs. Tell the joke through eyes, eyebrows, small head movements and posture.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+Create one complete 15-second vertical 9:16 visual comedy. Preserve the approved heroine’s brown eyes, braided brown side bun, coral ribbon, ivory-and-gold robe, jade dress, coral sash and wooden clerk tag. Keep the two original adults, styling and setting.
+
+REFERENCE INPUT
+Use the eight separate images in order: F01@0, F02@1.5, F03@3, F04@5, F05@7, F06@9, F07@11.5, F08@15 seconds. These are story-state guides, not automatic timing pins. Start from the F01 problem with natural movement. Preserve camera axis, geometry, hands and props through continuous transitions; no collage or slideshow.
+
+STAGING
+Outside a parked cream car, engine off. One ordinary side door is fully latched and flush CLOSED at the opening. Its hinge is at the front edge; the exterior handle and caught hem are by the trailing edge. The man is screen-left, heroine screen-right by the handle; both bodies stand fully outside the small outward swing path. A broad, intact lower corner of his blue untucked shirt is visibly clamped in the closed trailing seam. His LEFT hand gently holds that same fabric; his RIGHT hand is empty and low. Her RIGHT hand operates the exterior handle. Everyone stays outside.
+
+STORY
+0-1.5s: Start on the fully CLOSED latched door with the broad blue shirt corner clearly clamped in its trailing seam. The man looks directly at the snag, brow pinched, and gives a mild LEFT-hand tug. Cloth stays continuous from shirt body to seam; heroine studies the same snag.
+
+1.5-3s: At 1.5 seconds he briefly puffs cheeks for the second mild LEFT-hand tug, then stops by 3 seconds and only holds the cloth. She looks from snag to handle with a slight eyebrow lift; her RIGHT fingers establish contact on that handle by 3 seconds. Door remains fully shut, hem trapped.
+
+3-5s: Starting from her established RIGHT grip on the exterior handle, she unlatches and opens the same panel a little. Man LEFT holds the hem lightly without tugging. The seam must separate before the cloth releases. By 5 seconds the door is ajar and the intact hem is visibly free.
+
+5-7s: She holds the same small opening at the exterior handle, eyes checking the seam. With LEFT, he draws every fold of that freed broad corner toward his own hip until the closing seam is visibly empty by 7 seconds. His brow relaxes only after release; both bodies stay outside the arc.
+
+7-9s: Only after all cloth and fingers are clear, she gently closes the same panel. RIGHT stays safely on the exterior handle outside the seam, then releases after latching and lowers by 9 seconds. The flush closed door and fully outside intact shirt visibly prove the fix.
+
+9-11.5s: He looks from the handle down to his intact free hem and smooths it once with LEFT. A small closed-lip press and relaxed shoulders show embarrassment at having tugged instead of opening. Her RIGHT remains down; she allows a tiny patient smile only now.
+
+11.5-13.5s: He releases the hem and lets both hands settle at his sides; no extra head shake or tug. She keeps her gaze on the solved problem instead of prolonging a mutual look. Both remain in the same positions, hands empty and clear of the car, ready for the final bow.
+
+13.5-15s: She brings both empty flat palms together at lower sternum, eyes soft, and makes one shallow forward bow. Keep the door closed and shirt free. Settle briefly with palms joined after the bow, without adding another action.
+
+PHYSICAL CONTINUITY
+The opening must be a latched closed door, never an already-open panel. The trapped material is a broad corner of the same shirt, not a ribbon, cord or elastic strand. Handle contact causes unlatching, panel movement opens the seam, then cloth falls free. Clear all fabric before closing. During closure her RIGHT hand remains outside on the handle. No scissors, garment tearing or entering the car. Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+
+PERFORMANCE
+Eyes lead the head: problem, control, result, then redundant method. One facial cue per beat. Keep lips softly closed; small closed-lip smiles come only after the visible result. No repeated mutual gaze or camera-facing mugging. Finish with two empty flat palms and one shallow bow; in cars, bow forward over her own lap.
+
+AUDIO
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.
+
+RELEASE CHECK
+REJECT talking-like mouth animation even if muted. Removing audio does not fix visible speech. Reject a magical result, wrong contact target or changing reflection without physical cause. No text, subtitles, labels, logos, product mention or game UI.

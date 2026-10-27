@@ -1,0 +1,51 @@
+EP05 / Save the Shirt / 保住那件襯衫
+
+SILENT VISUAL FOOTAGE ONLY. Both characters keep their lips softly CLOSED throughout. No speech, lip-sync, word-shaped mouth movements, moving jaw, teeth, tongue, open-mouth laughter, gasps or sighs. Tell the joke through eyes, eyebrows, small head movements and posture.
+只生成無聲畫面。兩人全程嘴唇自然輕閉；不說話、不對嘴、不做說話口型、不動下顎、不露齒或舌頭、不張嘴笑、不喘氣或嘆氣。用眼神、眉毛、小幅頭部動作及姿態說故事。
+
+Open the door before tugging the fabric. / 先打開門，就不用拉扯衣服。
+Directing intent only; never written or spoken. / 只供導演參考，不顯示或說出。
+
+Outside a parked cream car, engine off. One ordinary side door is fully latched and flush CLOSED at the opening. Its hinge is at the front edge; the exterior handle and caught hem are by the trailing edge. The man is screen-left, heroine screen-right by the handle; both bodies stand fully outside the small outward swing path. A broad, intact lower corner of his blue untucked shirt is visibly clamped in the closed trailing seam. His LEFT hand gently holds that same fabric; his RIGHT hand is empty and low. Her RIGHT hand operates the exterior handle. Everyone stays outside.
+停妥的奶油色車外，引擎關閉。開場一扇普通側門已扣上、完全關閉並與車身平齊。鉸鏈在前緣，外把手及被夾衣角在後緣附近。男子在畫面左、女主在畫面右的門把旁，兩人身體均完全避開小幅朝外開門的路徑。他未紮入褲的藍襯衫有一塊寬而完整下角，清楚夾在關閉的後緣門縫。男子左手輕拿同一衣料，右手空著放低；女主右手操作外把手，全員一直在車外。
+
+0-1.5s
+Start on the fully CLOSED latched door with the broad blue shirt corner clearly clamped in its trailing seam. The man looks directly at the snag, brow pinched, and gives a mild LEFT-hand tug. Cloth stays continuous from shirt body to seam; heroine studies the same snag.
+開場車門完整扣上關好，寬藍衣角清楚夾在後緣門縫。男子皺眉直接看被夾處，左手輕拉一次；衣料從衣身至門縫連續完整。女主看同一被夾位置。
+
+1.5-3s
+At 1.5 seconds he briefly puffs cheeks for the second mild LEFT-hand tug, then stops by 3 seconds and only holds the cloth. She looks from snag to handle with a slight eyebrow lift; her RIGHT fingers establish contact on that handle by 3 seconds. Door remains fully shut, hem trapped.
+第1.5秒男子短暫鼓頰，開始第二次左手輕拉；第3秒前已停，只輕握衣料。女主由夾處看門把、輕挑眉，右手指於第3秒已接觸握住門把。門仍完整關好、衣角仍被夾。
+
+3-5s
+Starting from her established RIGHT grip on the exterior handle, she unlatches and opens the same panel a little. Man LEFT holds the hem lightly without tugging. The seam must separate before the cloth releases. By 5 seconds the door is ajar and the intact hem is visibly free.
+由女主右手已握外門把的狀態開始，她解扣並把同一門片小幅打開。男子左手輕握衣角，不再拉扯。門縫必須先分開，衣料才鬆開；第5秒門半掩，完整衣角明顯自由。
+
+5-7s
+She holds the same small opening at the exterior handle, eyes checking the seam. With LEFT, he draws every fold of that freed broad corner toward his own hip until the closing seam is visibly empty by 7 seconds. His brow relaxes only after release; both bodies stay outside the arc.
+女主握外把手維持同一小幅開口，眼睛檢查門縫。男子用左手把已自由的寬衣角每處衣褶收向自己髖旁，第7秒關門縫明顯空著。他在衣角鬆開後才放鬆眉心；兩人身體避開門弧。
+
+7-9s
+Only after all cloth and fingers are clear, she gently closes the same panel. RIGHT stays safely on the exterior handle outside the seam, then releases after latching and lowers by 9 seconds. The flush closed door and fully outside intact shirt visibly prove the fix.
+所有衣料與手指移開後，女主才輕關同一門片。右手安全留在門縫外的外把手，扣上後才放開，於第9秒前放低。平齊關好的車門與完整留在車外的襯衫，清楚證明問題已解決。
+
+9-11.5s
+He looks from the handle down to his intact free hem and smooths it once with LEFT. A small closed-lip press and relaxed shoulders show embarrassment at having tugged instead of opening. Her RIGHT remains down; she allows a tiny patient smile only now.
+男子由門把低眼看完整自由衣角，左手撫平一次；輕抿嘴、肩膀放鬆，為剛才只拉衣服沒開門有點尷尬。女主右手保持放低，此刻才淡淡耐心微笑。
+
+11.5-13.5s
+He releases the hem and lets both hands settle at his sides; no extra head shake or tug. She keeps her gaze on the solved problem instead of prolonging a mutual look. Both remain in the same positions, hands empty and clear of the car, ready for the final bow.
+男子放開衣角，雙手在身側停穩，不添加搖頭或拉扯。女主目光留在已解決問題，不延長互望。兩人仍在原位，空手離車身，準備最後合掌。
+
+13.5-15s
+She brings both empty flat palms together at lower sternum, eyes soft, and makes one shallow forward bow. Keep the door closed and shirt free. Settle briefly with palms joined after the bow, without adding another action.
+女主兩隻空手在胸骨下方平貼合掌、眼神柔和，淺淺前欠一次。門保持關好、衣角自由。欠身後合掌短暫停穩，不再添其他動作。
+
+
+
+
+POST-PRODUCTION ONLY: remove or disable the complete generated source-audio track before editing. Add one original or appropriately licensed relaxed instrumental jazz bed around 80 BPM: soft piano, sparse upright bass and brushed drums, continuous through the bow. No vocals, humming, scat, speech, laugh track or comedy sting. Add clean synchronized object Foley separately, with no human voices; keep music below useful contact sounds. Do not add jazz or Foley instructions to the silent generation prompt. If your interface explicitly offers audio-off, use it; no such UI or API setting is assumed here. Still inspect every face for talking-like animation.
+EPISODE FOLEY: Soft outdoor ambience, a light handle latch, a small cloth release and one gentle door-close click aligned with the visible action.
+
+僅後期處理：剪輯前先完整移除或停用生成素材的原音軌。另加一段原創或已取得適當授權、約每分鐘80拍的輕鬆爵士純演奏：柔和鋼琴、疏落低音提琴與刷奏爵士鼓，樂句連續至合掌。無歌聲、哼唱、擬聲唱、說話、罐頭笑聲或笑點提示音。另配乾淨、同步、無人聲的物件音效，爵士低於重要接觸聲。不要把爵士或音效製作指示貼入無聲畫面生成提示詞。若介面明確提供關閉音訊功能可使用，本包不假設存在該介面或API設定。仍須逐一檢查臉部有沒有說話動作。
+本集後期物件音效：低調戶外底聲、輕微門把解扣聲、衣料鬆開聲，以及與可見關門同步的一次輕扣聲。

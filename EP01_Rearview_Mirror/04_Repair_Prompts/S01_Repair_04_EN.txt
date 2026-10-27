@@ -1,0 +1,28 @@
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+
+Create a wordless vertical 9:16 repair source shot for this same episode. Its action window will occupy 1.5 seconds in the final edit, replacing full-film 13.5-15s; it is not a new episode. All action-cue times are LOCAL to this source clip; reference provenance uses explicitly stated full-film times. Local 0 equals full-film 13.5s. If source duration is longer, hold the finished END STATE afterward with no additional action.
+
+INPUTS
+For reference-image mode, attach S01_F07.png, S01_F08.png. F07 is a pre-bow posture/identity guide from 11.5s, not an exact 13.5s first frame; F08 is the ending guide. For first-frame-only mode, instead attach a still extracted at 13.5s from the accepted episode showing the START STATE below. Do not force F07 as an exact first frame if its hands or props have not yet settled. If a last-frame control is available, S01_F08.png is the end-state target. Otherwise use it as visual guidance only.
+
+START STATE at local 0
+Mirror is corrected, phone still taped. Both occupants face forward. Heroine has two separate empty hands on her own lap; the driver has settled his hands and recognition. No bow has begun.
+
+LOCAL ACTION
+Local 0-1.5 seconds: She joins both empty flat palms at lower sternum, softens her eyes and makes one shallow bow forward over her own lap toward the dashboard. Hips and torso remain forward. Settle briefly with palms joined; the corrected mirror and taped phone remain visible.
+
+END STATE at local 1.5s
+Exactly two empty heroine palms meet at lower sternum in a small forward bow over her own lap toward the dashboard. Mirror stays corrected. Real mirror: settled empty rear-window/headrests/brick-courtyard reflection; keep that same angle and view through F08. Phone preview is unchanged.
+
+CONTINUITY
+Keep the same fixed phone, tape, seats and mirror mount. Only her LEFT fingertips can rotate the mirror in the contact section; never reset a corrected reflection. RIGHT stays low until the bow. Both hips and torsos stay forward; sleeves clear dashboard and phone. Preserve accepted character identity, styling and camera axis.
+
+PERFORMANCE AND SOUND
+One dominant facial cue per beat, eyes targeting the problem/control/result/redundant method. No premature relief, repeated mutual gaze, dialogue, readable text or new gesture. Generate no audio; music and synchronized object Foley are added separately in post. Preserve the complete film at 15 seconds in the final edit.
+
+REFLECTION CONTINUITY: in this segment, use the START STATE above. Do not replay the opening or reset the mirror. Only the 3-5s full-film contact action rotates the black mirror frame; the phone is never touched. Thereafter preserve the empty rear-window/headrests/brick-courtyard view through the final bow, with no faces or front-windshield scene.
+
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.

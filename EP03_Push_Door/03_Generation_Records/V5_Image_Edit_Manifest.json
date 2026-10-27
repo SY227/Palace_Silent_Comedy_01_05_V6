@@ -1,0 +1,163 @@
+{
+  "episode": "EP03",
+  "revision": "V5",
+  "message_en": "Push, do not pull.",
+  "message_tc": "推門，不要拉。",
+  "frames": [
+    {
+      "file": "S03_F01.png",
+      "time_seconds": 0,
+      "actual_state_en": "Man leans back pulling with both hands on the rigid bar; glass door fully closed. Heroine remains right, hands at own waist.",
+      "expression_en": "Man's pinched brow and closed lips show effort directed at the rigid bar; heroine studies his pulling direction, not his face.",
+      "expression_tc": "男子眉心輕皺、閉嘴用力，注意力朝不動的推桿。女主看他向內拉的方向，不看他的臉。",
+      "eye_target_en": "Man down toward grip/bar; heroine down-left toward pulling hands/bar.",
+      "hand_ownership_en": "Man BOTH hands grip bar; heroine BOTH hands at own waist.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP03_Push_Door/01_Reference_Images/S03_F01.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-41ff0e9f-c56b-493f-9123-d3d00bac6bae.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep03/01_Reference_Images/S03_F01.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "b4e9a7986becb9a2965a524584c4b82971a8e3ed9658c9e3cf8d8f7eb3e2425d",
+      "generation_prompt": "Use case: identity-preserve. Asset: a single sequential reference frame for a fifteen-second silent animated comedy. Input image is the sole EDIT TARGET. Preserve this exact polished warm 3D game-art image: same adults, heroine face identity, brown compact braided bun and coral ribbon, ivory gold robe, jade dress, coral sash, wooden tag, man mustard sweater, original lens and framing, full bodies, feet, lighting, geometry and all props. Do not redraw or redesign. Keep the original near 9:16 portrait dimensions and crop. Change only the facial acting directed below, and at most a tiny head-angle adjustment needed for the specified eye target. All hands, limb positions, closed/open door state, viewer-left fixed hinge, push bar, metal jamb, threshold and floor grid remain exactly as source. No text, captions, logos, icons, arrows, labels or border. Do not add any characters. Change only facial micro-expressions and eye direction. The man is pulling with both hands exactly as pictured, looking down toward his own grip on the push bar, knitted brows, closed pressed lips, concentration. The heroine looks down-left at the bar and his ineffective pulling hands, neutral attentive lips, not at his face. No smile yet. Clearly read 'pulling a push door is not working'."
+    },
+    {
+      "file": "S03_F02.png",
+      "time_seconds": 1.5,
+      "actual_state_en": "Second compact pull pose; same fully closed door and bar. Heroine hands at waist.",
+      "expression_en": "One brief cheek puff accompanies the second compact tug; heroine's eyes move toward the bar's free end with a very small eyebrow lift.",
+      "expression_tc": "第二次短促拉動配一次短暫鼓頰；女主目光移向推桿自由端，眉毛只輕抬。",
+      "eye_target_en": "Man toward grip/bar; heroine chin lowered, eyes down-left toward free end of bar.",
+      "hand_ownership_en": "Man BOTH hands grip bar; heroine BOTH hands at own waist.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP03_Push_Door/01_Reference_Images/S03_F02.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-781b4623-04f8-439a-8406-605db75fe1f6.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep03/01_Reference_Images/S03_F02.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "c4b70e72af4f25395818c5fa0ecd2d780bd4df150863cc0c30cfdc3243f3d32d",
+      "generation_prompt": "Use case: identity-preserve. Asset: a single sequential reference frame for a fifteen-second silent animated comedy. Input image is the sole EDIT TARGET. Preserve this exact polished warm 3D game-art image: same adults, heroine face identity, brown compact braided bun and coral ribbon, ivory gold robe, jade dress, coral sash, wooden tag, man mustard sweater, original lens and framing, full bodies, feet, lighting, geometry and all props. Do not redraw or redesign. Keep the original near 9:16 portrait dimensions and crop. Change only the facial acting directed below, and at most a tiny head-angle adjustment needed for the specified eye target. All hands, limb positions, closed/open door state, viewer-left fixed hinge, push bar, metal jamb, threshold and floor grid remain exactly as source. No text, captions, logos, icons, arrows, labels or border. Do not add any characters. The man's second small effort is visible in tightened eyebrows and softly puffed cheeks, lips closed, pupils aimed at his gripping hands on the bar. The heroine's pupils look at the bar/free end, with only one eyebrow subtly raised in patient recognition. Her mouth is neutral closed, no smile. Preserve both hands gripping and exact fully closed door.",
+      "initial_generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-330922b4-c212-4621-ad63-986a7c37817b.png",
+      "refinement_prompt": "Use case: identity-preserve. Precisely edit this single image. Change ONLY the heroine's eye target and tiny head tilt: tilt her chin slightly downward, both brown irises look clearly down and left AT THE METAL PUSH BAR END at waist height, near her own elbow height. Her gaze must be below the man's hands, not up at his face. Maintain one gently raised eyebrow and closed neutral lips. Keep the man's face, every hand and finger, exact character identities, clothing, scene, feet, fixed left hinge, CLOSED glass door, bar, framing, colors and lighting completely unchanged. Preserve original 9:16 portrait crop; no text or added objects. This is the moment she recognizes the door should be pushed."
+    },
+    {
+      "file": "S03_F03.png",
+      "time_seconds": 3,
+      "actual_state_en": "Man upright, hands withdrawn near chest and feet repositioned indoors. Heroine RIGHT palm approaches bar; door fully closed.",
+      "expression_en": "Man watches her approaching RIGHT palm, hands already withdrawn; heroine focuses on the contact point with a neutral mouth.",
+      "expression_tc": "男子雙手已收回，目光看她靠近的右掌。女主專注接觸點，嘴角中性。",
+      "eye_target_en": "Man down-right toward approaching palm/bar; heroine down-left to contact point.",
+      "hand_ownership_en": "Man BOTH hands withdrawn near own chest; heroine RIGHT palm approaching bar, LEFT at own waist.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP03_Push_Door/01_Reference_Images/S03_F03.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-2ca0a35f-31f8-4ab1-85fc-2b399a92a6dc.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep03/01_Reference_Images/S03_F03.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "8670a5f9d7f641d420c490e005d42c376f0f519e4cbf2de78707062177f873a5",
+      "generation_prompt": "Use case: identity-preserve. Asset: a single sequential reference frame for a fifteen-second silent animated comedy. Input image is the sole EDIT TARGET. Preserve this exact polished warm 3D game-art image: same adults, heroine face identity, brown compact braided bun and coral ribbon, ivory gold robe, jade dress, coral sash, wooden tag, man mustard sweater, original lens and framing, full bodies, feet, lighting, geometry and all props. Do not redraw or redesign. Keep the original near 9:16 portrait dimensions and crop. Change only the facial acting directed below, and at most a tiny head-angle adjustment needed for the specified eye target. All hands, limb positions, closed/open door state, viewer-left fixed hinge, push bar, metal jamb, threshold and floor grid remain exactly as source. No text, captions, logos, icons, arrows, labels or border. Do not add any characters. The man has released the door and stands exactly in the same upright position with both hands near his chest; lower his eye target toward the heroine's approaching right palm/bar, mouth neutral, brow still uncertain. The heroine focuses her eyes on her own palm and push bar, not his face. Her lips are neutral concentration. Her RIGHT palm remains just approaching the same point as the original, door fully closed."
+    },
+    {
+      "file": "S03_F04.png",
+      "time_seconds": 5,
+      "actual_state_en": "Heroine RIGHT palm contacts moving bar; door has begun opening away through fixed left hinge. Man watches with both hands withdrawn.",
+      "expression_en": "Heroine calmly watches the moving bar at contact; man notices the first outward movement with a small eyebrow release, no smile yet.",
+      "expression_tc": "女主平靜看接觸中的活動推桿；男子發現門開始向外動，眉心稍鬆，尚未笑。",
+      "eye_target_en": "Heroine down-left at actual palm/bar contact; man toward opening gap.",
+      "hand_ownership_en": "Heroine RIGHT palm contacts moving bar; LEFT at own waist. Man BOTH withdrawn near chest.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP03_Push_Door/01_Reference_Images/S03_F04.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-7950c4c8-f4d7-4b66-a420-c4b9c57ce2ed.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep03/01_Reference_Images/S03_F04.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "0cf6e598223a4eaa2d278d43d770cbd27f434101aaea9401cb6557ad77d61baa",
+      "generation_prompt": "Use case: identity-preserve. Asset: a single sequential reference frame for a fifteen-second silent animated comedy. Input image is the sole EDIT TARGET. Preserve this exact polished warm 3D game-art image: same adults, heroine face identity, brown compact braided bun and coral ribbon, ivory gold robe, jade dress, coral sash, wooden tag, man mustard sweater, original lens and framing, full bodies, feet, lighting, geometry and all props. Do not redraw or redesign. Keep the original near 9:16 portrait dimensions and crop. Change only the facial acting directed below, and at most a tiny head-angle adjustment needed for the specified eye target. All hands, limb positions, closed/open door state, viewer-left fixed hinge, push bar, metal jamb, threshold and floor grid remain exactly as source. No text, captions, logos, icons, arrows, labels or border. Do not add any characters. The heroine looks down-left at the RIGHT palm actually contacting the push bar, lips neutral, calm concentration; no smile or eye contact with him. The man looks toward the opening door gap/bar, eyebrows still mostly neutral with a first hint of interest, lips closed. Exact same beginning-open door angle, geometry and hand contact as original."
+    },
+    {
+      "file": "S03_F05.png",
+      "time_seconds": 7,
+      "actual_state_en": "Door open at same verified roughly45 degree position. Heroine RIGHT hand still on moving bar free end; both feet remain indoors.",
+      "expression_en": "Man's eyes widen slightly at the open gap, not at the heroine; her expression stays focused while hand remains on the bar.",
+      "expression_tc": "男子對著打開的空隙稍微睜大眼，目光不在女主身上；她手仍在桿上，表情專注。",
+      "eye_target_en": "Man chin lifted, eyes toward open gap with mild raised brows; heroine down-left to palm/bar.",
+      "hand_ownership_en": "Heroine RIGHT palm contacts bar near free end; LEFT at own waist; man BOTH near chest.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP03_Push_Door/01_Reference_Images/S03_F05.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-3becbf67-fe39-43d6-ba4f-65f74ff6d34e.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep03/01_Reference_Images/S03_F05.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "8e2b7a2e280afcb2e8aeb5f2c7aed1828655bf400376eb1c3eb962c03b8c9efe",
+      "generation_prompt": "Use case: identity-preserve. Asset: a single sequential reference frame for a fifteen-second silent animated comedy. Input image is the sole EDIT TARGET. Preserve this exact polished warm 3D game-art image: same adults, heroine face identity, brown compact braided bun and coral ribbon, ivory gold robe, jade dress, coral sash, wooden tag, man mustard sweater, original lens and framing, full bodies, feet, lighting, geometry and all props. Do not redraw or redesign. Keep the original near 9:16 portrait dimensions and crop. Change only the facial acting directed below, and at most a tiny head-angle adjustment needed for the specified eye target. All hands, limb positions, closed/open door state, viewer-left fixed hinge, push bar, metal jamb, threshold and floor grid remain exactly as source. No text, captions, logos, icons, arrows, labels or border. Do not add any characters. The open door is exactly at the same final open angle as source, her RIGHT hand still touching bar near free end. Both characters' pupils attend to the open gap/door result rather than each other. Give the man a small delayed eyebrow lift of recognition, closed relaxed mouth, not alarm. The heroine remains calmly focused, mouth neutral with barely softened corners. Keep man's hands in exactly the original position.",
+      "initial_generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-15c0e765-b6a7-4a35-9134-bac9cc016278.png",
+      "refinement_prompt": "Use case: identity-preserve. Edit only facial acting in this reference image; every other pixel's scene content should remain unchanged. Important gaze correction: the mustard-shirt man RAISES HIS CHIN slightly and TURNS HIS EYES toward screen-right into the EMPTY OPEN DOORWAY, looking through the unobstructed gap at waist-to-chest height on screen centre. He must NOT look down at his own palms in this frame. His eyes widen a little with quiet realization, brows softly raised, mouth closed. The heroine LOWERS HER CHIN and both irises look clearly DOWN-LEFT at her RIGHT palm where it touches the metal push bar; lips calmly neutral. She does NOT look at the man. Preserve their exact original identities, bodies, all hand and finger positions, clothing, original warm CGI art, framing and 9:16 ratio. Preserve exact OPEN DOOR angle, viewer-left hinge and all door/frame/threshold geometry and feet positions. No text, no new objects, no extra gestures."
+    },
+    {
+      "file": "S03_F06.png",
+      "time_seconds": 9,
+      "actual_state_en": "Door remains open at same angle. Heroine hand withdrawn and resting at own waist; man studies his hands.",
+      "expression_en": "With the door held open and hand withdrawn, man glances from the clear opening down toward his own hands, beginning to understand.",
+      "expression_tc": "門維持開啟、女主已收手；男子由通道低眼看自己的雙手，開始明白。",
+      "eye_target_en": "Man down toward own hands; heroine left toward his hands and bar, no reciprocal gaze.",
+      "hand_ownership_en": "Heroine BOTH at own waist; man BOTH held at own chest for inspection.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP03_Push_Door/01_Reference_Images/S03_F06.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-e29a425d-5e5b-4ba0-9477-155cce470de5.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep03/01_Reference_Images/S03_F06.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "19d6bce79e996adbd8de899132cd556f47135ae450bc63eb7b3e974d547b334e",
+      "generation_prompt": "Use case: identity-preserve. Asset: a single sequential reference frame for a fifteen-second silent animated comedy. Input image is the sole EDIT TARGET. Preserve this exact polished warm 3D game-art image: same adults, heroine face identity, brown compact braided bun and coral ribbon, ivory gold robe, jade dress, coral sash, wooden tag, man mustard sweater, original lens and framing, full bodies, feet, lighting, geometry and all props. Do not redraw or redesign. Keep the original near 9:16 portrait dimensions and crop. Change only the facial acting directed below, and at most a tiny head-angle adjustment needed for the specified eye target. All hands, limb positions, closed/open door state, viewer-left fixed hinge, push bar, metal jamb, threshold and floor grid remain exactly as source. No text, captions, logos, icons, arrows, labels or border. Do not add any characters. Preserve the exactly open door and withdrawn heroine hand. The man glances down toward his own two empty hands with raised inner brows settling into self-awareness and gently compressed closed lips. Heroine's pupils glance down-left toward his hands/open bar, with a very small earned amused corner smile, no romantic gaze. Both stay in exact positions."
+    },
+    {
+      "file": "S03_F07.png",
+      "time_seconds": 11.5,
+      "actual_state_en": "Man turns own empty palms upward in self-directed embarrassment. Heroine hands at own waist; door stays open.",
+      "expression_en": "Man studies his own empty palms with dropped shoulders and a small embarrassed lip press; heroine holds a faint kind smile, hands at own waist.",
+      "expression_tc": "男子肩膀放鬆，看自己空掌，微抿嘴有點尷尬。女主淡淡友善微笑，雙手在自己的腰前。",
+      "eye_target_en": "Man down toward own upturned palms; heroine down-left toward palms.",
+      "hand_ownership_en": "Heroine BOTH at own waist; man BOTH empty palms upturned in front of own chest.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP03_Push_Door/01_Reference_Images/S03_F07.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-99179467-1b3d-424e-9b0d-cffac66e705d.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep03/01_Reference_Images/S03_F07.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "80dd27b3f53714519c18f4095c96ed62f5cfecc4718dee6dc42ce72d4c3fae70",
+      "generation_prompt": "Use case: identity-preserve. Asset: a single sequential reference frame for a fifteen-second silent animated comedy. Input image is the sole EDIT TARGET. Preserve this exact polished warm 3D game-art image: same adults, heroine face identity, brown compact braided bun and coral ribbon, ivory gold robe, jade dress, coral sash, wooden tag, man mustard sweater, original lens and framing, full bodies, feet, lighting, geometry and all props. Do not redraw or redesign. Keep the original near 9:16 portrait dimensions and crop. Change only the facial acting directed below, and at most a tiny head-angle adjustment needed for the specified eye target. All hands, limb positions, closed/open door state, viewer-left fixed hinge, push bar, metal jamb, threshold and floor grid remain exactly as source. No text, captions, logos, icons, arrows, labels or border. Do not add any characters. The man studies his own empty upturned palms, eyebrows lifted a little toward the centre, a tiny sheepish pressed-lip half-smile, as if realizing his unnecessary effort. His shoulders can appear relaxed but pose unchanged. Heroine looks down-left toward his palms and empty doorway, a tiny kind corner smile; not into his eyes. Keep her hands loosely resting at her own waist, no touching him. Keep door fully open."
+    },
+    {
+      "file": "S03_F08.png",
+      "time_seconds": 15,
+      "actual_state_en": "Heroine joins two empty palms at lower sternum in shallow forward bow. Man hands lowered on own body, door still open.",
+      "expression_en": "Heroine performs the shallow small bow, eyes gently lowered; man settles his hands and expression, the open doorway remains the visual answer.",
+      "expression_tc": "女主小幅淺鞠躬、目光輕垂。男子雙手和表情停穩，仍開著的門就是畫面上的答案。",
+      "eye_target_en": "Heroine eyes gently closed/lowered during small bow; man eyes down toward own lowered hands.",
+      "hand_ownership_en": "Heroine BOTH empty palms flat together lower sternum; man BOTH lowered at own waist.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP03_Push_Door/01_Reference_Images/S03_F08.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-0ba0a313-aa22-4514-8e63-f773e2a5352a.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep03/01_Reference_Images/S03_F08.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "cf5241343cbf10e30dff011b8f5f1c6437d18a981ff48e32ae291455f9d63db9",
+      "generation_prompt": "Use case: identity-preserve. Asset: a single sequential reference frame for a fifteen-second silent animated comedy. Input image is the sole EDIT TARGET. Preserve this exact polished warm 3D game-art image: same adults, heroine face identity, brown compact braided bun and coral ribbon, ivory gold robe, jade dress, coral sash, wooden tag, man mustard sweater, original lens and framing, full bodies, feet, lighting, geometry and all props. Do not redraw or redesign. Keep the original near 9:16 portrait dimensions and crop. Change only the facial acting directed below, and at most a tiny head-angle adjustment needed for the specified eye target. All hands, limb positions, closed/open door state, viewer-left fixed hinge, push bar, metal jamb, threshold and floor grid remain exactly as source. No text, captions, logos, icons, arrows, labels or border. Do not add any characters. Preserve the exact small forward bow, joined empty flat palms at lower sternum and feet positions. Refine heroine expression to serene friendly closed-mouth tiny smile with relaxed lowered eyelids, no exaggerated grin. Man has softly lowered eyes toward his own lowered hands and a mild self-directed sheepish closed-mouth smile, not romantic eye contact. Door stays exactly open."
+    }
+  ],
+  "qa": {
+    "all_eight_edited": true,
+    "generation_mode": "Built-in imagegen;8initialsingleframeedits+2targetedgazerefinements",
+    "physical_geometry": "Closed F01-F03; opening F04; stable finalopen F05-F08. Original viewer-left hinge, bar, footpositions and handownership preserved.",
+    "material_discrepancies": [],
+    "limits": "Still images reviewed; motion between states requires generated-video inspection."
+  }
+}

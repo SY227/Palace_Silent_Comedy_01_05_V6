@@ -1,0 +1,103 @@
+{
+  "episode": "EP02",
+  "package_revision": "V6",
+  "images_edited_this_revision": 0,
+  "frames": [
+    {
+      "file": "S02_F01.png",
+      "sha256": "4acf792ab1086cb9db7062b7041c060daf52a8d6409e32ecaa5e90178e3d00df",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 0,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Same continuous hair tips are caught in the raised driver-window upper edge. Driver RIGHT hand approaches the single closed red scissors in her open lap bag.",
+      "acting_en": "Driver's brows draw together as her eyes track the taut hair tips and then the bag; concern without panic. Heroine watches the trapped strand neutrally. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S02_F02.png",
+      "sha256": "1d7e0839f346099857179226219c99a538df40fd3ef0579325f9eda40637e7e7",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 1.5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Driver RIGHT hand briefly holds CLOSED scissors at low chest height, well away from hair and face. Window stays raised and hair caught.",
+      "acting_en": "Driver studies closed scissors with earnest, over-serious concentration; heroine looks from scissors toward the door switch with one lightly raised brow, no smirk. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S02_F03.png",
+      "sha256": "d3b5f88826311a6207be4d4544f0c0f6e9288f873f843068ae174f9accee115a",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 3,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Closed scissors are already inside the lap bag; driver RIGHT may rest on their handles there. Heroine RIGHT index points from her own side toward the outboard switch without touching it or crossing the driver torso.",
+      "acting_en": "Driver's eyes follow the heroine's short pointing direction to the outboard switch; scissors are already in bag. Heroine's gaze targets the switch, mouth neutral. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S02_F04.png",
+      "sha256": "06ecf4d4ff87413ba4367913381ac4faaca1ffb900f147ad5e1abe6e9a992d94",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Driver LEFT index visibly contacts the actual far-screen-right outboard rocker; the glass is still raised and hair still caught. Scissors stay in bag.",
+      "acting_en": "Driver concentrates on the actual rocker under her LEFT index; slight brow tension remains because hair is not free yet. Heroine watches the same control. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S02_F05.png",
+      "sha256": "c6dcbba2e4ca17f5c2b4d3096be33d0d33b0ec153cefa768785d5c746fc86fcb",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 7,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Driver LEFT still presses the rocker. The same glass is descending and its top edge has cleared the same intact strand, which falls onto her shoulder; scissors remain in bag.",
+      "acting_en": "Driver's gaze follows the falling strand, eyebrows just starting to soften after release; no broad relief before the glass has moved. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S02_F06.png",
+      "sha256": "c889b308f3fa89df18b7fa038efe6186442e093bededaf5d30d3186c65f55889",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 9,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Window has reached halfway down and stopped. Driver LEFT hand checks the same free strand on her shoulder; heroine RIGHT point has retracted into her own space.",
+      "acting_en": "Driver gently checks the freed intact strand, brow relaxed and shoulders less tense; heroine retracts her point into her own space with a calm face. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S02_F07.png",
+      "sha256": "62cde2c2a1f3e1dc22d1d9aac806e4d9c4938dede8f87ea23dfdd764e23e2f97",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 11.5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Hair remains intact and free, window halfway down, unused closed scissors in the open lap bag. Neither person reaches across the center.",
+      "acting_en": "Driver looks down at unused scissors in her lap bag, lips briefly pressed in mild embarrassment; heroine offers a tiny kind smile, not a laugh. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S02_F08.png",
+      "sha256": "e2260a49ec82b61f8eae78baac67e89a4b9622e7cfcb56b8a428f4a785841235",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 15,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Heroine joins exactly two empty flat palms at lower sternum and bows forward over her own lap. Window, free hair and bag contents stay unchanged.",
+      "acting_en": "Heroine's eyes soften in her small forward seated bow; driver looks down toward unused scissors in her lap bag while her LEFT hand gently touches the freed strand, with a settled sheepish smile and hands in her own space. Both mouths stay softly closed; no speech-shaped pose."
+    }
+  ]
+}

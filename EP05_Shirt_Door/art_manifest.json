@@ -1,0 +1,103 @@
+{
+  "episode": "EP05",
+  "package_revision": "V6",
+  "images_edited_this_revision": 0,
+  "frames": [
+    {
+      "file": "S05_F01.png",
+      "sha256": "abb99a22a5d87ec73742a6d7fe68dea3d58d4ad75a30a2a190b719b7adc1ca42",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 0,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Door is fully latched and flush closed. Broad intact blue hem ends in the trailing seam. Man LEFT hand tests that hem, RIGHT empty down; heroine both hands down.",
+      "acting_en": "Man looks directly at the caught hem with a pinched brow and concentrated closed mouth; heroine's gaze is on the seam, not his face. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S05_F02.png",
+      "sha256": "3bc87647049acdaabfc375baec8151619aa470f232fa42e2739c3b7b3416bb33",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 1.5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Man LEFT gives one extra restrained tug with planted feet and braced torso. Door remains latched, broad woven cloth continuous, RIGHT empty down.",
+      "acting_en": "Man briefly puffs cheeks for the restrained extra tug; heroine's eyes shift from trapped cloth to the exterior handle with one subtle raised brow. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S05_F03.png",
+      "sha256": "c258238500c23a78695b3ed961f8711a4f0dd96e3b668f7cbe5b7c32e90758c6",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 3,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Door remains closed and hem trapped. Heroine RIGHT fingers grip actual exterior handle; LEFT down. Man stops tugging but lightly holds hem with LEFT.",
+      "acting_en": "Man stops exerting and watches her RIGHT hand on the handle; heroine focuses on the latch, keeping a neutral mouth. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S05_F04.png",
+      "sha256": "c075bdc412e1a28447cd75e8b7c1ab875ad6c2af674113b0a01eaf413566297d",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Door is slightly open outward and the same intact shirt corner is visibly free in man LEFT hand. Heroine RIGHT remains on exterior handle.",
+      "acting_en": "Only after the seam opens does the man's brow release as he looks at his now-free hem; heroine watches the clearance carefully. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S05_F05.png",
+      "sha256": "17170c3d60532d89932129d4496eb658e03fe094cb493c4b0b237a3404ae9df8",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 7,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Door holds the same small opening. Man LEFT moves all free broad cloth toward own hip, leaving a visible gap from the empty closing seam. Her RIGHT holds handle.",
+      "acting_en": "Man looks at the fabric he brings clear, a small raised brow marking recognition; heroine keeps a focused safety-check gaze on the empty seam. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S05_F06.png",
+      "sha256": "e07631cb9af18851824d98a2e20454dfff37e0c17898599b2aa258ada36b5fca",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 9,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "After full cloth clearance, the door is flush closed again. All shirt fabric stays outside. Heroine RIGHT has withdrawn and both hands are down.",
+      "acting_en": "With door closed again, man glances from handle to intact free cloth, expression softer; heroine's hands are down and face calm. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S05_F07.png",
+      "sha256": "e62d85da56af37080659f97a4c77db79cecb3f7a1865b684df32c9d308548a07",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 11.5,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Man LEFT smooths the same intact free hem; RIGHT down. Heroine empty hands stay down, with no mutual hand contact; door remains closed.",
+      "acting_en": "Man smooths his own shirt with a small downward pressed-lip sheepish smile; heroine allows a tiny patient smile, without a long mutual gaze. Both mouths stay softly closed; no speech-shaped pose."
+    },
+    {
+      "file": "S05_F08.png",
+      "sha256": "c6ae128d855f2844eb968c9cb1c217eddeed152162151ad2613cb814c2dfc40e",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "time_seconds": 15,
+      "revision": "V5 retained in V6",
+      "physical_state_en": "Door stays closed and shirt hangs free. Heroine two empty flat palms are together at lower sternum, settled after one small bow; man hands empty down.",
+      "acting_en": "Heroine settles after a shallow bow with joined flat palms and soft eyes; man stands relaxed, shirt intact and clearly outside the closed seam. Both mouths stay softly closed; no speech-shaped pose."
+    }
+  ]
+}

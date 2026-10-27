@@ -1,0 +1,49 @@
+V6 REQUIRED: silent visual generation; closed mouths; soundtrack added in post.
+V6必要流程：生成無聲畫面、嘴唇閉合、音軌後期加入。
+Read Audio_And_Reflection_Control_EN_TC.txt in00_Series.
+請看00_Series內Audio_And_Reflection_Control_EN_TC.txt。
+
+V6 STORY MESSAGES / 五集無聲訊息
+These sentences are directing intent. NEVER render them as captions or speak them.
+以下句子是導演意圖，絕不變成字幕或對白。
+
+EP01 - A mirror already does this. / 後視鏡本來就能做到。
+Mistake: squinting at a crooked taped phone. Cause: her LEFT hand adjusts the real mirror. Proof: rear window appears in mirror. Recognition: man compares mirror with redundant phone, then dips chin.
+錯法：瞇眼看歪貼手機。原因：女主左手調鏡。證據：鏡中出現後窗。領悟：男子比較鏡子與多餘手機，再低下巴。
+
+EP02 - Lower the window; keep the hair. / 降下車窗，保住頭髮。
+Mistake: considering closed scissors for caught hair. Cause: driver LEFT index presses actual rocker. Proof: glass lowers and the same intact strand falls free. Recognition: driver checks free hair, then looks down at unused scissors.
+錯法：為夾住髮尾考慮用剪刀。原因：駕駛左食指壓真正開關。證據：玻璃下降，同一完整髮束鬆開。領悟：確認頭髮後看沒用上的剪刀。
+
+EP03 - Push, don't pull. / 這扇門要推。
+Mistake: both hands pulling the bar toward the body. Cause: heroine RIGHT palm pushes it away. Proof: door opens outward, hinge stays left. Recognition: man looks at the open gap, then his own palms.
+錯法：雙手把桿往身體拉。原因：女主右掌往外推。證據：門向外開，左側門軸固定。領悟：男子看通道，再看自己的手掌。
+
+EP04 - It is manual, not a sensor. / 這是手動取紙，不是感應器。
+Mistake: waving under an unmoving paper tail. Cause: physical grip, pull and tear. Proof: one sheet and a short next tail. Recognition: man studies the palm he had been waving.
+錯法：在不動紙尾下揮手。原因：真的握、拉、撕。證據：一張紙與下一截紙尾。領悟：男子看自己剛才一直揮的手。
+
+EP05 - Open the door before tugging the shirt. / 先開門，衣角自然鬆開。
+Mistake: tugging a hem caught in a fully closed door. Cause: handle opens the seam. Proof: the same cloth releases intact; all cloth clears before closing. Recognition: man smooths the undamaged shirt, a little embarrassed.
+錯法：衣角被已關好的門夾住，仍繼續拉。原因：門把打開門縫。證據：同一布料完整鬆開，移清才關門。領悟：男子有點尷尬地撫平衣服。
+
+MUTE CHECK - practical review rubric, not an audience test already performed.
+靜音檢查 - 供實際驗收，並非已完成的觀眾測試。
+At 2 seconds: can a new viewer identify what is wrong from the action and prop?
+第2秒：新觀眾能從動作及道具看出問題嗎？
+At the result: can the viewer point to the contact that caused it, without explanation?
+結果出現時：不靠解說，能指出是哪個接觸造成改變嗎？
+Before the bow: is there one unmistakable I overcomplicated this reaction, directed at the object or own hands?
+鞠躬前：有沒有清楚對著物件或自己雙手的「原來我搞複雜了」反應？
+At the end: can someone describe the story in one plain sentence, without guessing a romantic subplot?
+結束後：觀眾能用一句話說出故事，毋須猜測感情線嗎？
+
+If unclear, repair the missing setup/result/reaction beat. Keep 15 seconds and the same story; do not add an explanatory subtitle, new prop or second joke.
+若不清楚，就修缺失的鋪陳、結果或反應。保留15秒及原故事，不加解釋字幕、新道具或第二個笑話。
+
+
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+只生成無聲畫面。兩名角色全程不說話，嘴唇自然輕閉：不對嘴、不做說話口型、不活動下顎、不露齒或舌頭、不張嘴笑、不喘氣、不嘆氣、不發任何人聲。只用眼神、眉毛、小幅頭部動作及姿態表演。不生成音訊：沒有人聲、旁白、音樂或音效；音軌另於後期加入。
+
+POST-PRODUCTION ONLY: remove or disable the complete generated source-audio track before editing. Add one original or appropriately licensed relaxed instrumental jazz bed around 80 BPM: soft piano, sparse upright bass and brushed drums, continuous through the bow. No vocals, humming, scat, speech, laugh track or comedy sting. Add clean synchronized object Foley separately, with no human voices; keep music below useful contact sounds. Do not add jazz or Foley instructions to the silent generation prompt. If your interface explicitly offers audio-off, use it; no such UI or API setting is assumed here. Still inspect every face for talking-like animation.
+僅後期處理：剪輯前先完整移除或停用生成素材的原音軌。另加一段原創或已取得適當授權、約每分鐘80拍的輕鬆爵士純演奏：柔和鋼琴、疏落低音提琴與刷奏爵士鼓，樂句連續至合掌。無歌聲、哼唱、擬聲唱、說話、罐頭笑聲或笑點提示音。另配乾淨、同步、無人聲的物件音效，爵士低於重要接觸聲。不要把爵士或音效製作指示貼入無聲畫面生成提示詞。若介面明確提供關閉音訊功能可使用，本包不假設存在該介面或API設定。仍須逐一檢查臉部有沒有說話動作。

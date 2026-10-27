@@ -1,0 +1,151 @@
+{
+  "revision": "V6",
+  "method": "built-in image editing",
+  "batches": [
+    {
+      "revision": "V6",
+      "frames": [
+        {
+          "file": "S01_F01.png",
+          "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F01.png",
+          "sha256": "72eb502d2e95f07be9d91355fe51a407f53912ad29b6c0e639ac846d38aa580c",
+          "size": [
+            941,
+            1672
+          ],
+          "source": "V5 same frame + V6 F04 supporting rear-world reference",
+          "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-3db74356-b5d2-4ea2-b236-40107168c9fb.png",
+          "method": "built-in imagegen precise-object edit",
+          "prompts": [
+            "Use case: precise-object-edit.\nEdit target Image 1 is opening reference F01. Image 2 is a supporting continuity reference ONLY for the PHONE SCREEN's rearward scene, not for poses or the real mirror.\nMake a tightly controlled edit to Image 1, preserving its composition, faces and identity, hair, clothes, body poses, hands on own lap, seating, car dashboard, sunset city through FRONT windshield, black mirror housing, tape and phone positions, lighting, image size and polished game art.\nChange ONLY:\n1. Inside the taped phone screen, replace the sunset-road preview with the same empty rear cabin and rear window looking onto a cooler-lit brick parking courtyard as in Image 2's PHONE SCREEN: two beige rear headrests, gray paving, brick wall, sparse shrubs. No people, no faces, no front sunset/skyline. Keep phone housing/tape and its exact size/angle unchanged.\n2. Each person's OWN mouth is CLOSED: that individual's upper lip rests on that individual's lower lip. The two people stay FAR APART in their separate seats exactly like Image 1, with the large unchanged empty gap between their faces. Absolutely no kissing, no leaning toward the other person, no romance. No visible teeth, tongue, talking or parted mouth. Man retains his open narrowed eyes and concentrated brow aimed up at the tiny phone; heroine remains calmly observant with mouth neutral.\nCRITICAL F01 STATE: The large real rearview mirror still reflects ONLY the beige headliner/roof, exactly as in Image 1. Do NOT copy the corrected mirror reflection or raised arm from Image 2. Her two hands remain on her own lap. No text, labels, graphic overlays, watermarks, added objects, additional hands or reflection portraits.\nThe heroine stays on the far RIGHT edge of the composition, at the original location. The man stays on the LEFT. Their bodies and heads do NOT move at all relative to Image 1. Edit only the phone's internal image and small mouth shapes. No kiss. Their faces must remain separated by the original large distance.\n",
+            "Precise single-object physical edit. Change ONLY the LARGE REARVIEW MIRROR ASSEMBLY orientation; keep ALL people, pose, phone/tape and phone image, car, light, composition exactly unchanged. The mirror is currently nearly facing the rear camera. Rotate its actual black housing and reflective glass together UPWARD about the fixed existing ball joint by approximately 20 degrees so the reflective face points toward the car ceiling. The stalk/ball joint stays fixed. Show the real 3D tilt clearly: foreshorten the reflective rectangle vertically by about one quarter, and make the black bottom housing edge slightly more visible. The result is still the SAME mirror at same location and width, not shrunk or relocated; only pitch changed. Its glass continues to reflect beige headliner/ceiling only. Keep the roof reflection perspective consistent with upward orientation. Do not alter phone preview or character faces. No new hand, no text.\n"
+          ],
+          "review": {
+            "mirror": "Headliner-only reflection; actual mirror housing visibly tilted upward with foreshortened glass and exposed lower black casing, different from corrected F04. Fixed stalk.",
+            "phone": "empty rear cabin, beige rear headrests, cool brick courtyard; no frontal sunset duplicate",
+            "mouth": "closed thin lip line; no open mouth/teeth; static-only review",
+            "hand": "both hands on own lap",
+            "seating": "same forward seating, separated faces; no kiss"
+          },
+          "limitations": [
+            "Generated motion not verified. Static reference states do not guarantee physically correct interpolation."
+          ],
+          "previous_generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-45d0d4cf-984f-4b2a-afd9-df0280f763ae.png"
+        },
+        {
+          "file": "S01_F02.png",
+          "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F02.png",
+          "sha256": "64d2039ed59052bf06ba9b3e7adb640730b543663b4fe233eafc01496697942e",
+          "size": [
+            941,
+            1672
+          ],
+          "source": "V5 same frame + V6 F04 supporting rear-world reference",
+          "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-f6cc4cf1-0138-4bcf-b0e5-459985d426a8.png",
+          "method": "built-in imagegen precise-object edit",
+          "prompts": [
+            "Use case: precise-object-edit.\nImage 1 is the exact edit target: reference F02, a wordless comedy opening inside a parked car. Image 2 supplies ONLY the phone screen's rearward scene. Keep Image 1's people separated in their own seats, existing poses/head positions/hand positions and facial identity unchanged. Preserve its framing, camera, car, warm sunset/front skyline, clothes, hair, tape, phone casing and large mirror housing.\nReplace ONLY the small phone screen image with the rearward camera scene in Image 2's phone: empty beige rear bench with two beige rear headrests, rear window, a cooler-lit brick courtyard with gray paving and small green shrubs. No sun or front city skyline in this rearward preview. Phone/tape never move.\nThe real large mirror in F02 stays tilted UP at its existing black ball joint, reflecting the beige car headliner ONLY; no rear courtyard in this real mirror yet. Preserve the roof reflection from Image 1. Its up-tilted glass plane should physically support seeing the roof, subtly different from the later corrected angle in Image 2.\nEach person's own mouth is CLOSED, a fine relaxed lip line with that individual's upper lip resting on their own lower lip. No opening/teeth/tongue. Keep their faces FAR APART like Image 1; absolutely no kiss, romance, leaning toward each other, or talking. Driver holds his one small futile head tilt and focused open narrowed eyes toward the PHONE, heroine eyes target the unused larger mirror above it, slight brow lift. Both her hands stay on her own lap. No new gestures, extra hands, text or overlay. Output one complete portrait frame.\n",
+            "Precise single-object continuity edit. Image1 is the target F02; Image2 is reference ONLY for the real rearview mirror orientation. Preserve every pixel relationship in Image1 outside that large mirror: the two people, expressions, separated seats, clothes, hands on laps, phone/tape and brick-courtyard screen, sunset background, car and camera. Replace only the large mirror housing/glass pose with the exact UPWARD TILTED pose of Image2: same fixed stalk and ball joint, same physical mirror width, foreshortened glass height, exposed thick black bottom housing edge, reflective face pointing toward ceiling. Reflect the beige headliner/ceiling only, matching Image2. This is BEFORE any heroine contact. Do not copy Image2's people/head positions; keep Image1's head-tilt acting. No new objects, no text.\n"
+          ],
+          "review": {
+            "mirror": "Headliner-only reflection; actual mirror housing visibly tilted upward with foreshortened glass and exposed lower black casing, different from corrected F04. Fixed stalk.",
+            "phone": "empty rear cabin, beige rear headrests, cool brick courtyard; no frontal sunset duplicate",
+            "mouth": "closed thin lip line; no open mouth/teeth; static-only review",
+            "hand": "both hands on own lap",
+            "seating": "same forward seating, separated faces; no kiss"
+          },
+          "limitations": [
+            "Generated motion not verified. Static reference states do not guarantee physically correct interpolation."
+          ],
+          "previous_generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-6a4568bf-836d-4d15-9709-2043dfc58c16.png"
+        },
+        {
+          "file": "S01_F03.png",
+          "path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F03.png",
+          "sha256": "85e86f7aaf3c970e6d096f1d1175ac5ce191d13d3df452e7dab881073997fb3b",
+          "size": [
+            941,
+            1672
+          ],
+          "source": "V5 same frame + V6 F04 supporting rear-world reference",
+          "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-5ba10ddc-c50a-4f88-b505-e175f3dc6ea4.png",
+          "method": "built-in imagegen precise-object edit",
+          "prompts": [
+            "Use case: precise-object-edit.\nImage 1 is the exact edit target F03 BEFORE CONTACT. Image 2 is only a rearward-scene reference for the PHONE SCREEN; do NOT copy its corrected mirror or contact pose.\nPreserve Image 1's entire camera/framing, car, warm front sunset skyline, people identities, hair/robes, forward seating, poses and all object positions. Change only these tiny local details:\nThe taped phone screen shows the empty rear cabin and rear window overlooking the same cool brick parking courtyard as Image 2's phone: beige rear headrests, gray paving, plain brick wall and sparse shrubs. No front sunset skyline, faces, people or camera in phone. Phone and tape remain fixed and untouched.\nThe LARGE real mirror still reflects only the beige car HEADLINER exactly as Image 1, physically tilted upward at its existing joint. No useful rear view until AFTER actual hand contact in next frame.\nHer raised LEFT hand is approaching the actual black LOWER mirror rim. Put her nearest fingertip about one fingertip-width BELOW the mirror's lower tab/rim, with a clearly visible AIR GAP: hovering, NOT touching the mirror and nowhere near phone. The raised hand does not overlap or touch the phone. RIGHT hand remains on her own lap. Mirror frame and joint do not move yet.\nEach person's OWN mouth is closed with their own upper and lower lip in a thin neutral line; no open mouth, teeth, tongue or speaking. Their faces remain FAR APART in the separate seats as Image 1, no kiss, romance, mutual gaze or pose change. Heroine eyes track the black mirror edge near her fingertips, driver eyes follow the same target. No text or overlays or extra hands.\n",
+            "Precise local correction. Preserve this entire image exactly, including faces, phone courtyard image, large mirror HEADLINER reflection, car, clothes and seating. Change ONLY the raised LEFT hand and its wrist: lower that entire hand and wrist by about 6 centimetres while keeping the upper arm and elbow naturally connected. The highest fingertip must stop clearly BELOW the bottom of the mirror, leaving a large unbroken visible strip of sunset sky between fingertip and black mirror tab, at least two fingertip widths of EMPTY AIR. The finger does NOT touch the mirror, tab, rim or phone. This is an obvious before-contact hovering reach, not a touching pose. No other edits, no text.\n",
+            "Precise single-object continuity edit. Image1 is target F03 BEFORE CONTACT. Image2 is reference ONLY for the large mirror orientation. Preserve everything in Image1 outside the large mirror: exact heroine raised LEFT hand hovering far below the rim with clear empty air gap, right hand on lap, driver, eyes, mouths closed, forward separate seats, clothing, phone/tape and brick-courtyard screen, car and sunset/front skyline. Copy ONLY the physical pose of the large mirror from Image2: reflective face tilts UP toward roof around the SAME fixed existing black stalk/ball joint, glass rectangle visibly foreshortened vertically, thicker visible bottom black housing edge. Same physical mirror width; don't resize or move the mounting stalk. Glass continues showing beige headliner only, like Image2. Do not copy Image2's characters or lower the raised hand. There must still be a large clearly visible unbroken air gap between her fingertip and mirror. No mirror contact yet, no phone contact, no text, no extra objects.\n"
+          ],
+          "review": {
+            "mirror": "Headliner-only reflection; actual mirror housing visibly tilted upward with foreshortened glass and exposed lower black casing, different from corrected F04. Fixed stalk.",
+            "phone": "empty rear cabin, beige rear headrests, cool brick courtyard; no frontal sunset duplicate",
+            "mouth": "closed thin lip line; no open mouth/teeth; static-only review",
+            "hand": "LEFT raised fingertip visibly below mirror with unbroken air gap; no contact",
+            "seating": "same forward seating, separated faces; no kiss"
+          },
+          "limitations": [
+            "Generated motion not verified. Static reference states do not guarantee physically correct interpolation."
+          ],
+          "previous_generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-59b2d56a-f8af-459b-8106-9703f8012586.png"
+        }
+      ],
+      "discarded_drafts": [
+        "F01 first draft rejected for unauthorized pose change",
+        "F03 first draft rejected for insufficient pre-contact gap"
+      ],
+      "final_status": "Final3openingframes visually reviewed after actual mirror-pitch correction; no additional edit planned."
+    },
+    {
+      "revision": "V6",
+      "method": "built-in image_gen image editing",
+      "scope": "EP01 F04–F08",
+      "review": "All five final generated frames visually inspected. Corrected mirror and phone show matching brick courtyard/rear window with beige rear headrests, distinct from front sunset. All visible mouths closed. Existing poses and hand transitions retained. Video interpolation/reflection geometry still requires motion review.",
+      "assets": [
+        {
+          "file": "S01_F04.png",
+          "source": "/workspace/scratch/c4a24f1a7d94/tmp/v6/baseline/Palace_Silent_Comedy_01_05_V5/EP01_Rearview_Mirror/01_Reference_Images/S01_F04.png",
+          "supporting_reference": null,
+          "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-74eddcb0-6846-481f-986d-7c44c2e0915b.png",
+          "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F04.png",
+          "prompt": "Use case: precise-object-edit. Edit this exact vertical story reference, preserving its pixel composition, character identities, poses, clothing, car geometry, lighting and art style. Only repair the two little displayed views and softly close any parted lips.\nThe forward windshield view remains the existing warm river/city sunset. It MUST NOT also appear behind the car.\nInside the existing black center REAR-VIEW MIRROR, show a coherent rearward view: the car's dark rear-window outline, two beige rear-headrest tops at the lower edges and a quiet shaded brick parking courtyard behind the vehicle. Muted cool grey-brown brick wall and pale pavement, no sunset, city skyline or glowing lamps. No people, faces, eyes, reflected heroine, camera or text. The rear view should look optically plausible, not a screen.\nInside the existing crooked taped phone below-left, show a camera preview of that SAME rear window, beige rear headrests and cool brick parking courtyard with a slightly wider, differently cropped camera viewpoint. No text/UI. Do not move, enlarge or otherwise change the phone, tape or its mount.\nPreserve the heroine's raised LEFT arm and LEFT fingertips gripping the actual lower black mirror rim as shown; do not let the fingertips touch the phone. The existing clear gap between her fingers and the phone remains. RIGHT hand remains on her lap. Both occupants remain seated forward.\nMouths gently closed, no visible teeth or tongue. Preserve her focused eyes at the mirror, not smiling or talking.\nKeep every other detail unchanged. Deliver only one full-frame image, no labels or collage.",
+          "sha256": "46855195a0d192af4aac4a9317dba0cb38d4593b653a085ccf4d5ca4a5cfa1c4"
+        },
+        {
+          "file": "S01_F05.png",
+          "source": "/workspace/scratch/c4a24f1a7d94/tmp/v6/baseline/Palace_Silent_Comedy_01_05_V5/EP01_Rearview_Mirror/01_Reference_Images/S01_F05.png",
+          "supporting_reference": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F04.png",
+          "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-63cf7800-62a7-4cac-a7bd-088127427672.png",
+          "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F05.png",
+          "prompt": "Use case: precise-object-edit. Image1 is the exact edit target frame F05; image2 is an approved MASTER for displayed rear views ONLY, not for poses. Make a targeted repair to Image1.\nReplace only the view INSIDE its existing black rear-view mirror and the preview INSIDE its existing taped phone to match image2's rear world and crop. Mirror shows dark rear-window outline, two beige rear-headrest tops at lower sides, shaded cool brick wall, little shrubs and pale courtyard pavement behind the stationary car. Phone shows the same courtyard from a slightly wider camera framing. Do not copy the front sunset/skyline into either rear view. No faces, people, eyes, cameras, glowing lights, sun, or text in mirror or phone. Keep the corrected mirror angle fixed and preserve mount/frame/tape/phone locations.\nThe FRONT windshield sunset, river and skyline remain exactly as in image1. Preserve image1's character identities, proportions, hair, clothing, car details, framing, positions and every physical action. Her LEFT fingertips are separated below the mirror, starting to descend, with an obvious air gap to the rim. Preserve that exact empty-handed released pose. RIGHT hand on lap.\nAll mouths are softly closed with no teeth/tongue/parted-lips, while keeping the nuanced eye/brow expression. These are completely nonspeaking characters.\nNo hand may touch the phone. Do not transplant the raised-arm pose from image2. No labels, no collage. One full vertical frame.",
+          "sha256": "17c19d04577eacf6d62678c105ade0d84a20261cdb96781e880b8841248e3cbf"
+        },
+        {
+          "file": "S01_F06.png",
+          "source": "/workspace/scratch/c4a24f1a7d94/tmp/v6/baseline/Palace_Silent_Comedy_01_05_V5/EP01_Rearview_Mirror/01_Reference_Images/S01_F06.png",
+          "supporting_reference": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F04.png",
+          "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-b11c37f7-3f2d-490a-a9c3-17a7d2ec77f9.png",
+          "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F06.png",
+          "prompt": "Use case: precise-object-edit. Image1 is the exact edit target frame F06; image2 is an approved MASTER for displayed rear views ONLY, not for poses. Make a targeted repair to Image1.\nReplace only the view INSIDE its existing black rear-view mirror and the preview INSIDE its existing taped phone to match image2's rear world and crop. Mirror shows dark rear-window outline, two beige rear-headrest tops at lower sides, shaded cool brick wall, little shrubs and pale courtyard pavement behind the stationary car. Phone shows the same courtyard from a slightly wider camera framing. Do not copy the front sunset/skyline into either rear view. No faces, people, eyes, cameras, glowing lights, sun, or text in mirror or phone. Keep the corrected mirror angle fixed and preserve mount/frame/tape/phone locations.\nThe FRONT windshield sunset, river and skyline remain exactly as in image1. Preserve image1's character identities, proportions, hair, clothing, car details, framing, positions and every physical action. Both heroine hands remain down on her own lap. Both occupants look upward at mirror/phone. Do not raise any hand.\nAll mouths are softly closed with no teeth/tongue/parted-lips, while keeping the nuanced eye/brow expression. These are completely nonspeaking characters.\nNo hand may touch the phone. Do not transplant the raised-arm pose from image2. No labels, no collage. One full vertical frame.",
+          "sha256": "f1d981e08e7d0577a7c4245b831f6d1276fd16860772db2fe92a20f77d54007b"
+        },
+        {
+          "file": "S01_F07.png",
+          "source": "/workspace/scratch/c4a24f1a7d94/tmp/v6/baseline/Palace_Silent_Comedy_01_05_V5/EP01_Rearview_Mirror/01_Reference_Images/S01_F07.png",
+          "supporting_reference": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F04.png",
+          "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-71e228c7-9520-41c3-96b7-93a8726626f2.png",
+          "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F07.png",
+          "prompt": "Use case: precise-object-edit. Image1 is the exact edit target frame F07; image2 is an approved MASTER for displayed rear views ONLY, not for poses. Make a targeted repair to Image1.\nReplace only the view INSIDE its existing black rear-view mirror and the preview INSIDE its existing taped phone to match image2's rear world and crop. Mirror shows dark rear-window outline, two beige rear-headrest tops at lower sides, shaded cool brick wall, little shrubs and pale courtyard pavement behind the stationary car. Phone shows the same courtyard from a slightly wider camera framing. Do not copy the front sunset/skyline into either rear view. No faces, people, eyes, cameras, glowing lights, sun, or text in mirror or phone. Keep the corrected mirror angle fixed and preserve mount/frame/tape/phone locations.\nThe FRONT windshield sunset, river and skyline remain exactly as in image1. Preserve image1's character identities, proportions, hair, clothing, car details, framing, positions and every physical action. Both heroine hands remain down on her own lap. Man's chin is lowered in sheepish closed-lip recognition; heroine's eyes remain upward at the mirror, tiny closed-mouth smile. Do not change expressions into conversation or mutual gaze.\nAll mouths are softly closed with no teeth/tongue/parted-lips, while keeping the nuanced eye/brow expression. These are completely nonspeaking characters.\nNo hand may touch the phone. Do not transplant the raised-arm pose from image2. No labels, no collage. One full vertical frame.",
+          "sha256": "a952126be9d86a4d4d9f66f25c93be03e536813592f324a9ffdf121087342929"
+        },
+        {
+          "file": "S01_F08.png",
+          "source": "/workspace/scratch/c4a24f1a7d94/tmp/v6/baseline/Palace_Silent_Comedy_01_05_V5/EP01_Rearview_Mirror/01_Reference_Images/S01_F08.png",
+          "supporting_reference": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F04.png",
+          "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-64857328-d4b6-4cd9-94a4-24b71654c921.png",
+          "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v6/art_ep01/S01_F08.png",
+          "prompt": "Use case: precise-object-edit. Image1 is the exact edit target frame F08; image2 is an approved MASTER for displayed rear views ONLY, not for poses. Make a targeted repair to Image1.\nReplace only the view INSIDE its existing black rear-view mirror and the preview INSIDE its existing taped phone to match image2's rear world and crop. Mirror shows dark rear-window outline, two beige rear-headrest tops at lower sides, shaded cool brick wall, little shrubs and pale courtyard pavement behind the stationary car. Phone shows the same courtyard from a slightly wider camera framing. Do not copy the front sunset/skyline into either rear view. No faces, people, eyes, cameras, glowing lights, sun, or text in mirror or phone. Keep the corrected mirror angle fixed and preserve mount/frame/tape/phone locations.\nThe FRONT windshield sunset, river and skyline remain exactly as in image1. Preserve image1's character identities, proportions, hair, clothing, car details, framing, positions and every physical action. Preserve the exact small forward seated bow over her own lap with TWO flat empty palms together at lower chest. No additional lap hand. Driver remains forward.\nAll mouths are softly closed with no teeth/tongue/parted-lips, while keeping the nuanced eye/brow expression. These are completely nonspeaking characters.\nNo hand may touch the phone. Do not transplant the raised-arm pose from image2. No labels, no collage. One full vertical frame.",
+          "sha256": "10a86f7f8913c4919062f9a90e4fb79fbc1836377a086604b2888ccf7e7610d7"
+        }
+      ]
+    }
+  ]
+}

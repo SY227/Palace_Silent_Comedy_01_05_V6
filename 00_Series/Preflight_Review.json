@@ -1,0 +1,131 @@
+{
+  "revision": "V6",
+  "episode": "EP01",
+  "reviewer": "independent v6_video_review agent",
+  "scope": "Eight final reference PNGs viewed at full size, plus multi-frame contact comparison. Draft files excluded. This is static-image QA, not validation of generated video motion or audio.",
+  "overall_status": "pass_static_visual_review",
+  "hard_blockers": [],
+  "checks": {
+    "F01_F03_real_mirror_headliner_only": true,
+    "F03_hover_air_gap_before_contact": true,
+    "F04_actual_LEFT_mirror_frame_contact": true,
+    "F05_release_gap": true,
+    "F04_F08_corrected_rear_courtyard_retained": true,
+    "phone_never_touched": true,
+    "phone_same_rear_location_and_framing_no_material_content_drift": true,
+    "no_reflected_face_or_camera": true,
+    "front_sunset_distinct_from_rear_courtyard": true,
+    "visible_mouths_closed_no_teeth_tongue_or_open_cavity": true,
+    "forward_seated_hips_and_torsos": true,
+    "no_extra_hands_seen": true,
+    "F08_two_joined_palms_visible": true,
+    "F01_F03_actual_mirror_plane_upward_pitch_visible": true,
+    "opening_housing_orientation_differs_from_corrected_F04": true
+  },
+  "limitations": [
+    "Static closed lips do not guarantee speech-free generated mouth motion; review the rendered movie frame by frame.",
+    "A still-image sequence does not validate continuous optical parallax or contact timing; inspect the generated adjustment from3to5seconds.",
+    "Phone/mirror textures are separate generative stills and are visually consistent rather than pixel-identical. Final render should keep them stable.",
+    "F01/F02 small lip seam highlights read as closed lips, not an open talking pose."
+  ],
+  "frames": [
+    {
+      "frame": "F01",
+      "path": "tmp/v6/art_ep01/S01_F01.png",
+      "sha256": "72eb502d2e95f07be9d91355fe51a407f53912ad29b6c0e639ac846d38aa580c",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "status": "pass_static_visual_review",
+      "observation": "Mirror contains only beige headliner. Phone shows empty rear headrests and brick courtyard. Driver looks upward at phone; lips closed with small natural seam/highlight. Heroine lips softly closed, hands low. FINAL PITCH RECHECK: real mirror housing is visibly tilted upward, foreshortened reflective face with deeper underside visible. This supports the headliner reflection and differs from the corrected F04-F08 housing orientation. Phone and closed-mouth/hand states are retained."
+    },
+    {
+      "frame": "F02",
+      "path": "tmp/v6/art_ep01/S01_F02.png",
+      "sha256": "64d2039ed59052bf06ba9b3e7adb640730b543663b4fe233eafc01496697942e",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "status": "pass_static_visual_review",
+      "observation": "Mirror remains headliner. Phone maintains same empty rear courtyard composition. Driver changes to a small viewing tilt/lean, no speaking-like open-mouth pose. Heroine watches phone/mirror with closed lips. FINAL PITCH RECHECK: real mirror housing is visibly tilted upward, foreshortened reflective face with deeper underside visible. This supports the headliner reflection and differs from the corrected F04-F08 housing orientation. Phone and closed-mouth/hand states are retained."
+    },
+    {
+      "frame": "F03",
+      "path": "tmp/v6/art_ep01/S01_F03.png",
+      "sha256": "85e86f7aaf3c970e6d096f1d1175ac5ce191d13d3df452e7dab881073997fb3b",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "status": "pass_static_visual_review",
+      "observation": "Corrected final F03, not draft. LEFT fingertips have a clearly visible air gap below black mirror frame. No contact yet; mirror still headliner. Phone remains untouched and shows rear courtyard. Visible mouth is closed. FINAL PITCH RECHECK: real mirror housing is visibly tilted upward, foreshortened reflective face with deeper underside visible. This supports the headliner reflection and differs from the corrected F04-F08 housing orientation. Phone and closed-mouth/hand states are retained."
+    },
+    {
+      "frame": "F04",
+      "path": "tmp/v6/art_ep01/S01_F04.png",
+      "sha256": "46855195a0d192af4aac4a9317dba0cb38d4593b653a085ccf4d5ca4a5cfa1c4",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "status": "pass_static_visual_review",
+      "observation": "LEFT fingertips visibly contact black lower mirror frame/tab, with phone clearly separate and untouched. Mirror is corrected to beige rear headrests and empty brick courtyard; no faces or front sunset. Visible heroine mouth closed."
+    },
+    {
+      "frame": "F05",
+      "path": "tmp/v6/art_ep01/S01_F05.png",
+      "sha256": "17c19d04577eacf6d62678c105ade0d84a20261cdb96781e880b8841248e3cbf",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "status": "pass_static_visual_review",
+      "observation": "LEFT fingertips visibly separated from mirror after release; arm beginning to lower. Mirror retains corrected courtyard view. Phone unchanged in scene content; no face insert. Closed lips."
+    },
+    {
+      "frame": "F06",
+      "path": "tmp/v6/art_ep01/S01_F06.png",
+      "sha256": "f1d981e08e7d0577a7c4245b831f6d1276fd16860772db2fe92a20f77d54007b",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "status": "pass_static_visual_review",
+      "observation": "Hands returned low, mirror corrected and static; phone retains same empty rear location. Both characters forward in original seats, gazes upward at devices, mouths closed."
+    },
+    {
+      "frame": "F07",
+      "path": "tmp/v6/art_ep01/S01_F07.png",
+      "sha256": "a952126be9d86a4d4d9f66f25c93be03e536813592f324a9ffdf121087342929",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "status": "pass_static_visual_review",
+      "observation": "Driver chin lowered in sheepish recognition, closed-lip small smile; heroine looks toward devices with tiny closed-mouth smile. Hands remain low. Mirror and phone retain empty rear courtyard views."
+    },
+    {
+      "frame": "F08",
+      "path": "tmp/v6/art_ep01/S01_F08.png",
+      "sha256": "10a86f7f8913c4919062f9a90e4fb79fbc1836377a086604b2888ccf7e7610d7",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "status": "pass_static_visual_review",
+      "observation": "Both heroine palms visibly meet at lower sternum in shallow forward bow over own lap. Two hands only, no extra limb. Driver stays in seat, mouth closed; mirror retains corrected view and phone remains untouched."
+    }
+  ],
+  "final_recheck": {
+    "changed_frames": [
+      "F01",
+      "F02",
+      "F03"
+    ],
+    "method": "Viewed all3updatedopeningimagesdirectlyatfullsize;verifiedF04-F08hashesunchangedfrompriorreview.",
+    "status": "pass_static_visual_review",
+    "hard_blockers": []
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "revision": "V6",
+  "story_images": 40,
+  "edited_images": 8,
+  "retained_images": 32,
+  "assets": [
+    {
+      "episode": "EP01",
+      "file": "EP01_Rearview_Mirror/01_Reference_Images/S01_F01.png",
+      "sha256": "72eb502d2e95f07be9d91355fe51a407f53912ad29b6c0e639ac846d38aa580c",
+      "updated_in_v6": true
+    },
+    {
+      "episode": "EP01",
+      "file": "EP01_Rearview_Mirror/01_Reference_Images/S01_F02.png",
+      "sha256": "64d2039ed59052bf06ba9b3e7adb640730b543663b4fe233eafc01496697942e",
+      "updated_in_v6": true
+    },
+    {
+      "episode": "EP01",
+      "file": "EP01_Rearview_Mirror/01_Reference_Images/S01_F03.png",
+      "sha256": "85e86f7aaf3c970e6d096f1d1175ac5ce191d13d3df452e7dab881073997fb3b",
+      "updated_in_v6": true
+    },
+    {
+      "episode": "EP01",
+      "file": "EP01_Rearview_Mirror/01_Reference_Images/S01_F04.png",
+      "sha256": "46855195a0d192af4aac4a9317dba0cb38d4593b653a085ccf4d5ca4a5cfa1c4",
+      "updated_in_v6": true
+    },
+    {
+      "episode": "EP01",
+      "file": "EP01_Rearview_Mirror/01_Reference_Images/S01_F05.png",
+      "sha256": "17c19d04577eacf6d62678c105ade0d84a20261cdb96781e880b8841248e3cbf",
+      "updated_in_v6": true
+    },
+    {
+      "episode": "EP01",
+      "file": "EP01_Rearview_Mirror/01_Reference_Images/S01_F06.png",
+      "sha256": "f1d981e08e7d0577a7c4245b831f6d1276fd16860772db2fe92a20f77d54007b",
+      "updated_in_v6": true
+    },
+    {
+      "episode": "EP01",
+      "file": "EP01_Rearview_Mirror/01_Reference_Images/S01_F07.png",
+      "sha256": "a952126be9d86a4d4d9f66f25c93be03e536813592f324a9ffdf121087342929",
+      "updated_in_v6": true
+    },
+    {
+      "episode": "EP01",
+      "file": "EP01_Rearview_Mirror/01_Reference_Images/S01_F08.png",
+      "sha256": "10a86f7f8913c4919062f9a90e4fb79fbc1836377a086604b2888ccf7e7610d7",
+      "updated_in_v6": true
+    },
+    {
+      "episode": "EP02",
+      "file": "EP02_Hair_Window/01_Reference_Images/S02_F01.png",
+      "sha256": "4acf792ab1086cb9db7062b7041c060daf52a8d6409e32ecaa5e90178e3d00df",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP02",
+      "file": "EP02_Hair_Window/01_Reference_Images/S02_F02.png",
+      "sha256": "1d7e0839f346099857179226219c99a538df40fd3ef0579325f9eda40637e7e7",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP02",
+      "file": "EP02_Hair_Window/01_Reference_Images/S02_F03.png",
+      "sha256": "d3b5f88826311a6207be4d4544f0c0f6e9288f873f843068ae174f9accee115a",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP02",
+      "file": "EP02_Hair_Window/01_Reference_Images/S02_F04.png",
+      "sha256": "06ecf4d4ff87413ba4367913381ac4faaca1ffb900f147ad5e1abe6e9a992d94",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP02",
+      "file": "EP02_Hair_Window/01_Reference_Images/S02_F05.png",
+      "sha256": "c6dcbba2e4ca17f5c2b4d3096be33d0d33b0ec153cefa768785d5c746fc86fcb",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP02",
+      "file": "EP02_Hair_Window/01_Reference_Images/S02_F06.png",
+      "sha256": "c889b308f3fa89df18b7fa038efe6186442e093bededaf5d30d3186c65f55889",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP02",
+      "file": "EP02_Hair_Window/01_Reference_Images/S02_F07.png",
+      "sha256": "62cde2c2a1f3e1dc22d1d9aac806e4d9c4938dede8f87ea23dfdd764e23e2f97",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP02",
+      "file": "EP02_Hair_Window/01_Reference_Images/S02_F08.png",
+      "sha256": "e2260a49ec82b61f8eae78baac67e89a4b9622e7cfcb56b8a428f4a785841235",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP03",
+      "file": "EP03_Push_Door/01_Reference_Images/S03_F01.png",
+      "sha256": "b4e9a7986becb9a2965a524584c4b82971a8e3ed9658c9e3cf8d8f7eb3e2425d",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP03",
+      "file": "EP03_Push_Door/01_Reference_Images/S03_F02.png",
+      "sha256": "c4b70e72af4f25395818c5fa0ecd2d780bd4df150863cc0c30cfdc3243f3d32d",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP03",
+      "file": "EP03_Push_Door/01_Reference_Images/S03_F03.png",
+      "sha256": "8670a5f9d7f641d420c490e005d42c376f0f519e4cbf2de78707062177f873a5",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP03",
+      "file": "EP03_Push_Door/01_Reference_Images/S03_F04.png",
+      "sha256": "0cf6e598223a4eaa2d278d43d770cbd27f434101aaea9401cb6557ad77d61baa",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP03",
+      "file": "EP03_Push_Door/01_Reference_Images/S03_F05.png",
+      "sha256": "8e2b7a2e280afcb2e8aeb5f2c7aed1828655bf400376eb1c3eb962c03b8c9efe",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP03",
+      "file": "EP03_Push_Door/01_Reference_Images/S03_F06.png",
+      "sha256": "19d6bce79e996adbd8de899132cd556f47135ae450bc63eb7b3e974d547b334e",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP03",
+      "file": "EP03_Push_Door/01_Reference_Images/S03_F07.png",
+      "sha256": "80dd27b3f53714519c18f4095c96ed62f5cfecc4718dee6dc42ce72d4c3fae70",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP03",
+      "file": "EP03_Push_Door/01_Reference_Images/S03_F08.png",
+      "sha256": "cf5241343cbf10e30dff011b8f5f1c6437d18a981ff48e32ae291455f9d63db9",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP04",
+      "file": "EP04_Paper_Towel/01_Reference_Images/S04_F01.png",
+      "sha256": "630796fe6114f35a5d3ff018026fcc56efa5326dc298d33976a77f0de4b0e05b",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP04",
+      "file": "EP04_Paper_Towel/01_Reference_Images/S04_F02.png",
+      "sha256": "4b6e52592b32125ebec55b033231b7dc865517fe96a314fb4407da36244d5dd7",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP04",
+      "file": "EP04_Paper_Towel/01_Reference_Images/S04_F03.png",
+      "sha256": "14ec55a9f700f267201b01c63f281783135b848f27431566f3790f8b452dd2a6",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP04",
+      "file": "EP04_Paper_Towel/01_Reference_Images/S04_F04.png",
+      "sha256": "62384fd251875f16242af8af9156003ae62b20c245f77baa878daf14e00e1c7f",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP04",
+      "file": "EP04_Paper_Towel/01_Reference_Images/S04_F05.png",
+      "sha256": "c8e9b94f5cb3c40a9ae89770fd15e0c26ef3b55912508b09f69ece97a6b167b7",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP04",
+      "file": "EP04_Paper_Towel/01_Reference_Images/S04_F06.png",
+      "sha256": "14813a75b8808b03cc06c93e1ba47d20d6620c0f844cb1f73305481986ef9f93",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP04",
+      "file": "EP04_Paper_Towel/01_Reference_Images/S04_F07.png",
+      "sha256": "2f3f8ae1cde93c05e6b942d375fa9b209f1b348945177c03032f00947945a0c4",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP04",
+      "file": "EP04_Paper_Towel/01_Reference_Images/S04_F08.png",
+      "sha256": "f4802daa386eb42a1459391f1236cfc7891ad1730ab4aac037a18c7aad9e9597",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP05",
+      "file": "EP05_Shirt_Door/01_Reference_Images/S05_F01.png",
+      "sha256": "abb99a22a5d87ec73742a6d7fe68dea3d58d4ad75a30a2a190b719b7adc1ca42",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP05",
+      "file": "EP05_Shirt_Door/01_Reference_Images/S05_F02.png",
+      "sha256": "3bc87647049acdaabfc375baec8151619aa470f232fa42e2739c3b7b3416bb33",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP05",
+      "file": "EP05_Shirt_Door/01_Reference_Images/S05_F03.png",
+      "sha256": "c258238500c23a78695b3ed961f8711a4f0dd96e3b668f7cbe5b7c32e90758c6",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP05",
+      "file": "EP05_Shirt_Door/01_Reference_Images/S05_F04.png",
+      "sha256": "c075bdc412e1a28447cd75e8b7c1ab875ad6c2af674113b0a01eaf413566297d",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP05",
+      "file": "EP05_Shirt_Door/01_Reference_Images/S05_F05.png",
+      "sha256": "17170c3d60532d89932129d4496eb658e03fe094cb493c4b0b237a3404ae9df8",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP05",
+      "file": "EP05_Shirt_Door/01_Reference_Images/S05_F06.png",
+      "sha256": "e07631cb9af18851824d98a2e20454dfff37e0c17898599b2aa258ada36b5fca",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP05",
+      "file": "EP05_Shirt_Door/01_Reference_Images/S05_F07.png",
+      "sha256": "e62d85da56af37080659f97a4c77db79cecb3f7a1865b684df32c9d308548a07",
+      "updated_in_v6": false
+    },
+    {
+      "episode": "EP05",
+      "file": "EP05_Shirt_Door/01_Reference_Images/S05_F08.png",
+      "sha256": "c6ae128d855f2844eb968c9cb1c217eddeed152162151ad2613cb814c2dfc40e",
+      "updated_in_v6": false
+    }
+  ]
+}

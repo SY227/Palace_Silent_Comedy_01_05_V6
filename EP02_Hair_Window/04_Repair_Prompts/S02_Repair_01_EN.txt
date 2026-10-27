@@ -1,0 +1,28 @@
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+
+Create a wordless vertical 9:16 repair source shot for this same episode. Its action window will occupy 3 seconds in the final edit, replacing full-film 0-3s; it is not a new episode. All action-cue times are LOCAL to this source clip; reference provenance uses explicitly stated full-film times. Local 0 equals full-film 0s. If source duration is longer, hold the finished END STATE afterward with no additional action.
+
+INPUTS
+Attach these scene images in order: S02_F01.png, S02_F02.png, S02_F03.png. Start from S02_F01.png; if an explicit first-frame control exists, place only that image there. Remaining files guide subsequent states, not automatic time pins. If a last-frame control is available, S02_F03.png is the end-state target. Otherwise use it as visual guidance only.
+
+START STATE at local 0
+Same continuous hair tips are caught in the raised driver-window upper edge. Driver RIGHT hand approaches the single closed red scissors in her open lap bag.
+
+LOCAL ACTION
+Local 0-1.5 seconds: Trapped hair tips are visibly taut without injury or neck strain. The driver looks from them to her lap bag, brow pinched, reaches in with RIGHT and brings the CLOSED red scissors to low chest height by 1.5 seconds, well away from hair and face. Heroine watches neutrally.
+
+Local 1.5-3 seconds: The driver briefly considers the already-raised CLOSED scissors, then returns them inside the same bag by 3 seconds. Heroine looks from scissors to the outboard rocker, raises one eyebrow slightly, and establishes a short RIGHT-index point toward it from her own seat by 3 seconds.
+
+END STATE at local 3s
+Closed scissors are already inside the lap bag; driver RIGHT may rest on their handles there. Heroine RIGHT index points from her own side toward the outboard switch without touching it or crossing the driver torso.
+
+CONTINUITY
+Driver LEFT operates the outboard rocker; heroine RIGHT only points from her own side. Glass descends only after real switch contact; keep the same intact strand. Scissors stay closed and return to bag before operation. Never reset freed hair or a lowered window in a later section. Preserve accepted character identity, styling and camera axis.
+
+PERFORMANCE AND SOUND
+One dominant facial cue per beat, eyes targeting the problem/control/result/redundant method. No premature relief, repeated mutual gaze, dialogue, readable text or new gesture. Generate no audio; music and synchronized object Foley are added separately in post. Preserve the complete film at 15 seconds in the final edit.
+
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.

@@ -1,0 +1,28 @@
+SILENT VISUAL FOOTAGE ONLY. Neither character speaks. Keep both mouths softly CLOSED for the entire shot: no lip-sync, word-shaped mouth movements, moving jaw, visible teeth or tongue, open-mouth laughter, gasps, sighs or other human utterances. Act only through eyes, eyebrows, small head movements and posture. Generate NO AUDIO: no voice, narration, music or sound effects. The soundtrack is added separately in post.
+
+Create a wordless vertical 9:16 repair source shot for this same episode. Its action window will occupy 4 seconds in the final edit, replacing full-film 3-7s; it is not a new episode. All action-cue times are LOCAL to this source clip; reference provenance uses explicitly stated full-film times. Local 0 equals full-film 3s. If source duration is longer, hold the finished END STATE afterward with no additional action.
+
+INPUTS
+Attach these scene images in order: S02_F03.png, S02_F04.png, S02_F05.png. Start from S02_F03.png; if an explicit first-frame control exists, place only that image there. Remaining files guide subsequent states, not automatic time pins. If a last-frame control is available, S02_F05.png is the end-state target. Otherwise use it as visual guidance only.
+
+START STATE at local 0
+Closed scissors are already inside the lap bag; driver RIGHT may rest on their handles there. Heroine RIGHT index points from her own side toward the outboard switch without touching it or crossing the driver torso.
+
+LOCAL ACTION
+Local 0-2 seconds: Continue that short point from her own side without crossing the driver torso. Scissors stay in the bag; driver RIGHT may rest on their handles there. Driver eyes follow the point, then LEFT index reaches the actual rocker by 2 seconds. Glass is still raised and hair caught at contact.
+
+Local 2-4 seconds: The driver presses once with her LEFT index. Only then does the same glass descend in its tracks, top edge visibly separating from the hair tips. By 4 seconds the intact strand has fallen free onto her shoulder; her brow starts to soften after release, LEFT still pressing.
+
+END STATE at local 4s
+Driver LEFT still presses the rocker. The same glass is descending and its top edge has cleared the same intact strand, which falls onto her shoulder; scissors remain in bag.
+
+CONTINUITY
+Driver LEFT operates the outboard rocker; heroine RIGHT only points from her own side. Glass descends only after real switch contact; keep the same intact strand. Scissors stay closed and return to bag before operation. Never reset freed hair or a lowered window in a later section. Preserve accepted character identity, styling and camera axis.
+
+PERFORMANCE AND SOUND
+One dominant facial cue per beat, eyes targeting the problem/control/result/redundant method. No premature relief, repeated mutual gaze, dialogue, readable text or new gesture. Generate no audio; music and synchronized object Foley are added separately in post. Preserve the complete film at 15 seconds in the final edit.
+
+REJECT if either mouth opens or forms words, even when the clip is muted. Removing audio cannot repair visible talking. No written message, subtitles, captions, labels, logo, product mention or game interface.
+
+Preserve existing glass transparency and reflection geometry. Do not invent reflected faces, duplicate people or impossible mirrored rooms. Keep incidental reflections simple and stable.
+Generate no audio; no dialogue, narration or human utterances. Do not supply voice references or reference_audios. Jazz and clean object Foley are added separately in post after discarding source audio.

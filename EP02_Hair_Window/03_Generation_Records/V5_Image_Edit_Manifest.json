@@ -1,0 +1,154 @@
+{
+  "episode": "EP02",
+  "revision": "V5",
+  "message_en": "Lower the window; do not cut the hair.",
+  "frames": [
+    {
+      "file": "S02_F01.png",
+      "time_seconds": 0,
+      "actual_state_en": "Raised driver window holds one continuous strand at upper seam. Driver RIGHT hand reaches closed scissors in lap bag; LEFT hand near hair. Heroine hands rest own lap.",
+      "expression_en": "Driver concerned knitted inner brow and pressed lips; heroine attentive neutral mouth, no premature smile.",
+      "eye_target_en": "Driver eyes up-right toward trapped strand; heroine watches problem.",
+      "hand_ownership_en": "Heroine both own lap. Driver RIGHT scissors handles inside bag, LEFT near hair.",
+      "generation_prompt": "Use case: identity-preserve. This is a precise acting polish of the provided approved animation reference still. Keep the exact composition, vertical 9:16 framing, both original adult women's identity and anatomy, existing face structure, brown eyes, heroine compact braided side bun and coral ribbon, ivory gold robe jade dress coral sash clerk tag, driver rust blouse and jeans, all hand and limb positions, car geometry, window glass and trapped/free hair state, scissors, lap bag, lighting, rendering quality and background completely unchanged. Do not redesign anything. Modify only very subtle facial expression and pupils/gaze as specified. Hands may only receive tiny clarity changes where explicitly specified. Warm, patient, credible silent comedy: not romance, no smugness, no exaggerated cartoon mugging. No text/captions/logos, no new props or people. Match source resolution and aspect ratio. FRAME 01 opening problem, hair still clearly trapped at raised window upper seam. Driver eyes look UP and RIGHT at her own visibly trapped strand, brows lightly drawn upward and together, lips gently pressed in concern rather than open-mouth panic. Driver right hand remains on closed red scissors inside bag, left hand near hair as source. Heroine watches the trapped hair with neutral attentive eyes, relaxed mouth CLOSED with no smile yet; soften existing smile. Keep all exact physical source states.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP02_Hair_Window/01_Reference_Images/S02_F01.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-8b6d6fe7-49f7-4e45-9ee2-c9bf6d3b8904.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep02/01_Reference_Images/S02_F01.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "4acf792ab1086cb9db7062b7041c060daf52a8d6409e32ecaa5e90178e3d00df"
+    },
+    {
+      "file": "S02_F02.png",
+      "time_seconds": 1.5,
+      "actual_state_en": "Same hair caught and glass up. Driver RIGHT holds closed red scissors low at chest, blade down away from head; LEFT near hair. Heroine hands on lap.",
+      "expression_en": "Driver earnestly considers scissors with doubtful brow and closed lips. Heroine one eyebrow lightly raised, no smirk.",
+      "eye_target_en": "Driver eyes down toward low scissors; heroine pupils toward scissors.",
+      "hand_ownership_en": "Heroine both own lap. Driver RIGHT closed scissors low chest, LEFT near hair.",
+      "generation_prompt": "Use case: identity-preserve. This is a precise acting polish of the provided approved animation reference still. Keep the exact composition, vertical 9:16 framing, both original adult women's identity and anatomy, existing face structure, brown eyes, heroine compact braided side bun and coral ribbon, ivory gold robe jade dress coral sash clerk tag, driver rust blouse and jeans, all hand and limb positions, car geometry, window glass and trapped/free hair state, scissors, lap bag, lighting, rendering quality and background completely unchanged. Do not redesign anything. Modify only very subtle facial expression and pupils/gaze as specified. Hands may only receive tiny clarity changes where explicitly specified. Warm, patient, credible silent comedy: not romance, no smugness, no exaggerated cartoon mugging. No text/captions/logos, no new props or people. Match source resolution and aspect ratio. FRAME 02 mistaken solution. Driver holds same CLOSED red scissors safely low with RIGHT hand, eyes aimed down toward scissors, one doubtful knitted brow, lips compressed as if reconsidering. Driver left hand remains near hair; hair still trapped. Heroine gives one restrained eyebrow lift while her pupils are aimed down-right toward red scissors rather than at driver's eyes; closed neutral lips. No smiling. Keep source hands and scissors pose and all geometry exactly.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP02_Hair_Window/01_Reference_Images/S02_F02.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-a9cabc56-09f4-48e5-a807-0d3865982587.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep02/01_Reference_Images/S02_F02.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "1d7e0839f346099857179226219c99a538df40fd3ef0579325f9eda40637e7e7"
+    },
+    {
+      "file": "S02_F03.png",
+      "time_seconds": 3,
+      "actual_state_en": "Hair caught, window fully up, scissors returned inside bag under driver RIGHT hand. Heroine RIGHT index points from own side. Driver LEFT index approaches rocker with visible gap.",
+      "expression_en": "Both closed-mouth concentration; driver brow slightly eased but not relieved, heroine neutral.",
+      "eye_target_en": "Both eyes down-right toward outboard rocker, driver follows pointing direction.",
+      "hand_ownership_en": "Heroine RIGHT points, LEFT lap. Driver LEFT approaching rocker, RIGHT scissors handles in bag.",
+      "generation_prompt": "Use case: identity-preserve. This is a precise acting polish of the provided approved animation reference still. Keep the exact composition, vertical 9:16 framing, both original adult women's identity and anatomy, existing face structure, brown eyes, heroine compact braided side bun and coral ribbon, ivory gold robe jade dress coral sash clerk tag, driver rust blouse and jeans, all hand and limb positions, car geometry, window glass and trapped/free hair state, scissors, lap bag, lighting, rendering quality and background completely unchanged. Do not redesign anything. Modify only very subtle facial expression and pupils/gaze as specified. Hands may only receive tiny clarity changes where explicitly specified. Warm, patient, credible silent comedy: not romance, no smugness, no exaggerated cartoon mugging. No text/captions/logos, no new props or people. Match source resolution and aspect ratio. FRAME 03 discovering switch. Hair remains caught, glass fully up; scissors inside bag, driver RIGHT hand rests on handles there. Heroine RIGHT index points toward driver outboard switch from her own side; preserve exact pointing pose. Driver LEFT index is approaching switch; preserve tiny visible gap before contact if source already almost touches. Both women's eyes look down-right toward actual far-screen-right window rocker. Both mouths closed, neutral focused expressions, no smiles. Driver brow tension eases only slightly, no relief yet.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP02_Hair_Window/01_Reference_Images/S02_F03.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-d5f5ac89-afa4-4648-a6b2-6de909338a69.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep02/01_Reference_Images/S02_F03.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "d3b5f88826311a6207be4d4544f0c0f6e9288f873f843068ae174f9accee115a"
+    },
+    {
+      "file": "S02_F04.png",
+      "time_seconds": 5,
+      "actual_state_en": "Same raised glass and caught hair. Driver LEFT fingertip visibly contacts the rocker; RIGHT rests on scissors inside bag; heroine RIGHT still points.",
+      "expression_en": "Driver focused with one eyebrow gently elevated; heroine patient neutral expression.",
+      "eye_target_en": "Driver eyes on rocker beneath LEFT fingertip; heroine follows control area.",
+      "hand_ownership_en": "Heroine RIGHT points, LEFT lap. Driver LEFT index contact rocker, RIGHT in bag.",
+      "generation_prompt": "Use case: identity-preserve. This is a precise acting polish of the provided approved animation reference still. Keep the exact composition, vertical 9:16 framing, both original adult women's identity and anatomy, existing face structure, brown eyes, heroine compact braided side bun and coral ribbon, ivory gold robe jade dress coral sash clerk tag, driver rust blouse and jeans, all hand and limb positions, car geometry, window glass and trapped/free hair state, scissors, lap bag, lighting, rendering quality and background completely unchanged. Do not redesign anything. Modify only very subtle facial expression and pupils/gaze as specified. Hands may only receive tiny clarity changes where explicitly specified. Warm, patient, credible silent comedy: not romance, no smugness, no exaggerated cartoon mugging. No text/captions/logos, no new props or people. Match source resolution and aspect ratio. FRAME 04 contact. Hair still caught and glass still fully up. Driver LEFT index visibly touches actual existing rocker with its fingertip. Scissors are in bag under RIGHT hand, heroine RIGHT index still points from her own side. Both gazes target the rocker, faces calm concentrated, closed mouths. Driver one brow subtly lifted in cautious curiosity; heroine patient neutral face with no premature grin. Preserve exact hand positions, glass, trapped strand and every object.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP02_Hair_Window/01_Reference_Images/S02_F04.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-8d0df381-2604-4e8b-971d-8a72b5667455.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep02/01_Reference_Images/S02_F04.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "06ecf4d4ff87413ba4367913381ac4faaca1ffb900f147ad5e1abe6e9a992d94"
+    },
+    {
+      "file": "S02_F05.png",
+      "time_seconds": 7,
+      "actual_state_en": "Glass begins lowering with top edge above F06 state. Same continuous hair now free, a few fine strands still settling. Driver LEFT keeps pressing rocker, RIGHT in bag. Heroine hands back own lap.",
+      "expression_en": "Driver eyebrows begin to soften after release, small closed mouth; heroine faint satisfaction.",
+      "eye_target_en": "Driver eyes up-right toward released hair/window. Heroine eyes toward hair release.",
+      "hand_ownership_en": "Heroine both lap. Driver LEFT index still presses rocker, RIGHT in bag.",
+      "generation_prompt": "Use case: identity-preserve. This is a precise acting polish of the provided approved animation reference still. Keep the exact composition, vertical 9:16 framing, both original adult women's identity and anatomy, existing face structure, brown eyes, heroine compact braided side bun and coral ribbon, ivory gold robe jade dress coral sash clerk tag, driver rust blouse and jeans, all hand and limb positions, car geometry, window glass and trapped/free hair state, scissors, lap bag, lighting, rendering quality and background completely unchanged. Do not redesign anything. Modify only very subtle facial expression and pupils/gaze as specified. Hands may only receive tiny clarity changes where explicitly specified. Warm, patient, credible silent comedy: not romance, no smugness, no exaggerated cartoon mugging. No text/captions/logos, no new props or people. Match source resolution and aspect ratio. FRAME 05 release begins. Preserve source's partially lowered glass top edge and same freed strand already falling to shoulder; driver's LEFT index remains pressing existing rocker; RIGHT hand stays on scissors handles inside bag. Heroine hands back own lap as source. Driver gaze shifts UP-RIGHT to lowered glass and released hair, brows starting to release from tension, lips small and closed, small quiet realization rather than gasp or broad smile. Heroine watches the freed strand with attentive eyes and only the faint beginning of satisfaction; mouth remains mostly neutral. Do not alter lowered glass height.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP02_Hair_Window/01_Reference_Images/S02_F05.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-81305a21-2cb9-41f8-bf3d-de232f5b1385.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep02/01_Reference_Images/S02_F05.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "c6dcbba2e4ca17f5c2b4d3096be33d0d33b0ec153cefa768785d5c746fc86fcb"
+    },
+    {
+      "file": "S02_F06.png",
+      "time_seconds": 9,
+      "actual_state_en": "Glass halfway down; intact hair free at shoulder. Driver LEFT fingertips lightly check strand; RIGHT on scissors handles in bag. Heroine hands rest own lap.",
+      "expression_en": "Driver quiet closed-mouth relieved smile and open brows, replacing broad grin. Heroine restrained warm smile.",
+      "eye_target_en": "Driver eyes on freed strand under fingers; heroine eyes toward result.",
+      "hand_ownership_en": "Heroine both lap. Driver LEFT checks strand, RIGHT in bag.",
+      "generation_prompt": "Use case: identity-preserve. This is a precise acting polish of the provided approved animation reference still. Keep the exact composition, vertical 9:16 framing, both original adult women's identity and anatomy, existing face structure, brown eyes, heroine compact braided side bun and coral ribbon, ivory gold robe jade dress coral sash clerk tag, driver rust blouse and jeans, all hand and limb positions, car geometry, window glass and trapped/free hair state, scissors, lap bag, lighting, rendering quality and background completely unchanged. Do not redesign anything. Modify only very subtle facial expression and pupils/gaze as specified. Hands may only receive tiny clarity changes where explicitly specified. Warm, patient, credible silent comedy: not romance, no smugness, no exaggerated cartoon mugging. No text/captions/logos, no new props or people. Match source resolution and aspect ratio. FRAME 06 verifying result. Keep source glass halfway lowered, free intact hair, driver LEFT hand lightly checks hair at shoulder, RIGHT rests on scissors handles in bag; heroine hands on own lap. Driver eyes look to the freed strand under her fingertips, brows open in relieved recognition, mouth CLOSED with only a restrained tiny relieved smile, replacing the source broad open-mouth smile. Heroine eyes target the freed strand, tiny warm closed smile allowed only now. All physical states unchanged.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP02_Hair_Window/01_Reference_Images/S02_F06.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-c9d8d3a3-827e-418e-8a8d-6f9cf44d1b24.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep02/01_Reference_Images/S02_F06.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "c889b308f3fa89df18b7fa038efe6186442e093bededaf5d30d3186c65f55889"
+    },
+    {
+      "file": "S02_F07.png",
+      "time_seconds": 11.5,
+      "actual_state_en": "Glass halfway down, hair free. Driver LEFT fingers at strand; RIGHT on unused scissors in bag. Both remain seated forward.",
+      "expression_en": "Driver small chin dip and sheepish pressed-lip asymmetrical smile; heroine mild kind corner smile.",
+      "eye_target_en": "Driver eyes down to red scissors in bag. Heroine gaze low toward same unused prop, not reciprocal eye contact.",
+      "hand_ownership_en": "Heroine both lap. Driver LEFT checks strand, RIGHT in bag.",
+      "generation_prompt": "Use case: identity-preserve. This is a precise acting polish of the provided approved animation reference still. Keep the exact composition, vertical 9:16 framing, both original adult women's identity and anatomy, existing face structure, brown eyes, heroine compact braided side bun and coral ribbon, ivory gold robe jade dress coral sash clerk tag, driver rust blouse and jeans, all hand and limb positions, car geometry, window glass and trapped/free hair state, scissors, lap bag, lighting, rendering quality and background completely unchanged. Do not redesign anything. Modify only very subtle facial expression and pupils/gaze as specified. Hands may only receive tiny clarity changes where explicitly specified. Warm, patient, credible silent comedy: not romance, no smugness, no exaggerated cartoon mugging. No text/captions/logos, no new props or people. Match source resolution and aspect ratio. FRAME 07 unnecessary scissors realization. Keep source glass halfway down, hair free, driver LEFT hand at freed hair and RIGHT on closed scissors handles inside lap bag. Driver pupils look DOWN toward clearly visible red scissors in bag, small chin dip, one rueful slightly raised inner brow, lips gently pressed into a small asymmetrical embarrassed half-smile: 'I nearly cut it for nothing'. Heroine pupils also glance toward unused scissors, tiny knowing corner smile, patient not mocking; no reciprocal romantic gaze. Keep exact source framing and all anatomy.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP02_Hair_Window/01_Reference_Images/S02_F07.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-dd4aad4a-eae3-4168-b615-9a79fd3d51e4.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep02/01_Reference_Images/S02_F07.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "62cde2c2a1f3e1dc22d1d9aac806e4d9c4938dede8f87ea23dfdd764e23e2f97"
+    },
+    {
+      "file": "S02_F08.png",
+      "time_seconds": 15,
+      "actual_state_en": "Same halfway lowered glass and free hair. Heroine empty flat palms joined lower sternum, shallow bow forward over own lap. Driver retains hands in own space.",
+      "expression_en": "Heroine softened eyes, calm closed smile during small bow. Driver sheepish pressed-lip smile, no loving gaze.",
+      "eye_target_en": "Heroine eyes lowered to own hands/lap. Driver gaze down toward unused scissors in own bag.",
+      "hand_ownership_en": "Heroine both empty hands joined. Driver LEFT strand, RIGHT in bag.",
+      "generation_prompt": "Use case: identity-preserve. This is a precise acting polish of the provided approved animation reference still. Keep the exact composition, vertical 9:16 framing, both original adult women's identity and anatomy, existing face structure, brown eyes, heroine compact braided side bun and coral ribbon, ivory gold robe jade dress coral sash clerk tag, driver rust blouse and jeans, all hand and limb positions, car geometry, window glass and trapped/free hair state, scissors, lap bag, lighting, rendering quality and background completely unchanged. Do not redesign anything. Modify only very subtle facial expression and pupils/gaze as specified. Hands may only receive tiny clarity changes where explicitly specified. Warm, patient, credible silent comedy: not romance, no smugness, no exaggerated cartoon mugging. No text/captions/logos, no new props or people. Match source resolution and aspect ratio. FRAME 08 signature. Keep source empty palms-together at lower sternum and shallow forward bow over heroine OWN lap, hips and knees forward, no lean into driver. Heroine eyes lowered naturally, gentle CLOSED smile, relaxed brow, dignified tiny bow not praying intensely. Driver retains LEFT fingers at now-free hair and RIGHT hand by unused scissors inside bag, glances down to scissors with a small sheepish pressed-lip smile (not staring lovingly at heroine). Preserve glass halfway down and all source geometry and clothing.",
+      "source_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/baseline/Palace_Silent_Comedy_01_05_V4/EP02_Hair_Window/01_Reference_Images/S02_F08.png",
+      "generated_path": "/workspace/scratch/c4a24f1a7d94/generated_images/exec-f14a0203-b167-43d7-b655-cb09ff6ebff9.png",
+      "final_path": "/workspace/scratch/c4a24f1a7d94/tmp/v5/art_ep02/01_Reference_Images/S02_F08.png",
+      "dimensions": [
+        941,
+        1672
+      ],
+      "sha256": "e2260a49ec82b61f8eae78baac67e89a4b9622e7cfcb56b8a428f4a785841235"
+    }
+  ],
+  "qa": {
+    "all_eight_genuinely_edited": true,
+    "all_eight_visually_reviewed": true,
+    "physical_sequence": "Pass static review: caught hair F01-F04, actual switch contact F04, glass lowered before free hair F05, monotonic window descent F05-F06, intact hair and unused scissors thereafter.",
+    "expression_sequence": "Concern -> over-serious scissors consideration -> focused switch action -> delayed relief -> sheepish realization -> signature.",
+    "minor_observations": [
+      "F05 includes a few fine free hair strands still settling in air; all main hair stays connected, not caught or severed.",
+      "All poses and hand ownership remain consistent with V4. New rendered motion has not been tested."
+    ],
+    "hard_blockers": []
+  }
+}
